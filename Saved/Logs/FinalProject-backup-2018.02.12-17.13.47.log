@@ -1,0 +1,1064 @@
+﻿Log file open, 02/09/18 17:00:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FinalProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-37326053) SRandInit(-37326053).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.181336
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceCore.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceSource.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceLiveLink.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Ari/Program Files/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.09-08.00.56:971][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.09-08.00.56:971][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.09-08.00.57:036][  0]LogInit: Computer: JAEBUM-PC
+[2018.02.09-08.00.57:036][  0]LogInit: User: ar981
+[2018.02.09-08.00.57:036][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.09-08.00.57:036][  0]LogInit: High frequency timer resolution =2.435777 MHz
+[2018.02.09-08.00.57:036][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.02.09-08.00.57:036][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.09-08.00.57:036][  0]LogMemory: Process Physical Memory: 272.96 MB used, 272.96 MB peak
+[2018.02.09-08.00.57:036][  0]LogMemory: Process Virtual Memory: 264.03 MB used, 264.03 MB peak
+[2018.02.09-08.00.57:036][  0]LogMemory: Physical Memory: 5233.74 MB used,  2837.20 MB free, 8070.93 MB total
+[2018.02.09-08.00.57:036][  0]LogMemory: Virtual Memory: 662.04 MB used,  2837.20 MB free, 134217728.00 MB total
+[2018.02.09-08.00.57:219][  0]LogInit: Using OS detected language (ko-KR).
+[2018.02.09-08.00.57:219][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.02.09-08.00.57:314][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.02.09-08.00.57:631][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.09-08.00.58:518][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.09-08.00.58:593][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 850M' (Feature Level 11_0)
+[2018.02.09-08.00.58:593][  0]LogD3D11RHI:       2019/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.02.09-08.00.58:599][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.02.09-08.00.58:599][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.09-08.00.58:602][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.09-08.00.58:602][  0]LogD3D11RHI:       0/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.09-08.00.58:602][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.09-08.00.58:610][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.09-08.00.58:610][  0]LogD3D11RHI:     GPU DeviceId: 0x1391 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.09-08.00.58:610][  0]LogWindows: EnumDisplayDevices:
+[2018.02.09-08.00.58:610][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.02.09-08.00.58:610][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2018.02.09-08.00.58:610][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.02.09-08.00.58:611][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.09-08.00.58:611][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 850M
+[2018.02.09-08.00.58:611][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.09-08.00.58:611][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.09-08.00.58:611][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2018.02.09-08.00.58:644][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.09-08.00.58:659][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.09-08.00.58:660][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../Unreal Projects/FinalProject/Intermediate/Shaders/WorkingDirectory/12336/).
+[2018.02.09-08.00.58:660][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ar981/AppData/Local/Temp/UnrealShaderWorkingDir/A362916940DA7E2B4AB1AE848DFE0640/'.
+[2018.02.09-08.00.58:660][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.09-08.00.59:884][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.09-08.00.59:936][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.09-08.00.59:989][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.09-08.01.00:050][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.09-08.01.00:156][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.09-08.01.00:209][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.09-08.01.00:268][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.09-08.01.00:332][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.09-08.01.00:377][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.09-08.01.00:426][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.09-08.01.00:474][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.09-08.01.00:524][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.09-08.01.00:575][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.09-08.01.00:624][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.09-08.01.00:726][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.09-08.01.00:726][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.09-08.01.00:830][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.09-08.01.00:869][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.09-08.01.00:971][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.09-08.01.00:995][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.09-08.01.01:046][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.09-08.01.01:096][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.09-08.01.01:148][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.09-08.01.01:212][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.09-08.01.01:212][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.09-08.01.01:660][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.09-08.01.02:286][  0]LogDerivedDataCache: Loaded boot cache 0.62s 78MB C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.09-08.01.02:286][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.09-08.01.02:286][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/FinalProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.09-08.01.02:286][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.09-08.01.02:286][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/FinalProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.09-08.01.02:286][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.09-08.01.02:305][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.09-08.01.02:319][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ar981/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.09-08.01.02:330][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.09-08.01.02:331][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.09-08.01.02:349][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.09-08.01.02:349][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.09-08.01.04:848][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.09-08.01.05:288][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.09-08.01.05:327][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.09-08.01.05:327][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.09-08.01.05:327][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.09-08.01.05:327][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.09-08.01.05:327][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.09-08.01.05:384][  0]LogNetVersion: FinalProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1186961665)
+[2018.02.09-08.01.05:578][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2018.02.09-08.01.06:229][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.077536 seconds
+[2018.02.09-08.01.06:236][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.09-08.01.06:236][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.02.09-08.01.06:236][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.09-08.01.06:318][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.09-08.01.33:526][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2018.02.09-08.01.33:635][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.09-08.01.33:714][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.09-08.01.34:806][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.09-08.01.35:399][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.02.09-08.01.37:908][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.09-08.01.38:351][  0]LogOcInput: OculusInput pre-init called
+[2018.02.09-08.01.39:470][  0]LogEngine: Initializing Engine...
+[2018.02.09-08.01.39:474][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.02.09-08.01.39:761][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.09-08.01.39:762][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.09-08.01.40:010][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.09-08.01.40:033][  0]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.09-08.01.40:060][  0]LogInit: FAudioDevice initialized.
+[2018.02.09-08.01.40:266][  0]LogDerivedDataCache: Saved boot cache 0.21s 78MB C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.09-08.01.40:283][  0]LogInit: Texture streaming: Enabled
+[2018.02.09-08.01.40:474][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.09-08.01.40:654][  0]LogInit: Transaction tracking system initialized
+[2018.02.09-08.01.41:074][  0]BlueprintLog: New page: 에디터 로드
+[2018.02.09-08.01.42:231][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.02.09-08.01.43:055][  0]LogConsoleResponse: Display: 
+[2018.02.09-08.01.43:303][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.09-08.01.43:303][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.09-08.01.43:303][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.09-08.01.43:513][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/' took 0.02s
+[2018.02.09-08.01.44:936][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.09-08.01.44:936][  0]LightingResults: New page: 라이팅 빌드
+[2018.02.09-08.01.44:978][  0]MapCheck: New page: 맵 체크
+[2018.02.09-08.01.44:979][  0]LightingResults: New page: 라이팅 빌드
+[2018.02.09-08.01.45:116][  0]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_basecolor' 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:117][  0]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_basecolor' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:117][  0]LoadErrors: Error: /Game/Custom/Temp/Space_MAT : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Custom/Temp/Space_INST_basecolor
+[2018.02.09-08.01.45:117][  0]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_emissive' 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:117][  0]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_emissive' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:117][  0]LoadErrors: Error: /Game/Custom/Temp/Space_MAT : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Custom/Temp/Space_INST_emissive
+[2018.02.09-08.01.45:117][  0]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_metallic' 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:117][  0]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_metallic' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:117][  0]LoadErrors: Error: /Game/Custom/Temp/Space_MAT : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Custom/Temp/Space_INST_metallic
+[2018.02.09-08.01.45:117][  0]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_normal' 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:117][  0]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_normal' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:117][  0]LoadErrors: Error: /Game/Custom/Temp/Space_MAT : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Custom/Temp/Space_INST_normal
+[2018.02.09-08.01.45:117][  0]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_roughness' 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:118][  0]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_roughness' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:118][  0]LoadErrors: Error: /Game/Custom/Temp/Space_MAT : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Custom/Temp/Space_INST_roughness
+[2018.02.09-08.01.45:118][  0]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_basecolor' 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:118][  0]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_basecolor' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:118][  0]LoadErrors: Error: /Game/Custom/Temp/Space_MAT : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Custom/Temp/Space_INST_basecolor
+[2018.02.09-08.01.45:118][  0]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_emissive' 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:118][  0]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_emissive' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:118][  0]LoadErrors: Error: /Game/Custom/Temp/Space_MAT : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Custom/Temp/Space_INST_emissive
+[2018.02.09-08.01.45:118][  0]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_metallic' 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:118][  0]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_metallic' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:118][  0]LoadErrors: Error: /Game/Custom/Temp/Space_MAT : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Custom/Temp/Space_INST_metallic
+[2018.02.09-08.01.45:118][  0]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_normal' 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:118][  0]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_normal' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:118][  0]LoadErrors: Error: /Game/Custom/Temp/Space_MAT : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Custom/Temp/Space_INST_normal
+[2018.02.09-08.01.45:118][  0]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_roughness' 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:119][  0]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_roughness' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:119][  0]LoadErrors: Error: /Game/Custom/Temp/Space_MAT : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Custom/Temp/Space_INST_roughness
+[2018.02.09-08.01.45:139][  0]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_basecolor' 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:140][  0]LoadErrors: 로드에 실패했습니다. /Game/Custom/Temp/Space_INST_basecolor.Space_INST_basecolor_0 레퍼런싱한 것: MaterialExpressionTextureSampleParameter2D_0
+[2018.02.09-08.01.45:140][  0]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_basecolor' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:140][  0]LoadErrors: 로드에 실패했습니다. /Game/Custom/Temp/Space_INST_basecolor.Space_INST_basecolor_0 레퍼런싱한 것: MaterialExpressionTextureSampleParameter2D_0
+[2018.02.09-08.01.45:140][  0]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_normal' 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:140][  0]LoadErrors: 로드에 실패했습니다. /Game/Custom/Temp/Space_INST_normal.Space_INST_normal_0 레퍼런싱한 것: MaterialExpressionTextureSampleParameter2D_1
+[2018.02.09-08.01.45:140][  0]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_normal' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:140][  0]LoadErrors: 로드에 실패했습니다. /Game/Custom/Temp/Space_INST_normal.Space_INST_normal_0 레퍼런싱한 것: MaterialExpressionTextureSampleParameter2D_1
+[2018.02.09-08.01.45:140][  0]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_roughness' 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:140][  0]LoadErrors: 로드에 실패했습니다. /Game/Custom/Temp/Space_INST_roughness.Space_INST_roughness_0 레퍼런싱한 것: MaterialExpressionTextureSampleParameter2D_2
+[2018.02.09-08.01.45:140][  0]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_roughness' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:140][  0]LoadErrors: 로드에 실패했습니다. /Game/Custom/Temp/Space_INST_roughness.Space_INST_roughness_0 레퍼런싱한 것: MaterialExpressionTextureSampleParameter2D_2
+[2018.02.09-08.01.45:140][  0]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_metallic' 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:140][  0]LoadErrors: 로드에 실패했습니다. /Game/Custom/Temp/Space_INST_metallic.Space_INST_metallic_0 레퍼런싱한 것: MaterialExpressionTextureSampleParameter2D_3
+[2018.02.09-08.01.45:140][  0]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_metallic' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:141][  0]LoadErrors: 로드에 실패했습니다. /Game/Custom/Temp/Space_INST_metallic.Space_INST_metallic_0 레퍼런싱한 것: MaterialExpressionTextureSampleParameter2D_3
+[2018.02.09-08.01.45:141][  0]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_emissive' 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:141][  0]LoadErrors: 로드에 실패했습니다. /Game/Custom/Temp/Space_INST_emissive.Space_INST_emissive_0 레퍼런싱한 것: MaterialExpressionTextureSampleParameter2D_4
+[2018.02.09-08.01.45:141][  0]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_emissive' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.01.45:141][  0]LoadErrors: 로드에 실패했습니다. /Game/Custom/Temp/Space_INST_emissive.Space_INST_emissive_0 레퍼런싱한 것: MaterialExpressionTextureSampleParameter2D_4
+[2018.02.09-08.01.45:163][  0]LogMaterial: Missing cached shader map for material Space_MAT, compiling. 
+[2018.02.09-08.01.45:164][  0]LogMaterial: Warning: D:\Ari\Unreal Projects\FinalProject\Content\Custom\Temp\Space_MAT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.09-08.01.45:164][  0]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.02.09-08.01.45:257][  0]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.09-08.01.45:265][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.09-08.01.45:277][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.09-08.01.45:365][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 87.411ms.
+[2018.02.09-08.01.45:365][  0]LogFileHelpers: Loading map 'TwinStickExampleMap' took 0.429
+[2018.02.09-08.01.45:516][  0]LogCollectionManager: Loaded 0 collections in 0.003164 seconds
+[2018.02.09-08.01.45:611][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Saved/Collections/' took 0.01s
+[2018.02.09-08.01.45:611][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/Developers/ar981/Collections/' took 0.01s
+[2018.02.09-08.01.45:611][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/Collections/' took 0.01s
+[2018.02.09-08.01.45:611][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.09-08.01.45:623][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2377 classes and 525 folders.
+[2018.02.09-08.01.45:694][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.09-08.01.45:797][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.09-08.01.45:847][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.09-08.01.45:967][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.02.09-08.01.45:967][  0]LogLoad: (Engine Initialization) Total time: 61.56 seconds
+[2018.02.09-08.01.45:967][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.09-08.01.45:967][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.09-08.01.45:967][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.09-08.01.46:334][  0]SourceControl: On branch master
+[2018.02.09-08.01.46:334][  0]SourceControl: Changes to be committed:
+[2018.02.09-08.01.46:334][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.02.09-08.01.46:334][  0]SourceControl: 	new file:   Content/Custom/Temp/Space_MAT.uasset
+[2018.02.09-08.01.46:334][  0]SourceControl: Changes not staged for commit:
+[2018.02.09-08.01.46:334][  0]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.02.09-08.01.46:334][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.02.09-08.01.46:334][  0]SourceControl: 	modified:   Content/Custom/Character_BP/Character_BP.uasset
+[2018.02.09-08.01.46:334][  0]SourceControl: 	modified:   Content/Custom/Temp/Space_MAT.uasset
+[2018.02.09-08.01.46:334][  0]SourceControl: 	modified:   Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.02.09-08.01.46:334][  0]SourceControl: 	modified:   Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.02.09-08.01.46:334][  0]SourceControl: 	modified:   FinalProject.uproject
+[2018.02.09-08.01.46:334][  0]SourceControl: Untracked files:
+[2018.02.09-08.01.46:334][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.02.09-08.01.46:334][  0]SourceControl: 	Config/
+[2018.02.09-08.01.46:334][  0]SourceControl: 	Content/Geometry/
+[2018.02.09-08.01.46:334][  0]SourceControl: 	Content/StarterContent/
+[2018.02.09-08.01.46:334][  0]SourceControl: 	Content/TwinStick/
+[2018.02.09-08.01.46:334][  0]SourceControl: 	Intermediate/
+[2018.02.09-08.01.46:334][  0]SourceControl: 	Saved/
+[2018.02.09-08.01.46:335][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.09-08.01.46:348][  0]LogSlate: Took 0.000434 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.09-08.01.46:353][  0]LogSlate: Took 0.004058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.02.09-08.01.46:356][  0]LogSlate: Took 0.001520 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.09-08.01.46:361][  0]LogSlate: Took 0.000384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.09-08.01.46:518][  0]LogRenderer: Reallocating scene render targets to support 292x372 Format 10 NumSamples 1 (Frame:1).
+[2018.02.09-08.01.46:623][  0]LogSlate: Took 0.003502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.09-08.01.46:793][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2018.02.09-08.01.46:824][  1]LogAssetRegistry: Asset discovery search completed in 41.2674 seconds
+[2018.02.09-08.01.46:829][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.09-08.01.46:829][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000071 seconds (updated 0 objects)
+[2018.02.09-08.01.47:470][  3]LogSlate: Took 0.000663 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.09-08.09.13:127][203]LogSlate: Took 0.000775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.09-08.09.13:260][203]LogFactory: FactoryCreateFile: SubstanceInstanceFactory with ReimportSubstanceFactory (0 0 ../../../../Allegorithmic/Substance Designer/6/Space.sbsar)
+[2018.02.09-08.09.27:152][410]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.02.09-08.09.27:156][410]LogMaterial: Missing cached shader map for material Space_MAT, compiling. 
+[2018.02.09-08.09.27:156][410]LogMaterial: Warning: /Engine/Transient.Space_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.09-08.09.27:156][410]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.02.09-08.09.27:659][410]LogSlate: Took 0.000335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.09-08.09.27:791][410]LogMaterial: Missing cached shader map for material Space_MAT, compiling. 
+[2018.02.09-08.09.27:792][410]LogMaterial: Warning: /Engine/Transient.Space_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.09-08.09.27:792][410]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.02.09-08.09.27:796][410]LogMaterial: Missing cached shader map for material Space_MAT, compiling. 
+[2018.02.09-08.09.27:797][410]LogMaterial: Warning: /Engine/Transient.Space_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.09-08.09.27:797][410]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.02.09-08.09.27:829][410]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.02.09-08.09.27:830][410]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2018.02.09-08.09.27:832][410]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.02.09-08.09.27:833][410]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.02.09-08.09.27:834][410]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2018.02.09-08.09.27:840][410]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.02.09-08.09.27:880][410]LogSlate: Took 0.030788 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.09-08.09.28:051][411]LogRenderer: Reallocating scene render targets to support 364x372 Format 10 NumSamples 1 (Frame:1).
+[2018.02.09-08.09.28:152][413]LogSlate: Took 0.014323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.09-08.09.35:477][792]LogMaterial: Missing cached shader map for material Space_MAT, compiling. 
+[2018.02.09-08.09.35:477][792]LogMaterial: Warning: /Engine/Transient.Space_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.09-08.09.35:477][792]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.02.09-08.09.35:493][792]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.02.09-08.09.52:809][323]LogUObjectBase: Warning: NULL object
+[2018.02.09-08.09.55:145][436]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_basecolor' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:145][436]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_basecolor' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:145][436]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_emissive' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:145][436]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_emissive' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:145][436]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_metallic' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:145][436]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_metallic' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:146][436]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_normal' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:146][436]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_normal' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:146][436]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_roughness' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:146][436]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_roughness' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:146][436]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_basecolor' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:146][436]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_basecolor' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:146][436]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_emissive' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:146][436]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_emissive' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:146][436]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_metallic' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:147][436]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_metallic' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:147][436]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_normal' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:147][436]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_normal' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:147][436]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_roughness' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:147][436]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_roughness' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:148][436]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_basecolor' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:148][436]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_basecolor' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:148][436]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_normal' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:148][436]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_normal' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:148][436]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_roughness' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:148][436]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_roughness' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:149][436]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_metallic' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:149][436]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_metallic' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:149][436]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_emissive' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:149][436]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_emissive' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.55:151][436]LogMaterial: Missing cached shader map for material Space_MAT, compiling. 
+[2018.02.09-08.09.55:152][436]LogMaterial: Warning: D:\Ari\Unreal Projects\FinalProject\Content\Custom\Temp\Space_MAT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.09-08.09.55:152][436]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.02.09-08.09.59:215][593]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_basecolor' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:215][593]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_basecolor' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:215][593]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_emissive' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:216][593]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_emissive' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:216][593]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_metallic' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:216][593]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_metallic' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:216][593]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_normal' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:216][593]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_normal' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:216][593]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_roughness' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:216][593]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_roughness' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:216][593]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_basecolor' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:216][593]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_basecolor' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:217][593]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_emissive' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:217][593]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_emissive' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:217][593]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_metallic' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:217][593]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_metallic' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:217][593]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_normal' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:217][593]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_normal' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:217][593]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_roughness' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:217][593]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_roughness' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:218][593]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_basecolor' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:218][593]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_basecolor' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:218][593]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_normal' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:218][593]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_normal' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:218][593]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_roughness' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:219][593]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_roughness' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:219][593]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_metallic' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:219][593]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_metallic' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:219][593]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_emissive' 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:219][593]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_emissive' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.09.59:223][593]LogMaterial: Missing cached shader map for material Space_MAT, compiling. 
+[2018.02.09-08.09.59:224][593]LogMaterial: Warning: D:\Ari\Unreal Projects\FinalProject\Content\Custom\Temp\Space_MAT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.09-08.09.59:224][593]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.02.09-08.10.05:739][880]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_basecolor' 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:739][880]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_basecolor' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:739][880]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_emissive' 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:740][880]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_emissive' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:740][880]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_metallic' 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:740][880]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_metallic' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:740][880]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_normal' 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:740][880]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_normal' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:741][880]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_roughness' 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:741][880]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_roughness' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:741][880]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_basecolor' 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:741][880]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_basecolor' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:741][880]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_emissive' 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:741][880]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_emissive' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:741][880]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_metallic' 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:741][880]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_metallic' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:741][880]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_normal' 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:741][880]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_normal' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:742][880]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_roughness' 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:742][880]LogLinker: Warning: ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT.uasset 로드중 '/Game/Custom/Temp/Space_INST_roughness' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:742][880]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_basecolor' 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:742][880]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_basecolor' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:743][880]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_normal' 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:743][880]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_normal' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:743][880]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_roughness' 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:743][880]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_roughness' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:743][880]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_metallic' 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:743][880]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_metallic' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:744][880]LogLinker: Warning: '/Game/Custom/Temp/Space_INST_emissive' 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:744][880]LogLinker: Warning: NULL 로드중 '/Game/Custom/Temp/Space_INST_emissive' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.09-08.10.05:746][880]LogMaterial: Missing cached shader map for material Space_MAT, compiling. 
+[2018.02.09-08.10.05:746][880]LogMaterial: Warning: D:\Ari\Unreal Projects\FinalProject\Content\Custom\Temp\Space_MAT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.09-08.10.05:746][880]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.02.09-08.10.15:822][294]LogFactory: FactoryCreateFile: SubstanceInstanceFactory with ReimportSubstanceFactory (0 0 ../../../../Allegorithmic/Substance Designer/6/Space.sbsar)
+[2018.02.09-08.10.20:399][294]LogMaterial: Missing cached shader map for material Space_MAT1, compiling. 
+[2018.02.09-08.10.23:911][479]LogMaterial: Missing cached shader map for material Space_MAT1, compiling. 
+[2018.02.09-08.10.24:104][479]LogMaterial: Missing cached shader map for material Space_MAT1, compiling. 
+[2018.02.09-08.10.24:148][479]LogMaterial: Missing cached shader map for material Space_MAT1, compiling. 
+[2018.02.09-08.10.24:211][479]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.02.09-08.10.24:220][479]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2018.02.09-08.10.24:230][479]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.02.09-08.10.24:241][479]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.02.09-08.10.24:249][479]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2018.02.09-08.10.27:526][564]MaterialEditorStats: Base pass shader: 119 instructions
+[2018.02.09-08.10.27:526][564]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2018.02.09-08.10.27:526][564]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.09-08.10.27:526][564]MaterialEditorStats: Texture samplers: 7/16
+[2018.02.09-08.10.27:526][564]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.09-08.11.47:002][400]LogSavePackage: Save=133.00ms
+[2018.02.09-08.11.47:002][400]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_Auto1EF2DEA1D4350A1B6BC262BBC8A2CC86B.tmp' to '../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto1.umap'
+[2018.02.09-08.11.47:022][400]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto1.umap
+[2018.02.09-08.11.47:024][400]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.176
+[2018.02.09-08.11.47:024][400]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.176
+[2018.02.09-08.11.47:028][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom/Temp/Space] ([1] browsable assets)...
+[2018.02.09-08.11.47:029][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/Temp/Space]
+[2018.02.09-08.11.47:029][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Temp/Space" FILE="../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Temp/Space_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.02.09-08.11.47:032][400]LogSavePackage: Save=1.55ms
+[2018.02.09-08.11.47:032][400]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Space_Auto18DCA6CA641CF7480150029AC1A341F8C.tmp' to '../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Temp/Space_Auto1.uasset'
+[2018.02.09-08.11.47:035][400]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Temp/Space_Auto1.uasset
+[2018.02.09-08.11.47:036][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom/Temp/Space_INST_normal] ([1] browsable assets)...
+[2018.02.09-08.11.47:045][400]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Custom/Temp/Space_INST_normal.Space_INST_normal_0]
+[2018.02.09-08.11.47:045][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/Temp/Space_INST_normal]
+[2018.02.09-08.11.47:052][400]LogSavePackage: Save=5.42ms
+[2018.02.09-08.11.47:052][400]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Space_INST_normal_Auto1DACB07804A5262A4DBA13C9666C1CB83.tmp' to '../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Temp/Space_INST_normal_Auto1.uasset'
+[2018.02.09-08.11.47:055][400]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Temp/Space_INST_normal_Auto1.uasset
+[2018.02.09-08.11.47:056][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom/Temp/Space_INST_roughness] ([1] browsable assets)...
+[2018.02.09-08.11.47:062][400]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Custom/Temp/Space_INST_roughness.Space_INST_roughness_0]
+[2018.02.09-08.11.47:062][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/Temp/Space_INST_roughness]
+[2018.02.09-08.11.47:069][400]LogSavePackage: Save=5.53ms
+[2018.02.09-08.11.47:069][400]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Space_INST_roughness_Auto1507A0D084C3AE2773582658261D4AF37.tmp' to '../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Temp/Space_INST_roughness_Auto1.uasset'
+[2018.02.09-08.11.47:072][400]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Temp/Space_INST_roughness_Auto1.uasset
+[2018.02.09-08.11.47:074][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom/Temp/Space_INST_metallic] ([1] browsable assets)...
+[2018.02.09-08.11.47:079][400]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Custom/Temp/Space_INST_metallic.Space_INST_metallic_0]
+[2018.02.09-08.11.47:079][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/Temp/Space_INST_metallic]
+[2018.02.09-08.11.47:087][400]LogSavePackage: Save=5.49ms
+[2018.02.09-08.11.47:087][400]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Space_INST_metallic_Auto181C24C164258F2C6171B7EAFFCB702D4.tmp' to '../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Temp/Space_INST_metallic_Auto1.uasset'
+[2018.02.09-08.11.47:090][400]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Temp/Space_INST_metallic_Auto1.uasset
+[2018.02.09-08.11.47:091][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom/Temp/Space_INST] ([1] browsable assets)...
+[2018.02.09-08.11.47:091][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/Temp/Space_INST]
+[2018.02.09-08.11.47:091][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Temp/Space_INST" FILE="../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Temp/Space_INST_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.02.09-08.11.47:094][400]LogSavePackage: Save=1.71ms
+[2018.02.09-08.11.47:094][400]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Space_INST_Auto10416C900420DE834E5C4D2BF40DFAA0E.tmp' to '../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Temp/Space_INST_Auto1.uasset'
+[2018.02.09-08.11.47:097][400]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Temp/Space_INST_Auto1.uasset
+[2018.02.09-08.11.47:099][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom/Temp/Space_INST_basecolor] ([1] browsable assets)...
+[2018.02.09-08.11.47:104][400]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Custom/Temp/Space_INST_basecolor.Space_INST_basecolor_0]
+[2018.02.09-08.11.47:104][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/Temp/Space_INST_basecolor]
+[2018.02.09-08.11.47:112][400]LogSavePackage: Save=5.96ms
+[2018.02.09-08.11.47:112][400]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Space_INST_basecolor_Auto1408CF8614211273B7C149DAF7BFDAEAB.tmp' to '../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Temp/Space_INST_basecolor_Auto1.uasset'
+[2018.02.09-08.11.47:115][400]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Temp/Space_INST_basecolor_Auto1.uasset
+[2018.02.09-08.11.47:117][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom/Temp/Space_INST_emissive] ([1] browsable assets)...
+[2018.02.09-08.11.47:122][400]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Custom/Temp/Space_INST_emissive.Space_INST_emissive_0]
+[2018.02.09-08.11.47:122][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/Temp/Space_INST_emissive]
+[2018.02.09-08.11.47:130][400]LogSavePackage: Save=6.32ms
+[2018.02.09-08.11.47:130][400]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Space_INST_emissive_Auto1B622196B4EE4946AAFB6A9BCE9B8A5EB.tmp' to '../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Temp/Space_INST_emissive_Auto1.uasset'
+[2018.02.09-08.11.47:134][400]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Temp/Space_INST_emissive_Auto1.uasset
+[2018.02.09-08.11.47:136][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom/Temp/Space_MAT1] ([1] browsable assets)...
+[2018.02.09-08.11.47:173][400]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Custom/Temp/Space_MAT1.Space_MAT1]
+[2018.02.09-08.11.47:173][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/Temp/Space_MAT1]
+[2018.02.09-08.11.47:173][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Temp/Space_MAT1" FILE="../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Temp/Space_MAT1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.02.09-08.11.47:189][400]LogSavePackage: Save=14.02ms
+[2018.02.09-08.11.47:189][400]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Space_MAT1_Auto1D3B1FF1F45E2FD78B4164484E39626DA.tmp' to '../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Temp/Space_MAT1_Auto1.uasset'
+[2018.02.09-08.11.47:192][400]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Temp/Space_MAT1_Auto1.uasset
+[2018.02.09-08.11.47:192][400]LogFileHelpers: Auto-saving content packages took 0.166
+[2018.02.09-08.12.58:218][161]LogMaterial: Missing cached shader map for material Space_MAT1, compiling. 
+[2018.02.09-08.12.58:237][161]LogMaterial: Missing cached shader map for material Space_MAT1, compiling. 
+[2018.02.09-08.12.58:282][161]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2018.02.09-08.13.00:913][258]LogMaterial: Missing cached shader map for material Space_MAT1, compiling. 
+[2018.02.09-08.13.02:700][317]LogMaterial: Missing cached shader map for material Space_MAT1, compiling. 
+[2018.02.09-08.13.05:445][417]MaterialEditorStats: Base pass shader: 119 instructions
+[2018.02.09-08.13.05:445][417]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2018.02.09-08.13.05:445][417]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.09-08.13.05:445][417]MaterialEditorStats: Texture samplers: 7/16
+[2018.02.09-08.13.05:445][417]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.09-08.13.13:645][889]LogEditorTransaction: Undo 노드 이동
+[2018.02.09-08.13.13:659][889]LogMaterial: Missing cached shader map for material Space_MAT1, compiling. 
+[2018.02.09-08.13.16:850][ 11]LogMaterial: Missing cached shader map for material Space_MAT1, compiling. 
+[2018.02.09-08.13.18:799][ 75]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2018.02.09-08.13.19:309][ 92]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.02.09-08.13.19:309][ 92]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.02.09-08.13.19:309][ 92]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.09-08.13.19:309][ 92]MaterialEditorStats: Texture samplers: 6/16
+[2018.02.09-08.13.19:309][ 92]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.09-08.13.22:995][301]LogMaterial: Missing cached shader map for material Space_MAT1, compiling. 
+[2018.02.09-08.13.24:586][351]LogMaterialEditor: Saving and Compiling material Space_MAT1
+[2018.02.09-08.13.25:339][351]LogMaterial: Missing cached shader map for material Space_MAT1, compiling. 
+[2018.02.09-08.13.25:422][351]LogMaterial: Missing cached shader map for material Space_MAT1, compiling. 
+[2018.02.09-08.13.25:481][351]LogMaterial: Missing cached shader map for material Space_MAT1, compiling. 
+[2018.02.09-08.13.25:558][351]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Space_MAT1, compiling. 
+[2018.02.09-08.13.26:919][351]TextureStreamingBuild: Display: Compiling optional shaders took 1.379 seconds.
+[2018.02.09-08.13.29:287][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Temp/Space_MAT1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT1.uasset" SILENT=true
+[2018.02.09-08.13.29:305][351]LogSavePackage: Save=15.79ms
+[2018.02.09-08.13.29:305][351]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Space_MAT195CE4AE24F9DADB6C16DA9882C16215D.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT1.uasset'
+[2018.02.09-08.13.29:334][351]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_MAT1.uasset
+[2018.02.09-08.13.29:616][351]MaterialEditorStats: Base pass shader: 119 instructions
+[2018.02.09-08.13.29:617][351]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2018.02.09-08.13.29:617][351]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.09-08.13.29:617][351]MaterialEditorStats: Texture samplers: 8/16
+[2018.02.09-08.13.29:617][351]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.09-08.13.33:145][545]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.02.09-08.13.33:343][545]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.09-08.13.33:343][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-08.13.33:343][545]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 10. 오전 2:13:33)
+[2018.02.09-08.13.33:343][545]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.09-08.13.33:350][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006848s)
+[2018.02.09-08.13.33:352][545]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.09-08.13.33:352][545]LogPlayLevel: PIE: World Init took: (0.001836s)
+[2018.02.09-08.13.33:352][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.009077s)
+[2018.02.09-08.13.33:365][545]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.09-08.13.33:385][545]LogInit: FAudioDevice initialized.
+[2018.02.09-08.13.33:425][545]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.09-08.13.33:429][545]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.09-17.13.33
+[2018.02.09-08.13.33:429][545]LogWorld: Bringing up level for play took: 0.002355
+[2018.02.09-08.13.33:474][545]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.02.09-08.13.33:475][545]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.364
+[2018.02.09-08.13.33:475][545]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.09-08.14.26:504][626]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.09-08.14.26:542][626]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.09-08.14.31:539][862]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.09-08.14.31:540][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-08.14.31:540][862]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 10. 오전 2:14:31)
+[2018.02.09-08.14.31:540][862]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.09-08.14.31:549][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009106s)
+[2018.02.09-08.14.31:550][862]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.09-08.14.31:550][862]LogPlayLevel: PIE: World Init took: (0.001310s)
+[2018.02.09-08.14.31:551][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.010790s)
+[2018.02.09-08.14.31:563][862]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.09-08.14.31:585][862]LogInit: FAudioDevice initialized.
+[2018.02.09-08.14.31:736][862]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.09-08.14.31:738][862]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.09-17.14.31
+[2018.02.09-08.14.31:738][862]LogWorld: Bringing up level for play took: 0.001404
+[2018.02.09-08.14.31:743][862]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.631
+[2018.02.09-08.14.31:744][862]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.09-08.14.31:788][862]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2018.02.09-08.14.37:760][149]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.09-08.14.37:836][149]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.09-08.18.19:648][  1]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.09-08.18.19:664][  1]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.09-08.18.19:665][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-08.18.19:665][  1]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 10. 오전 2:18:19)
+[2018.02.09-08.18.19:665][  1]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.09-08.18.19:672][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007219s)
+[2018.02.09-08.18.19:673][  1]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.09-08.18.19:673][  1]LogPlayLevel: PIE: World Init took: (0.000988s)
+[2018.02.09-08.18.19:674][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.008615s)
+[2018.02.09-08.18.19:687][  1]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.09-08.18.19:708][  1]LogInit: FAudioDevice initialized.
+[2018.02.09-08.18.19:813][  1]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.09-08.18.19:815][  1]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.09-17.18.19
+[2018.02.09-08.18.19:815][  1]LogWorld: Bringing up level for play took: 0.001521
+[2018.02.09-08.18.19:821][  1]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.71
+[2018.02.09-08.18.19:823][  1]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.09-08.18.54:463][672]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.09-08.18.54:516][672]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.09-08.22.42:839][529]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.09-08.22.42:852][529]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.09-08.22.42:852][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-08.22.42:852][529]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 10. 오전 2:22:42)
+[2018.02.09-08.22.42:852][529]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.09-08.22.42:860][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007268s)
+[2018.02.09-08.22.42:861][529]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.09-08.22.42:861][529]LogPlayLevel: PIE: World Init took: (0.001241s)
+[2018.02.09-08.22.42:861][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.008870s)
+[2018.02.09-08.22.42:876][529]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.09-08.22.42:898][529]LogInit: FAudioDevice initialized.
+[2018.02.09-08.22.42:991][529]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.09-08.22.42:993][529]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.09-17.22.42
+[2018.02.09-08.22.42:993][529]LogWorld: Bringing up level for play took: 0.001514
+[2018.02.09-08.22.43:002][529]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.11
+[2018.02.09-08.22.43:002][529]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.09-08.24.11:481][964]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.09-08.24.11:527][964]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.09-09.57.48:412][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Temp/Space" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space.uasset" SILENT=true
+[2018.02.09-09.57.48:419][609]LogSavePackage: Save=2.93ms
+[2018.02.09-09.57.48:419][609]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Space4CB30727418DCD229593BD998AF679C1.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space.uasset'
+[2018.02.09-09.57.48:423][609]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space.uasset
+[2018.02.09-09.57.48:667][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Temp/Space_INST" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_INST.uasset" SILENT=true
+[2018.02.09-09.57.48:673][609]LogSavePackage: Save=2.70ms
+[2018.02.09-09.57.48:673][609]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Space_INST9BF888F64D99877499A06886BB013221.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_INST.uasset'
+[2018.02.09-09.57.48:679][609]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_INST.uasset
+[2018.02.09-09.57.48:910][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Temp/Space_INST_basecolor" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_INST_basecolor.uasset" SILENT=true
+[2018.02.09-09.57.48:918][609]LogSavePackage: Save=6.24ms
+[2018.02.09-09.57.48:918][609]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Space_INST_basecolorB850E2A5458F22AFFF3AE6ADB6A9F979.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_INST_basecolor.uasset'
+[2018.02.09-09.57.48:924][609]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_INST_basecolor.uasset
+[2018.02.09-09.57.49:229][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Temp/Space_INST_emissive" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_INST_emissive.uasset" SILENT=true
+[2018.02.09-09.57.49:240][609]LogSavePackage: Save=8.92ms
+[2018.02.09-09.57.49:240][609]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Space_INST_emissive25F660834D5CFD07700CCD9E1C5CCD98.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_INST_emissive.uasset'
+[2018.02.09-09.57.49:246][609]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_INST_emissive.uasset
+[2018.02.09-09.57.49:506][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Temp/Space_INST_metallic" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_INST_metallic.uasset" SILENT=true
+[2018.02.09-09.57.49:513][609]LogSavePackage: Save=5.39ms
+[2018.02.09-09.57.49:513][609]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Space_INST_metallicE75166B24E3914AD3F9DD7A5F35235FE.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_INST_metallic.uasset'
+[2018.02.09-09.57.49:519][609]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_INST_metallic.uasset
+[2018.02.09-09.57.49:816][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Temp/Space_INST_normal" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_INST_normal.uasset" SILENT=true
+[2018.02.09-09.57.49:824][609]LogSavePackage: Save=6.09ms
+[2018.02.09-09.57.49:824][609]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Space_INST_normalAE04879549F309CC576F4D9B185C78EF.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_INST_normal.uasset'
+[2018.02.09-09.57.49:831][609]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_INST_normal.uasset
+[2018.02.09-09.57.50:123][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Temp/Space_INST_roughness" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_INST_roughness.uasset" SILENT=true
+[2018.02.09-09.57.50:130][609]LogSavePackage: Save=5.53ms
+[2018.02.09-09.57.50:131][609]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Space_INST_roughness3934DD6C4E2B71150603129180BF8A8E.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_INST_roughness.uasset'
+[2018.02.09-09.57.50:136][609]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Temp/Space_INST_roughness.uasset
+[2018.02.09-09.57.50:636][609]LogSavePackage: Save=141.08ms
+[2018.02.09-09.57.50:636][609]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMapB207EF6345CA9BCF6B5B278745DD1885.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2018.02.09-09.57.50:642][609]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.02.09-09.57.50:662][609]LogFileHelpers: Saving map 'TwinStickExampleMap' took 0.290
+[2018.02.09-09.57.50:699][609]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.02.09-09.57.50:881][610]Cmd: QUIT_EDITOR
+[2018.02.09-09.57.51:776][610]LogExit: Preparing to exit.
+[2018.02.09-09.57.52:445][610]LogDirectoryWatcher: A directory notification for 'D:/Ari/Unreal Projects/FinalProject/Content/' was aborted.
+[2018.02.09-09.57.52:501][610]LogExit: Editor shut down
+[2018.02.09-09.57.52:528][610]LogExit: Transaction tracking system shut down
+[2018.02.09-09.57.52:736][610]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.09-09.57.52:736][610]LogDirectoryWatcher: A directory notification for '../../../../../Unreal Projects/FinalProject/Content/' was aborted.
+[2018.02.09-09.57.52:736][610]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.09-09.57.52:736][610]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.09-09.57.52:736][610]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.09-09.57.52:736][610]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.09-09.57.52:736][610]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.09-09.57.52:929][610]LogExit: Object subsystem successfully closed.
+[2018.02.09-09.57.52:951][610]LogD3D11RHI: Shutdown
+[2018.02.09-09.57.52:951][610]LogD3D11RHI: CleanupD3DDevice
+[2018.02.09-09.57.52:958][610]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.09-09.57.52:968][610]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (562)
+[2018.02.09-09.57.52:968][610]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (560)
+[2018.02.09-09.57.52:968][610]LogModuleManager: Shutting down and abandoning module MaterialEditor (558)
+[2018.02.09-09.57.52:968][610]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (556)
+[2018.02.09-09.57.52:968][610]LogModuleManager: Shutting down and abandoning module SceneOutliner (554)
+[2018.02.09-09.57.52:968][610]LogModuleManager: Shutting down and abandoning module AddContentDialog (552)
+[2018.02.09-09.57.52:968][610]LogDirectoryWatcher: A directory notification for 'D:/Ari/Program Files/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.09-09.57.52:978][610]LogModuleManager: Shutting down and abandoning module WidgetCarousel (551)
+[2018.02.09-09.57.52:979][610]LogModuleManager: Shutting down and abandoning module EditorWidgets (548)
+[2018.02.09-09.57.52:979][610]LogModuleManager: Shutting down and abandoning module CollectionManager (546)
+[2018.02.09-09.57.52:979][610]LogDirectoryWatcher: A directory notification for 'D:/Ari/Unreal Projects/FinalProject/Content/Collections/' was aborted.
+[2018.02.09-09.57.52:979][610]LogDirectoryWatcher: A directory notification for 'D:/Ari/Unreal Projects/FinalProject/Content/Developers/ar981/Collections/' was aborted.
+[2018.02.09-09.57.52:979][610]LogDirectoryWatcher: A directory notification for 'D:/Ari/Unreal Projects/FinalProject/Saved/Collections/' was aborted.
+[2018.02.09-09.57.52:979][610]LogModuleManager: Shutting down and abandoning module StatsViewer (544)
+[2018.02.09-09.57.52:979][610]LogModuleManager: Shutting down and abandoning module FoliageEdit (542)
+[2018.02.09-09.57.52:979][610]LogModuleManager: Shutting down and abandoning module LandscapeEditor (540)
+[2018.02.09-09.57.52:979][610]LogModuleManager: Shutting down and abandoning module MeshPaintMode (538)
+[2018.02.09-09.57.52:979][610]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (536)
+[2018.02.09-09.57.52:979][610]LogModuleManager: Shutting down and abandoning module ActorPickerMode (534)
+[2018.02.09-09.57.52:979][610]LogModuleManager: Shutting down and abandoning module GeometryMode (532)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module TextureAlignMode (530)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module BspMode (528)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (526)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module HardwareSurvey (524)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (522)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module AutomationWorker (520)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (518)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (516)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module PlacementMode (515)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (512)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (510)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (508)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (506)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (504)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (502)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (500)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (498)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (496)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module CharacterAI (494)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module AudioCapture (492)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module SequenceRecorder (491)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module SmartSnapping (488)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module SessionServices (486)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module ViewportSnapping (484)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module ViewportInteraction (482)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module ClothPainter (480)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (479)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module LogVisualizer (476)
+[2018.02.09-09.57.52:980][610]LogModuleManager: Shutting down and abandoning module IntroTutorials (474)
+[2018.02.09-09.57.52:981][610]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (473)
+[2018.02.09-09.57.52:981][610]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (470)
+[2018.02.09-09.57.52:981][610]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (468)
+[2018.02.09-09.57.52:981][610]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (466)
+[2018.02.09-09.57.52:981][610]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (465)
+[2018.02.09-09.57.53:237][610]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (462)
+[2018.02.09-09.57.53:237][610]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (460)
+[2018.02.09-09.57.53:237][610]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (458)
+[2018.02.09-09.57.53:237][610]LogModuleManager: Shutting down and abandoning module InputBindingEditor (456)
+[2018.02.09-09.57.53:237][610]LogModuleManager: Shutting down and abandoning module MergeActors (454)
+[2018.02.09-09.57.53:237][610]LogModuleManager: Shutting down and abandoning module SizeMap (452)
+[2018.02.09-09.57.53:237][610]LogModuleManager: Shutting down and abandoning module TreeMap (450)
+[2018.02.09-09.57.53:237][610]LogModuleManager: Shutting down and abandoning module ReferenceViewer (448)
+[2018.02.09-09.57.53:237][610]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (446)
+[2018.02.09-09.57.53:237][610]LogModuleManager: Shutting down and abandoning module LocalizationService (445)
+[2018.02.09-09.57.53:237][610]LogModuleManager: Shutting down and abandoning module HardwareTargeting (442)
+[2018.02.09-09.57.53:237][610]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (440)
+[2018.02.09-09.57.53:237][610]LogModuleManager: Shutting down and abandoning module UndoHistory (438)
+[2018.02.09-09.57.53:237][610]LogModuleManager: Shutting down and abandoning module XmlParser (436)
+[2018.02.09-09.57.53:237][610]LogModuleManager: Shutting down and abandoning module Blutility (434)
+[2018.02.09-09.57.53:237][610]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (432)
+[2018.02.09-09.57.53:237][610]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (431)
+[2018.02.09-09.57.53:238][610]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (428)
+[2018.02.09-09.57.53:238][610]LogModuleManager: Shutting down and abandoning module SettingsEditor (426)
+[2018.02.09-09.57.53:238][610]LogModuleManager: Shutting down and abandoning module ProjectLauncher (424)
+[2018.02.09-09.57.53:238][610]LogModuleManager: Shutting down and abandoning module SessionFrontend (422)
+[2018.02.09-09.57.53:238][610]LogModuleManager: Shutting down and abandoning module ProfilerClient (420)
+[2018.02.09-09.57.53:238][610]LogModuleManager: Shutting down and abandoning module DeviceManager (418)
+[2018.02.09-09.57.53:238][610]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (417)
+[2018.02.09-09.57.53:291][610]LogModuleManager: Shutting down and abandoning module AutomationController (414)
+[2018.02.09-09.57.53:291][610]LogModuleManager: Shutting down and abandoning module AutomationWindow (412)
+[2018.02.09-09.57.53:291][610]LogModuleManager: Shutting down and abandoning module Layers (410)
+[2018.02.09-09.57.53:291][610]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (408)
+[2018.02.09-09.57.53:291][610]LogModuleManager: Shutting down and abandoning module DetailCustomizations (406)
+[2018.02.09-09.57.53:291][610]LogModuleManager: Shutting down and abandoning module PackagesDialog (404)
+[2018.02.09-09.57.53:291][610]LogModuleManager: Shutting down and abandoning module Persona (402)
+[2018.02.09-09.57.53:291][610]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (401)
+[2018.02.09-09.57.53:291][610]LogModuleManager: Shutting down and abandoning module AnimGraph (399)
+[2018.02.09-09.57.53:291][610]LogModuleManager: Shutting down and abandoning module Kismet (396)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module ClassViewer (394)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module Toolbox (392)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module ModuleUI (390)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module MovieSceneTools (388)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module OutputLog (386)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module GammaUI (384)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module Documentation (382)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (380)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module MovieScene (378)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (376)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module LauncherPlatform (374)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module AnalyticsET (372)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module PortalServices (370)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module PortalRpc (368)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module MessagingRpc (366)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module AIModule (364)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module GameplayDebugger (363)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module AITestSuite (361)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module DesktopPlatform (358)
+[2018.02.09-09.57.53:292][610]LogModuleManager: Shutting down and abandoning module ProfilerService (356)
+[2018.02.09-09.57.53:516][610]LogModuleManager: Shutting down and abandoning module TaskGraph (354)
+[2018.02.09-09.57.53:516][610]LogModuleManager: Shutting down and abandoning module SubstanceLiveLink (352)
+[2018.02.09-09.57.53:516][610]LogModuleManager: Shutting down and abandoning module SubstanceSource (350)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module SubstanceEditor (348)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.02.09-09.57.53:517][610]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.02.09-09.57.53:518][610]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.02.09-09.57.53:518][610]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.02.09-09.57.53:518][610]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.02.09-09.57.53:518][610]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.02.09-09.57.53:518][610]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.02.09-09.57.53:518][610]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.02.09-09.57.53:518][610]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.02.09-09.57.53:519][610]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.02.09-09.57.53:519][610]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.02.09-09.57.53:520][610]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.02.09-09.57.53:520][610]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (270)
+[2018.02.09-09.57.53:520][610]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (268)
+[2018.02.09-09.57.53:520][610]LogModuleManager: Shutting down and abandoning module PhysXVehicles (266)
+[2018.02.09-09.57.53:520][610]LogModuleManager: Shutting down and abandoning module OculusEditor (264)
+[2018.02.09-09.57.53:520][610]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (262)
+[2018.02.09-09.57.53:520][610]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (260)
+[2018.02.09-09.57.53:520][610]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (258)
+[2018.02.09-09.57.53:520][610]LogModuleManager: Shutting down and abandoning module UdpMessaging (256)
+[2018.02.09-09.57.53:621][610]LogModuleManager: Shutting down and abandoning module TcpMessaging (254)
+[2018.02.09-09.57.53:722][610]LogModuleManager: Shutting down and abandoning module SubstanceCore (252)
+[2018.02.09-09.57.53:743][610]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.09-09.57.53:743][610]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.09-09.57.53:743][610]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.09-09.57.53:743][610]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.09-09.57.53:743][610]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.09-09.57.53:743][610]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.09-09.57.53:745][610]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.09-09.57.53:745][610]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.09-09.57.53:745][610]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.09-09.57.53:745][610]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.09-09.57.53:747][610]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.09-09.57.53:747][610]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.09-09.57.53:748][610]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.09-09.57.53:748][610]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.09-09.57.53:748][610]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.09-09.57.53:748][610]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.09-09.57.53:754][610]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.09-09.57.53:754][610]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.09-09.57.53:754][610]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.09-09.57.53:754][610]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.09-09.57.53:754][610]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.09-09.57.53:754][610]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.09-09.57.53:754][610]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.09-09.57.53:754][610]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.09-09.57.53:754][610]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.09-09.57.53:754][610]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.09-09.57.53:754][610]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.09-09.57.53:754][610]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.09-09.57.53:754][610]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.09-09.57.53:754][610]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.09-09.57.53:755][610]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.09-09.57.53:755][610]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.09-09.57.53:757][610]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.09-09.57.53:757][610]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.09-09.57.53:757][610]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.09-09.57.53:757][610]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.09-09.57.53:757][610]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.09-09.57.53:757][610]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.09-09.57.53:757][610]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.09-09.57.53:757][610]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.09-09.57.53:765][610]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.09-09.57.53:765][610]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.09-09.57.53:765][610]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.09-09.57.53:765][610]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.09-09.57.53:765][610]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.09-09.57.53:765][610]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.09-09.57.53:765][610]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.09-09.57.53:765][610]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.09-09.57.53:765][610]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.09-09.57.53:809][610]LogDerivedDataCache: Shutdown
+[2018.02.09-09.57.53:809][610]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.09-09.57.53:809][610]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.09-09.57.53:809][610]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.09-09.57.53:809][610]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.09-09.57.53:809][610]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.09-09.57.53:809][610]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.09-09.57.53:810][610]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.09-09.57.53:811][610]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.09-09.57.53:811][610]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.09-09.57.53:811][610]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B43DAC5DA-48F1-32B6-CFDE-568B4EE26F6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=5712ad7f45d9e96aa4003a820469c188%7C0484f503dfd84142907b84d36f52f0e9%7Cf755e3a6-1554-4250-9085-c3a0509afc01&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.09-09.57.53:821][610]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.09-09.57.53:823][610]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.09-09.57.53:823][610]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.09-09.57.53:823][610]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.09-09.57.53:823][610]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.09-09.57.53:823][610]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.09-09.57.53:823][610]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.09-09.57.53:823][610]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.09-09.57.53:835][610]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.09-09.57.53:835][610]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.09-09.57.53:835][610]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.09-09.57.53:835][610]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.09-09.57.53:835][610]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.09-09.57.53:835][610]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.09-09.57.53:835][610]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.09-09.57.53:835][610]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.09-09.57.53:835][610]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.09-09.57.53:835][610]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.09-09.57.53:835][610]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.09-09.57.53:839][610]LogExit: Exiting.
+[2018.02.09-09.57.53:854][610]Log file closed, 02/09/18 18:57:53
