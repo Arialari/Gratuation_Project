@@ -912,6 +912,11 @@ Windows.Engine:RemoteConfiguration:IniToLoad:1=EditorKeyBindings
 Windows.Engine:Engine.ErrorHandling:bPromptForRemoteDebugging:0=false
 Windows.Engine:Engine.ErrorHandling:bPromptForRemoteDebugOnEnsure:0=false
 Windows.Engine:Niagara:EnableNiagara:0=false
+Windows.Engine:/Script/Engine.CollisionProfile:OldProfiles:0=(Name="BlockingVolume",CollisionEnabled=QueryAndPhysics,ObjectTypeName=WorldStatic,CustomResponses=((Channel=Visibility, Response=ECR_Ignore)))
+Windows.Engine:/Script/Engine.CollisionProfile:OldProfiles:1=(Name="InterpActor",CollisionEnabled=QueryOnly,ObjectTypeName=WorldStatic,CustomResponses=((Channel=Pawn, Response=ECR_Ignore)))
+Windows.Engine:/Script/Engine.CollisionProfile:OldProfiles:2=(Name="StaticMeshComponent",CollisionEnabled=QueryAndPhysics,ObjectTypeName=WorldStatic)
+Windows.Engine:/Script/Engine.CollisionProfile:OldProfiles:3=(Name="SkeletalMeshActor",CollisionEnabled=QueryAndPhysics,ObjectTypeName=PhysicsBody,CustomResponses=((Channel=Visibility, Response=ECR_Block)))
+Windows.Engine:/Script/Engine.CollisionProfile:OldProfiles:4=(Name="InvisibleActor", CollisionEnabled=QueryAndPhysics, ObjectTypeName=WorldDynamic, CustomResponses=((Channel=Visibility, Response=ECR_Ignore)))
 Windows.Engine:/Script/Engine.CollisionProfile:Profiles:0=(Name="NoCollision",CollisionEnabled=NoCollision,ObjectTypeName="WorldStatic",CustomResponses=((Channel="Visibility",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore)),HelpMessage="No collision",bCanModify=False)
 Windows.Engine:/Script/Engine.CollisionProfile:Profiles:1=(Name="BlockAll",CollisionEnabled=QueryAndPhysics,ObjectTypeName="WorldStatic",CustomResponses=,HelpMessage="WorldStatic object that blocks all actors by default. All new custom channels will use its own default response. ",bCanModify=False)
 Windows.Engine:/Script/Engine.CollisionProfile:Profiles:2=(Name="OverlapAll",CollisionEnabled=QueryOnly,ObjectTypeName="WorldStatic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility",Response=ECR_Overlap),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldStatic object that overlaps all actors by default. All new custom channels will use its own default response. ",bCanModify=False)
@@ -920,7 +925,7 @@ Windows.Engine:/Script/Engine.CollisionProfile:Profiles:4=(Name="OverlapAllDynam
 Windows.Engine:/Script/Engine.CollisionProfile:Profiles:5=(Name="IgnoreOnlyPawn",CollisionEnabled=QueryOnly,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="Pawn",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore)),HelpMessage="WorldDynamic object that ignores Pawn and Vehicle. All other channels will be set to default.",bCanModify=False)
 Windows.Engine:/Script/Engine.CollisionProfile:Profiles:6=(Name="OverlapOnlyPawn",CollisionEnabled=QueryOnly,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="Pawn",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Ignore)),HelpMessage="WorldDynamic object that overlaps Pawn, Camera, and Vehicle. All other channels will be set to default. ",bCanModify=False)
 Windows.Engine:/Script/Engine.CollisionProfile:Profiles:7=(Name="Pawn",CollisionEnabled=QueryAndPhysics,ObjectTypeName="Pawn",CustomResponses=((Channel="Visibility",Response=ECR_Ignore)),HelpMessage="Pawn object. Can be used for capsule of any playerable character or AI. ",bCanModify=False)
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:8=(Name="Spectator",CollisionEnabled=QueryOnly,ObjectTypeName="Pawn",CustomResponses=((Channel="WorldStatic",Response=ECR_Block),(Channel="Pawn",Response=ECR_Ignore),(Channel="Visibility",Response=ECR_Ignore),(Channel="WorldDynamic",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore),(Channel="PhysicsBody",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore),(Channel="Destructible",Response=ECR_Ignore)),HelpMessage="Pawn object that ignores all other actors except WorldStatic.",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:8=(Name="Spectator",CollisionEnabled=QueryOnly,ObjectTypeName="Pawn",CustomResponses=((Channel="WorldStatic"),(Channel="Pawn",Response=ECR_Ignore),(Channel="Visibility",Response=ECR_Ignore),(Channel="WorldDynamic",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore),(Channel="PhysicsBody",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore),(Channel="Destructible",Response=ECR_Ignore)),HelpMessage="Pawn object that ignores all other actors except WorldStatic.",bCanModify=False)
 Windows.Engine:/Script/Engine.CollisionProfile:Profiles:9=(Name="CharacterMesh",CollisionEnabled=QueryOnly,ObjectTypeName="Pawn",CustomResponses=((Channel="Pawn",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore),(Channel="Visibility",Response=ECR_Ignore)),HelpMessage="Pawn object that is used for Character Mesh. All other channels will be set to default.",bCanModify=False)
 Windows.Engine:/Script/Engine.CollisionProfile:Profiles:10=(Name="PhysicsActor",CollisionEnabled=QueryAndPhysics,ObjectTypeName="PhysicsBody",CustomResponses=,HelpMessage="Simulating actors",bCanModify=False)
 Windows.Engine:/Script/Engine.CollisionProfile:Profiles:11=(Name="Destructible",CollisionEnabled=QueryAndPhysics,ObjectTypeName="Destructible",CustomResponses=,HelpMessage="Destructible actors",bCanModify=False)
@@ -929,13 +934,12 @@ Windows.Engine:/Script/Engine.CollisionProfile:Profiles:13=(Name="InvisibleWallD
 Windows.Engine:/Script/Engine.CollisionProfile:Profiles:14=(Name="Trigger",CollisionEnabled=QueryOnly,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility",Response=ECR_Ignore),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldDynamic object that is used for trigger. All other channels will be set to default.",bCanModify=False)
 Windows.Engine:/Script/Engine.CollisionProfile:Profiles:15=(Name="Ragdoll",CollisionEnabled=QueryAndPhysics,ObjectTypeName="PhysicsBody",CustomResponses=((Channel="Pawn",Response=ECR_Ignore),(Channel="Visibility",Response=ECR_Ignore)),HelpMessage="Simulating Skeletal Mesh Component. All other channels will be set to default.",bCanModify=False)
 Windows.Engine:/Script/Engine.CollisionProfile:Profiles:16=(Name="Vehicle",CollisionEnabled=QueryAndPhysics,ObjectTypeName="Vehicle",CustomResponses=,HelpMessage="Vehicle object that blocks Vehicle, WorldStatic, and WorldDynamic. All other channels will be set to default.",bCanModify=False)
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:17=(Name="UI",CollisionEnabled=QueryOnly,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility",Response=ECR_Block),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldStatic object that overlaps all actors by default. All new custom channels will use its own default response. ",bCanModify=False)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:17=(Name="UI",CollisionEnabled=QueryOnly,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility"),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldStatic object that overlaps all actors by default. All new custom channels will use its own default response. ",bCanModify=False)
 Windows.Engine:/Script/Engine.CollisionProfile:Profiles:18=(Name="Projectile",CollisionEnabled=QueryOnly,ObjectTypeName="Projectile",CustomResponses=,HelpMessage="Preset for projectiles",bCanModify=True)
-Windows.Engine:/Script/Engine.CollisionProfile:OldProfiles:0=(Name="BlockingVolume",CollisionEnabled=QueryAndPhysics,ObjectTypeName=WorldStatic,CustomResponses=((Channel=Visibility, Response=ECR_Ignore)))
-Windows.Engine:/Script/Engine.CollisionProfile:OldProfiles:1=(Name="InterpActor",CollisionEnabled=QueryOnly,ObjectTypeName=WorldStatic,CustomResponses=((Channel=Pawn, Response=ECR_Ignore)))
-Windows.Engine:/Script/Engine.CollisionProfile:OldProfiles:2=(Name="StaticMeshComponent",CollisionEnabled=QueryAndPhysics,ObjectTypeName=WorldStatic)
-Windows.Engine:/Script/Engine.CollisionProfile:OldProfiles:3=(Name="SkeletalMeshActor",CollisionEnabled=QueryAndPhysics,ObjectTypeName=PhysicsBody,CustomResponses=((Channel=Visibility, Response=ECR_Block)))
-Windows.Engine:/Script/Engine.CollisionProfile:OldProfiles:4=(Name="InvisibleActor", CollisionEnabled=QueryAndPhysics, ObjectTypeName=WorldDynamic, CustomResponses=((Channel=Visibility, Response=ECR_Ignore)))
+Windows.Engine:/Script/Engine.CollisionProfile:DefaultChannelResponses:0=(Channel=ECC_GameTraceChannel1,Name="Projectile",DefaultResponse=ECR_Block,bTraceType=False,bStaticObject=False)
+Windows.Engine:/Script/Engine.CollisionProfile:DefaultChannelResponses:1=(Channel=ECC_GameTraceChannel2,Name="Enemy",DefaultResponse=ECR_Block,bTraceType=False,bStaticObject=False)
+Windows.Engine:/Script/Engine.CollisionProfile:DefaultChannelResponses:2=(Channel=ECC_GameTraceChannel3,Name="Player",DefaultResponse=ECR_Block,bTraceType=False,bStaticObject=False)
+Windows.Engine:/Script/Engine.CollisionProfile:EditProfiles:0=(Name="Trigger",CustomResponses=((Channel="Projectile",Response=ECR_Ignore)))
 Windows.Engine:/Script/Engine.CollisionProfile:ProfileRedirects:0=(OldName="BlockingVolume",NewName="InvisibleWall")
 Windows.Engine:/Script/Engine.CollisionProfile:ProfileRedirects:1=(OldName="InterpActor",NewName="IgnoreOnlyPawn")
 Windows.Engine:/Script/Engine.CollisionProfile:ProfileRedirects:2=(OldName="StaticMeshComponent",NewName="BlockAllDynamic")
@@ -945,8 +949,6 @@ Windows.Engine:/Script/Engine.CollisionProfile:CollisionChannelRedirects:0=(OldN
 Windows.Engine:/Script/Engine.CollisionProfile:CollisionChannelRedirects:1=(OldName="Dynamic",NewName="WorldDynamic")
 Windows.Engine:/Script/Engine.CollisionProfile:CollisionChannelRedirects:2=(OldName="VehicleMovement",NewName="Vehicle")
 Windows.Engine:/Script/Engine.CollisionProfile:CollisionChannelRedirects:3=(OldName="PawnMovement",NewName="Pawn")
-Windows.Engine:/Script/Engine.CollisionProfile:DefaultChannelResponses:0=(Channel=ECC_GameTraceChannel1,Name="Projectile",DefaultResponse=ECR_Block,bTraceType=False,bStaticObject=False)
-Windows.Engine:/Script/Engine.CollisionProfile:EditProfiles:0=(Name="Trigger",CustomResponses=((Channel=Projectile, Response=ECR_Ignore)))
 Windows.Engine:Engine.BufferVisualizationMaterials:BaseColor:0=(Material="/Engine/BufferVisualization/BaseColor.BaseColor", Name=LOCTEXT("BaseColorMat", "Base Color"))
 Windows.Engine:Engine.BufferVisualizationMaterials:CustomDepth:0=(Material="/Engine/BufferVisualization/CustomDepth.CustomDepth", Name=LOCTEXT("BaseCustomDepthMat", "Custom Depth"))
 Windows.Engine:Engine.BufferVisualizationMaterials:CustomStencil:0=(Material="/Engine/BufferVisualization/CustomStencil.CustomStencil", Name=LOCTEXT("BaseCustomStencilMat", "Custom Stencil"))
@@ -1347,29 +1349,47 @@ Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/TwinStickB
 Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C
 Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
 Windows.Input:/Script/Engine.InputSettings:DefaultTouchInterface:0=/Engine/MobileResources/HUD/DefaultVirtualJoysticks.DefaultVirtualJoysticks
-Windows.Input:/Script/Engine.InputSettings:bEnableMouseSmoothing:0=true
-Windows.Input:/Script/Engine.InputSettings:bEnableFOVScaling:0=true
-Windows.Input:/Script/Engine.InputSettings:FOVScale:0=0.01111
-Windows.Input:/Script/Engine.InputSettings:DoubleClickTime:0=0.2f
-Windows.Input:/Script/Engine.InputSettings:bAlwaysShowTouchInterface:0=false
-Windows.Input:/Script/Engine.InputSettings:bShowConsoleOnFourFingerTap:0=true
-Windows.Input:/Script/Engine.InputSettings:bAltEnterTogglesFullscreen:0=true
-Windows.Input:/Script/Engine.InputSettings:bF11TogglesFullscreen:0=true
+Windows.Input:/Script/Engine.InputSettings:bEnableMouseSmoothing:0=True
+Windows.Input:/Script/Engine.InputSettings:bEnableFOVScaling:0=True
+Windows.Input:/Script/Engine.InputSettings:FOVScale:0=0.011110
+Windows.Input:/Script/Engine.InputSettings:DoubleClickTime:0=0.200000
+Windows.Input:/Script/Engine.InputSettings:bAlwaysShowTouchInterface:0=False
+Windows.Input:/Script/Engine.InputSettings:bShowConsoleOnFourFingerTap:0=True
+Windows.Input:/Script/Engine.InputSettings:bAltEnterTogglesFullscreen:0=True
+Windows.Input:/Script/Engine.InputSettings:bF11TogglesFullscreen:0=True
 Windows.Input:/Script/Engine.InputSettings:bRequireCtrlToNavigateAutoComplete:0=False
-Windows.Input:/Script/Engine.InputSettings:ConsoleKeys:0=Tilde
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:0=(AxisKeyName="Gamepad_LeftX",AxisProperties=(DeadZone=0.25,Exponent=1.f,Sensitivity=1.f))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:1=(AxisKeyName="Gamepad_LeftY",AxisProperties=(DeadZone=0.25,Exponent=1.f,Sensitivity=1.f))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:2=(AxisKeyName="Gamepad_RightX",AxisProperties=(DeadZone=0.25,Exponent=1.f,Sensitivity=1.f))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:3=(AxisKeyName="Gamepad_RightY",AxisProperties=(DeadZone=0.25,Exponent=1.f,Sensitivity=1.f))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:4=(AxisKeyName="MouseX",AxisProperties=(DeadZone=0.f,Exponent=1.f,Sensitivity=0.07f))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:5=(AxisKeyName="MouseY",AxisProperties=(DeadZone=0.f,Exponent=1.f,Sensitivity=0.07f))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:6=(AxisKeyName="Gamepad_LeftX",AxisProperties=(DeadZone=0.250000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:7=(AxisKeyName="Gamepad_LeftY",AxisProperties=(DeadZone=0.250000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:8=(AxisKeyName="Gamepad_RightX",AxisProperties=(DeadZone=0.250000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:9=(AxisKeyName="Gamepad_RightY",AxisProperties=(DeadZone=0.250000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:10=(AxisKeyName="MouseX",AxisProperties=(DeadZone=0.000000,Sensitivity=0.070000,Exponent=1.000000,bInvert=False))
-Windows.Input:/Script/Engine.InputSettings:AxisConfig:11=(AxisKeyName="MouseY",AxisProperties=(DeadZone=0.000000,Sensitivity=0.070000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:0=(AxisKeyName="Gamepad_LeftX",AxisProperties=(DeadZone=0.250000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:1=(AxisKeyName="Gamepad_LeftY",AxisProperties=(DeadZone=0.250000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:2=(AxisKeyName="Gamepad_RightX",AxisProperties=(DeadZone=0.250000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:3=(AxisKeyName="Gamepad_RightY",AxisProperties=(DeadZone=0.250000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:4=(AxisKeyName="MouseX",AxisProperties=(DeadZone=0.000000,Sensitivity=0.070000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:5=(AxisKeyName="MouseY",AxisProperties=(DeadZone=0.000000,Sensitivity=0.070000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:6=(AxisKeyName="MouseWheelAxis",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:7=(AxisKeyName="Gamepad_LeftTriggerAxis",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:8=(AxisKeyName="Gamepad_RightTriggerAxis",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:9=(AxisKeyName="MotionController_Left_Thumbstick_X",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:10=(AxisKeyName="MotionController_Left_Thumbstick_Y",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:11=(AxisKeyName="MotionController_Left_TriggerAxis",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:12=(AxisKeyName="MotionController_Left_Grip1Axis",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:13=(AxisKeyName="MotionController_Left_Grip2Axis",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:14=(AxisKeyName="MotionController_Right_Thumbstick_X",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:15=(AxisKeyName="MotionController_Right_Thumbstick_Y",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:16=(AxisKeyName="MotionController_Right_TriggerAxis",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:17=(AxisKeyName="MotionController_Right_Grip1Axis",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:18=(AxisKeyName="MotionController_Right_Grip2Axis",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:19=(AxisKeyName="Gamepad_Special_Left_X",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
+Windows.Input:/Script/Engine.InputSettings:AxisConfig:20=(AxisKeyName="Gamepad_Special_Left_Y",AxisProperties=(DeadZone=0.000000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
 Windows.Input:/Script/Engine.InputSettings:bUseMouseForTouch:0=False
+Windows.Input:/Script/Engine.InputSettings:bCaptureMouseOnLaunch:0=True
+Windows.Input:/Script/Engine.InputSettings:DefaultViewportMouseCaptureMode:0=CapturePermanently_IncludingInitialMouseDown
+Windows.Input:/Script/Engine.InputSettings:bDefaultViewportMouseLock:0=False
+Windows.Input:/Script/Engine.InputSettings:DefaultViewportMouseLockMode:0=LockOnCapture
+Windows.Input:/Script/Engine.InputSettings:ActionMappings:0=(ActionName="Skill1",Key=LeftControl,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
+Windows.Input:/Script/Engine.InputSettings:ActionMappings:1=(ActionName="Skill1",Key=RightControl,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
+Windows.Input:/Script/Engine.InputSettings:ActionMappings:2=(ActionName="Skill2",Key=X,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
+Windows.Input:/Script/Engine.InputSettings:ActionMappings:3=(ActionName="Skill3",Key=C,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
+Windows.Input:/Script/Engine.InputSettings:ActionMappings:4=(ActionName="Slow",Key=LeftShift,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
+Windows.Input:/Script/Engine.InputSettings:ActionMappings:5=(ActionName="Fire",Key=Z,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:0=(AxisName="MoveForward",Key=W,Scale=1.000000)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:1=(AxisName="MoveForward",Key=S,Scale=-1.000000)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:2=(AxisName="MoveForward",Key=Gamepad_LeftY,Scale=1.000000)
@@ -1383,6 +1403,7 @@ Windows.Input:/Script/Engine.InputSettings:AxisMappings:9=(AxisName="FireForward
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:10=(AxisName="FireForward",Key=Up,Scale=1.000000)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:11=(AxisName="FireForward",Key=Down,Scale=-1.000000)
 Windows.Input:/Script/Engine.InputSettings:ConsoleKey:0=None
+Windows.Input:/Script/Engine.InputSettings:ConsoleKeys:0=Tilde
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:0=(Key=F11,Command="LevelEditor.ToggleImmersive")
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:1=(Key=F11,Command="MainFrame.ToggleFullscreen",Shift=True)
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:2=(Key=F1,Command="viewmode wireframe", bIgnoreShift=True)
@@ -1631,7 +1652,20 @@ Windows.Game:/Script/AIModule.EnvQueryManager:QueryCountWarningThreshold:0=0
 Windows.Game:/Script/AIModule.EnvQueryManager:QueryCountWarningInterval:0=30.0
 Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:0=(PrimaryAssetType="Map",AssetBaseClass=/Script/Engine.World,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game/Maps")))
 Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:1=(PrimaryAssetType="PrimaryAssetLabel",AssetBaseClass=/Script/Engine.PrimaryAssetLabel,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game")))
-Windows.Editor:EditorLayouts:NullLayout:0=( 	"Type" "Layout", 	"Name" "NullLayout", 	"PrimaryAreaIndex" 0, 	"Areas" [ 		( 			"SizeCoefficient" 1, 			"Type" "Area", 			"Orientation" "Orient_Horizontal", 			"WindowPlacement" "Placement_NoWindow", 			"Nodes" [] 		) 	] )
+Windows.Editor:EditorLayouts:NullLayout:0=(\
+	"Type" "Layout",\
+	"Name" "NullLayout",\
+	"PrimaryAreaIndex" 0,\
+	"Areas" [\
+		(\
+			"SizeCoefficient" 1,\
+			"Type" "Area",\
+			"Orientation" "Orient_Horizontal",\
+			"WindowPlacement" "Placement_NoWindow",\
+			"Nodes" []\
+		)\
+	]\
+)
 Windows.Editor:Internationalization:LocalizationPaths:0=../../../Engine/Content/Localization/Editor
 Windows.Editor:Internationalization:LocalizationPaths:1=../../../Engine/Content/Localization/EditorTutorials
 Windows.Editor:Internationalization:LocalizationPaths:2=../../../Engine/Content/Localization/Keywords

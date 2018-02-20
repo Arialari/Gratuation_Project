@@ -1,0 +1,1288 @@
+﻿Log file open, 02/17/18 13:24:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FinalProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1393773373) SRandInit(1393773373).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.572086
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceCore.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceSource.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceLiveLink.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Ari/Program Files/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.17-04.25.02:410][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.17-04.25.02:410][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.17-04.25.02:558][  0]LogInit: Computer: JAEBUM-PC
+[2018.02.17-04.25.02:558][  0]LogInit: User: ar981
+[2018.02.17-04.25.02:558][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.17-04.25.02:558][  0]LogInit: High frequency timer resolution =2.435779 MHz
+[2018.02.17-04.25.02:558][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.02.17-04.25.02:598][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.17-04.25.02:598][  0]LogMemory: Process Physical Memory: 272.73 MB used, 272.73 MB peak
+[2018.02.17-04.25.02:598][  0]LogMemory: Process Virtual Memory: 269.85 MB used, 269.85 MB peak
+[2018.02.17-04.25.02:598][  0]LogMemory: Physical Memory: 4385.39 MB used,  3685.54 MB free, 8070.93 MB total
+[2018.02.17-04.25.02:598][  0]LogMemory: Virtual Memory: 667.97 MB used,  3685.54 MB free, 134217728.00 MB total
+[2018.02.17-04.25.04:235][  0]LogInit: Using OS detected language (ko-KR).
+[2018.02.17-04.25.04:235][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.02.17-04.25.04:572][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.02.17-04.25.05:521][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.17-04.25.08:664][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.17-04.25.08:978][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 850M' (Feature Level 11_0)
+[2018.02.17-04.25.08:978][  0]LogD3D11RHI:       2019/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.02.17-04.25.08:986][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.02.17-04.25.08:986][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.17-04.25.08:989][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.17-04.25.08:989][  0]LogD3D11RHI:       0/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.17-04.25.08:989][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.17-04.25.09:007][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.17-04.25.09:016][  0]LogD3D11RHI:     GPU DeviceId: 0x1391 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.17-04.25.09:016][  0]LogWindows: EnumDisplayDevices:
+[2018.02.17-04.25.09:017][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.02.17-04.25.09:032][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2018.02.17-04.25.09:033][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.02.17-04.25.09:033][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.17-04.25.09:033][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 850M
+[2018.02.17-04.25.09:033][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.17-04.25.09:033][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.17-04.25.09:033][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2018.02.17-04.25.09:169][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.17-04.25.09:628][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.02.17-04.25.09:738][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (../../../../../Unreal Projects/FinalProject/Intermediate/Shaders/WorkingDirectory/8480/).
+[2018.02.17-04.25.09:738][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ar981/AppData/Local/Temp/UnrealShaderWorkingDir/9CC3ED454E4EAF4C50C3E48E56E908CA/'.
+[2018.02.17-04.25.09:765][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.17-04.25.16:249][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.17-04.25.16:321][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.17-04.25.16:383][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.17-04.25.16:444][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.17-04.25.16:579][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.17-04.25.16:655][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.17-04.25.16:714][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.17-04.25.16:781][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.17-04.25.16:850][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.17-04.25.16:916][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.17-04.25.16:985][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.17-04.25.17:061][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.17-04.25.17:131][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.17-04.25.17:201][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.17-04.25.17:356][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.17-04.25.17:356][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.17-04.25.17:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.17-04.25.17:531][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.17-04.25.17:819][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.17-04.25.17:870][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.17-04.25.17:946][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.17-04.25.18:009][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.17-04.25.18:082][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.17-04.25.18:190][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.17-04.25.18:190][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.17-04.25.20:183][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.17-04.25.21:136][  0]LogDerivedDataCache: Loaded boot cache 0.94s 78MB C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.17-04.25.21:136][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.17-04.25.21:136][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/FinalProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.17-04.25.21:136][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.17-04.25.21:136][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/FinalProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.17-04.25.21:136][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.17-04.25.21:231][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.17-04.25.21:258][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ar981/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.17-04.25.21:361][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.17-04.25.21:485][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.17-04.25.21:563][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.17-04.25.21:563][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.17-04.25.31:901][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.17-04.25.35:256][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.17-04.25.35:342][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.17-04.25.35:367][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.17-04.25.35:390][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.17-04.25.35:390][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.17-04.25.35:390][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.17-04.25.36:198][  0]LogNetVersion: FinalProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1186961665)
+[2018.02.17-04.25.39:264][  0]LogAssetRegistry: FAssetRegistry took 0.0499 seconds to start up
+[2018.02.17-04.25.53:234][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.403249 seconds
+[2018.02.17-04.25.53:303][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.17-04.25.53:304][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.02.17-04.25.53:304][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.17-04.25.53:378][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.17-04.26.29:602][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2018.02.17-04.26.29:840][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.17-04.26.29:932][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.17-04.26.32:600][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.17-04.26.34:534][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.02.17-04.26.38:502][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.17-04.26.39:411][  0]LogOcInput: OculusInput pre-init called
+[2018.02.17-04.26.41:929][  0]LogEngine: Initializing Engine...
+[2018.02.17-04.26.42:037][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.02.17-04.26.43:423][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.17-04.26.43:423][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.17-04.26.44:313][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.17-04.26.44:639][  0]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-04.26.44:890][  0]LogInit: FAudioDevice initialized.
+[2018.02.17-04.26.45:133][  0]LogDerivedDataCache: Saved boot cache 0.23s 78MB C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.17-04.26.45:192][  0]LogInit: Texture streaming: Enabled
+[2018.02.17-04.26.45:647][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.17-04.26.46:832][  0]LogInit: Transaction tracking system initialized
+[2018.02.17-04.26.50:461][  0]BlueprintLog: New page: 에디터 로드
+[2018.02.17-04.26.59:846][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.02.17-04.27.05:125][  0]LogConsoleResponse: Display: 
+[2018.02.17-04.27.14:127][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/' took 0.02s
+[2018.02.17-04.27.14:127][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.17-04.27.14:155][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.17-04.27.14:155][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.17-04.27.24:677][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.17-04.27.24:846][  0]LightingResults: New page: 라이팅 빌드
+[2018.02.17-04.27.26:287][  0]MapCheck: New page: 맵 체크
+[2018.02.17-04.27.26:287][  0]LightingResults: New page: 라이팅 빌드
+[2018.02.17-04.27.40:822][  0]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.17-04.27.44:048][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.17-04.27.46:498][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.17-04.27.47:005][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 393.174ms.
+[2018.02.17-04.27.47:005][  0]LogFileHelpers: Loading map 'TwinStickExampleMap' took 22.450
+[2018.02.17-04.28.02:084][  0]LogCollectionManager: Loaded 0 collections in 0.002815 seconds
+[2018.02.17-04.28.03:503][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Saved/Collections/' took 0.01s
+[2018.02.17-04.28.03:503][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/Developers/ar981/Collections/' took 0.01s
+[2018.02.17-04.28.03:503][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/Collections/' took 0.01s
+[2018.02.17-04.28.03:503][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.17-04.28.03:987][  0]LogContentBrowser: Native class hierarchy populated in 0.3434 seconds. Added 2377 classes and 525 folders.
+[2018.02.17-04.28.04:783][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.17-04.28.09:664][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.02.17-04.28.10:105][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.02.17-04.28.16:816][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.02.17-04.28.16:816][  0]LogLoad: (Engine Initialization) Total time: 226.38 seconds
+[2018.02.17-04.28.16:816][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.17-04.28.16:876][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.17-04.28.16:876][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.17-04.28.18:173][  0]SourceControl: On branch master
+[2018.02.17-04.28.18:173][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.02.17-04.28.18:173][  0]SourceControl: Changes not staged for commit:
+[2018.02.17-04.28.18:173][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.02.17-04.28.18:173][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.02.17-04.28.18:173][  0]SourceControl: 	modified:   Config/DefaultEngine.ini
+[2018.02.17-04.28.18:173][  0]SourceControl: 	modified:   Config/DefaultInput.ini
+[2018.02.17-04.28.18:173][  0]SourceControl: 	modified:   Content/Custom/Character_BP/Character_BP.uasset
+[2018.02.17-04.28.18:173][  0]SourceControl: 	modified:   Content/TwinStickBP/Blueprints/TwinStickGameMode.uasset
+[2018.02.17-04.28.18:173][  0]SourceControl: 	modified:   Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.02.17-04.28.18:173][  0]SourceControl: 	modified:   Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.02.17-04.28.18:173][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.02.17-04.28.18:173][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.02.17-04.28.18:173][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Input.ini
+[2018.02.17-04.28.18:173][  0]SourceControl: 	modified:   Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto1.umap
+[2018.02.17-04.28.18:173][  0]SourceControl: 	modified:   Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto2.umap
+[2018.02.17-04.28.18:173][  0]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2018.02.17-04.28.18:173][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-3C6C96AB41A5ADAD21001F9D16C97B2B/CrashReportClient.ini
+[2018.02.17-04.28.18:173][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-528E6F8944BFC869655389BB5FA33BD8/CrashReportClient.ini
+[2018.02.17-04.28.18:173][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-8C1585274BD285A9474D3C87D05D8036/CrashReportClient.ini
+[2018.02.17-04.28.18:173][  0]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2018.02.17-04.28.18:173][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.02.17-04.28.18:173][  0]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.02.09-17.00.53.log
+[2018.02.17-04.28.18:173][  0]SourceControl: 	modified:   Saved/Logs/FinalProject.log
+[2018.02.17-04.28.18:173][  0]SourceControl: Untracked files:
+[2018.02.17-04.28.18:173][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.02.17-04.28.18:173][  0]SourceControl: 	Saved/Autosaves/Game/TwinStickBP/Blueprints/
+[2018.02.17-04.28.18:173][  0]SourceControl: 	Saved/Backup/Character_BP_2018-02-16-13-58-06.uasset
+[2018.02.17-04.28.18:173][  0]SourceControl: 	Saved/Backup/Character_BP_2018-02-16-14-04-18.uasset
+[2018.02.17-04.28.18:173][  0]SourceControl: 	Saved/Backup/Character_BP_2018-02-16-14-11-37.uasset
+[2018.02.17-04.28.18:173][  0]SourceControl: 	Saved/Backup/Character_BP_2018-02-16-14-17-19.uasset
+[2018.02.17-04.28.18:173][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-02-16-13-57-50.umap
+[2018.02.17-04.28.18:173][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-02-16-14-09-31.umap
+[2018.02.17-04.28.18:173][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-02-16-14-23-03.umap
+[2018.02.17-04.28.18:173][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-02-16-15-10-56.umap
+[2018.02.17-04.28.18:173][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-02-16-17-00-35.umap
+[2018.02.17-04.28.18:173][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-02-16-13-57-50.uasset
+[2018.02.17-04.28.18:173][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-02-16-14-09-31.uasset
+[2018.02.17-04.28.18:173][  0]SourceControl: 	Saved/Backup/TwinStickGameMode_2018-02-16-14-23-03.uasset
+[2018.02.17-04.28.18:173][  0]SourceControl: 	Saved/Backup/TwinStickGameMode_2018-02-16-17-00-34.uasset
+[2018.02.17-04.28.18:173][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-B3E7186C4AAE6C8998FBEEAE5A9D71A8/
+[2018.02.17-04.28.18:173][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-F9EA64FA4A53766E961C7F80D3ACCA5C/
+[2018.02.17-04.28.18:174][  0]SourceControl: 	Saved/Logs/FinalProject-backup-2018.02.16-13.51.49.log
+[2018.02.17-04.28.18:174][  0]SourceControl: 	Saved/Logs/FinalProject-backup-2018.02.17-13.24.52.log
+[2018.02.17-04.28.18:174][  0]SourceControl: 	Thumbs.db
+[2018.02.17-04.28.18:174][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.02.17-04.28.18:261][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.17-04.28.18:885][  0]LogSlate: Took 0.073289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.17-04.28.19:051][  0]LogSlate: Took 0.163988 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.02.17-04.28.19:071][  0]LogSlate: Took 0.019636 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.17-04.28.19:191][  0]LogSlate: Took 0.087893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.17-04.28.21:701][  0]LogRenderer: Reallocating scene render targets to support 260x408 Format 10 NumSamples 1 (Frame:1).
+[2018.02.17-04.28.25:061][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2018.02.17-04.28.26:262][  1]LogSlate: Took 0.111370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.17-04.28.27:815][  2]LogSlate: Took 0.000544 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.17-04.28.28:198][  4]LogAssetRegistry: Asset discovery search completed in 168.9567 seconds
+[2018.02.17-04.28.28:316][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.17-04.28.28:350][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.032922 seconds (updated 0 objects)
+[2018.02.17-04.29.08:395][158]LogRenderer: Reallocating scene render targets to support 264x408 Format 10 NumSamples 1 (Frame:2144).
+[2018.02.17-04.29.08:471][159]LogRenderer: Reallocating scene render targets to support 268x408 Format 10 NumSamples 1 (Frame:2148).
+[2018.02.17-04.29.08:621][161]LogRenderer: Reallocating scene render targets to support 272x408 Format 10 NumSamples 1 (Frame:2156).
+[2018.02.17-04.29.08:831][164]LogRenderer: Reallocating scene render targets to support 276x408 Format 10 NumSamples 1 (Frame:2168).
+[2018.02.17-04.29.10:467][249]LogRenderer: Reallocating scene render targets to support 280x408 Format 10 NumSamples 1 (Frame:2261).
+[2018.02.17-04.29.19:298][728]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.17-04.29.20:582][728]LogSlate: Took 0.000428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.17-04.29.24:210][728]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0294 seconds. Added 116 classes and 0 folders.
+[2018.02.17-04.29.33:361][728]LogSlate: Took 0.017339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.17-04.29.35:139][729]LogSlate: Took 0.025287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.17-04.31.40:736][840]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.17-04.31.40:905][840]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.31.40:941][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-04.31.41:063][840]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 17. 오후 10:31:40)
+[2018.02.17-04.31.41:082][840]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.17-04.31.41:158][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075963s)
+[2018.02.17-04.31.41:167][840]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.17-04.31.41:167][840]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2018.02.17-04.31.41:179][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.096792s)
+[2018.02.17-04.31.41:373][840]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-04.31.41:383][840]LogInit: FAudioDevice initialized.
+[2018.02.17-04.31.41:572][840]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.17-04.31.41:707][840]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.17-13.31.41
+[2018.02.17-04.31.41:739][840]LogWorld: Bringing up level for play took: 0.035045
+[2018.02.17-04.31.41:962][840]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.02.17-04.31.42:021][840]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.904
+[2018.02.17-04.31.42:032][840]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.31.42:136][840]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.42:390][840]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.02.17-04.31.42:606][841]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.42:669][842]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.42:700][843]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.42:721][844]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.42:746][845]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.42:762][846]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.42:781][847]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.42:799][848]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.42:815][849]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.42:832][850]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.42:849][851]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.42:865][852]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.42:882][853]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.42:899][854]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.42:916][855]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.42:933][856]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.42:950][857]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.42:967][858]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.42:984][859]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:000][860]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:018][861]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:034][862]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:050][863]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:067][864]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:083][865]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:100][866]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:117][867]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:134][868]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:150][869]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:167][870]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:183][871]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:200][872]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:217][873]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:233][874]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:250][875]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:267][876]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:283][877]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:300][878]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:317][879]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:333][880]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:350][881]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:367][882]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:383][883]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:400][884]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:417][885]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:434][886]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:451][887]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:468][888]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:484][889]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:501][890]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:518][891]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:534][892]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:551][893]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:568][894]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:584][895]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:601][896]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:618][897]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:634][898]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:651][899]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:667][900]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:684][901]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:701][902]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:717][903]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:734][904]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:751][905]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:767][906]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:784][907]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:801][908]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:817][909]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:834][910]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:851][911]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:867][912]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:884][913]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:901][914]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:917][915]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:934][916]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:951][917]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:967][918]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.43:984][919]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:001][920]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:017][921]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:034][922]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:051][923]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:068][924]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:084][925]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:101][926]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:118][927]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:134][928]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:151][929]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:168][930]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:184][931]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:201][932]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:218][933]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:234][934]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:251][935]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:268][936]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:284][937]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:301][938]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:317][939]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:334][940]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:351][941]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:367][942]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:384][943]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:401][944]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:417][945]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:434][946]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:451][947]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:467][948]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:484][949]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:501][950]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:517][951]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:534][952]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:551][953]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:567][954]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:584][955]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:601][956]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:617][957]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:634][958]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:651][959]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:668][960]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:684][961]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:701][962]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:718][963]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:734][964]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:751][965]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:768][966]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:784][967]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:801][968]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:818][969]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:834][970]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:851][971]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:868][972]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:884][973]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:901][974]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:918][975]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:934][976]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:951][977]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:967][978]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.44:984][979]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:001][980]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:017][981]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:034][982]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:051][983]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:067][984]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:084][985]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:101][986]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:117][987]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:134][988]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:151][989]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:168][990]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:184][991]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:201][992]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:218][993]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:234][994]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:251][995]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:268][996]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:284][997]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:301][998]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:318][999]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:335][  0]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:352][  1]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:368][  2]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:385][  3]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:401][  4]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:418][  5]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:435][  6]LogBlueprintUserMessages: [Character_BP_319] Hello
+[2018.02.17-04.31.45:436][  6]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.31.45:720][  6]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.31.51:967][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Character_BP/Character_BP" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Character_BP/Character_BP.uasset" SILENT=true
+[2018.02.17-04.31.52:549][283]LogSavePackage: Save=273.10ms
+[2018.02.17-04.31.52:549][283]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Character_BP050E8CB142ED3D8EF086A5BCF1C5893E.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Character_BP/Character_BP.uasset'
+[2018.02.17-04.31.52:625][283]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Character_BP/Character_BP.uasset
+[2018.02.17-04.32.22:110][ 46]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.17-04.32.22:130][ 46]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.32.22:130][ 46]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.02.17-04.32.22:209][ 46]LogPlayLevel: [PlayLevel] Compiling Character_BP before play...
+[2018.02.17-04.32.23:201][ 46]LogPlayLevel: PlayLevel: Blueprint regeneration took 1070 ms (1 blueprints)
+[2018.02.17-04.32.23:201][ 46]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 17. 오후 10:32:23)
+[2018.02.17-04.32.23:201][ 46]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.17-04.32.23:207][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006017s)
+[2018.02.17-04.32.23:208][ 46]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.17-04.32.23:208][ 46]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2018.02.17-04.32.23:209][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.007592s)
+[2018.02.17-04.32.23:235][ 46]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-04.32.23:244][ 46]LogInit: FAudioDevice initialized.
+[2018.02.17-04.32.23:309][ 46]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.17-04.32.23:312][ 46]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.17-13.32.23
+[2018.02.17-04.32.23:312][ 46]LogWorld: Bringing up level for play took: 0.001718
+[2018.02.17-04.32.23:320][ 46]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.203
+[2018.02.17-04.32.23:336][ 46]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.32.26:393][212]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.32.26:437][212]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.32.45:211][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Character_BP/Character_BP" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Character_BP/Character_BP.uasset" SILENT=true
+[2018.02.17-04.32.45:321][316]LogSavePackage: Save=102.37ms
+[2018.02.17-04.32.45:321][316]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Character_BPE9518A74484883049931D59B1E2A2DBE.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Character_BP/Character_BP.uasset'
+[2018.02.17-04.32.45:649][316]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Character_BP/Character_BP.uasset
+[2018.02.17-04.32.46:989][394]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.17-04.32.47:021][394]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.32.47:021][394]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.02.17-04.32.47:037][394]LogPlayLevel: [PlayLevel] Compiling Character_BP before play...
+[2018.02.17-04.32.47:602][394]LogPlayLevel: PlayLevel: Blueprint regeneration took 580 ms (1 blueprints)
+[2018.02.17-04.32.47:602][394]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 17. 오후 10:32:47)
+[2018.02.17-04.32.47:602][394]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.17-04.32.47:608][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006019s)
+[2018.02.17-04.32.47:609][394]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.17-04.32.47:609][394]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2018.02.17-04.32.47:609][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.007153s)
+[2018.02.17-04.32.47:633][394]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-04.32.47:643][394]LogInit: FAudioDevice initialized.
+[2018.02.17-04.32.47:739][394]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.17-04.32.47:741][394]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.17-13.32.47
+[2018.02.17-04.32.47:741][394]LogWorld: Bringing up level for play took: 0.001566
+[2018.02.17-04.32.47:744][394]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.627
+[2018.02.17-04.32.47:745][394]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.32.51:088][577]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.32.51:136][577]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.32.54:305][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Character_BP/Character_BP" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Character_BP/Character_BP.uasset" SILENT=true
+[2018.02.17-04.32.54:413][745]LogSavePackage: Save=101.50ms
+[2018.02.17-04.32.54:413][745]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Character_BP1ACEE8294FD14C6C6D39D9BFE04F4484.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Character_BP/Character_BP.uasset'
+[2018.02.17-04.32.54:418][745]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Character_BP/Character_BP.uasset
+[2018.02.17-04.33.00:038][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Character_BP/Character_BP" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Character_BP/Character_BP.uasset" SILENT=true
+[2018.02.17-04.33.00:136][ 70]LogSavePackage: Save=92.96ms
+[2018.02.17-04.33.00:136][ 70]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Character_BP87CA876D41B8BAF799DF6DBA5A4BDB59.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Character_BP/Character_BP.uasset'
+[2018.02.17-04.33.00:142][ 70]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Character_BP/Character_BP.uasset
+[2018.02.17-04.33.12:840][824]BlueprintLog: New page: Character_BP 컴파일
+[2018.02.17-04.33.14:785][899]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.17-04.33.14:815][899]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.33.14:815][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-04.33.14:815][899]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 17. 오후 10:33:14)
+[2018.02.17-04.33.14:815][899]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.17-04.33.14:822][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005637s)
+[2018.02.17-04.33.14:822][899]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.17-04.33.14:822][899]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2018.02.17-04.33.14:822][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.007152s)
+[2018.02.17-04.33.14:848][899]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-04.33.14:856][899]LogInit: FAudioDevice initialized.
+[2018.02.17-04.33.14:909][899]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.17-04.33.14:911][899]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.17-13.33.14
+[2018.02.17-04.33.14:911][899]LogWorld: Bringing up level for play took: 0.001539
+[2018.02.17-04.33.14:915][899]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.202
+[2018.02.17-04.33.14:916][899]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.33.21:171][242]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.33.21:240][242]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.33.23:644][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.17-04.33.25:588][399]LogEditorViewport: Clicking on Actor (LMB): TwinStickPawn_C (TwinStickPawn)
+[2018.02.17-04.33.31:674][713]LogSavePackage: Save=167.97ms
+[2018.02.17-04.33.31:674][713]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap920115D748A9D930F8F39B9E46718651.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2018.02.17-04.33.31:704][713]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.02.17-04.33.32:089][713]LogSavePackage: Save=174.54ms
+[2018.02.17-04.33.32:089][713]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltData561D2DE74ED9C3FE3C48AAA3041E6460.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.02.17-04.33.32:123][713]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.02.17-04.33.32:529][728]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.17-04.33.32:547][728]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.33.32:548][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-04.33.32:549][728]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 17. 오후 10:33:32)
+[2018.02.17-04.33.32:549][728]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.17-04.33.32:556][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006564s)
+[2018.02.17-04.33.32:556][728]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.17-04.33.32:557][728]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2018.02.17-04.33.32:557][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.007831s)
+[2018.02.17-04.33.32:663][728]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-04.33.32:671][728]LogInit: FAudioDevice initialized.
+[2018.02.17-04.33.32:773][728]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.17-04.33.32:775][728]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.17-13.33.32
+[2018.02.17-04.33.32:884][728]LogWorld: Bringing up level for play took: 0.110210
+[2018.02.17-04.33.32:891][728]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.227
+[2018.02.17-04.33.32:891][728]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.33.35:470][868]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.33.35:593][868]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.33.37:259][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.17-04.33.38:536][  8]LogEditorViewport: Clicking on Actor (LMB): TwinStickPawn_C (TwinStickPawn)
+[2018.02.17-04.33.44:265][332]Cmd: DELETE
+[2018.02.17-04.33.44:265][332]Cmd: ACTOR DELETE
+[2018.02.17-04.33.44:647][332]LogEditorActor: Deleted Actor: TwinStickPawn_C
+[2018.02.17-04.33.44:723][332]LogEditorActor: Deleted 1 Actors (0.174 secs)
+[2018.02.17-04.33.48:360][530]LogEditorViewport: Clicking on Actor (LMB): Character_BP_C (Character_BP)
+[2018.02.17-04.33.53:524][804]LogSavePackage: Save=149.01ms
+[2018.02.17-04.33.53:525][804]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap9352F57241875D5ABFA9C5BFB89A4F07.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2018.02.17-04.33.53:529][804]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.02.17-04.33.53:768][804]LogSavePackage: Save=93.58ms
+[2018.02.17-04.33.53:768][804]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltDataED861D5B4D10D10E1403D9BD7D20AF68.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.02.17-04.33.53:808][804]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.02.17-04.33.54:581][840]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.17-04.33.54:599][840]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.33.54:599][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-04.33.54:599][840]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 17. 오후 10:33:54)
+[2018.02.17-04.33.54:599][840]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.17-04.33.54:605][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005430s)
+[2018.02.17-04.33.54:605][840]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.17-04.33.54:606][840]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2018.02.17-04.33.54:606][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.006638s)
+[2018.02.17-04.33.54:661][840]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-04.33.54:669][840]LogInit: FAudioDevice initialized.
+[2018.02.17-04.33.54:773][840]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.17-04.33.54:775][840]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.17-13.33.54
+[2018.02.17-04.33.54:776][840]LogWorld: Bringing up level for play took: 0.001788
+[2018.02.17-04.33.54:784][840]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.333
+[2018.02.17-04.33.54:784][840]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.33.57:501][993]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.33.57:562][993]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.33.58:838][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.17-04.33.59:844][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.17-04.34.00:651][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.17-04.34.01:106][178]LogEditorViewport: Clicking on Actor (LMB): Character_BP_C (Character_BP)
+[2018.02.17-04.34.11:280][773]Cmd: DELETE
+[2018.02.17-04.34.11:280][773]Cmd: ACTOR DELETE
+[2018.02.17-04.34.11:282][773]LogEditorActor: Deleted Actor: Character_BP_C
+[2018.02.17-04.34.11:329][773]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2018.02.17-04.34.12:506][821]LogSavePackage: Save=149.00ms
+[2018.02.17-04.34.12:507][821]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap598959CC4BD878932A2586B676AE8278.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2018.02.17-04.34.12:511][821]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.02.17-04.34.12:748][821]LogSavePackage: Save=93.22ms
+[2018.02.17-04.34.12:748][821]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltData605B196E429FE91ABA7DAF9FF9DD2C74.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.02.17-04.34.12:751][821]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.02.17-04.34.13:298][849]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.17-04.34.13:318][849]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.34.13:319][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-04.34.13:319][849]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 17. 오후 10:34:13)
+[2018.02.17-04.34.13:319][849]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.17-04.34.13:324][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005311s)
+[2018.02.17-04.34.13:325][849]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.17-04.34.13:325][849]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2018.02.17-04.34.13:325][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.006640s)
+[2018.02.17-04.34.13:351][849]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-04.34.13:359][849]LogInit: FAudioDevice initialized.
+[2018.02.17-04.34.13:470][849]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.17-04.34.13:472][849]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.17-13.34.13
+[2018.02.17-04.34.13:473][849]LogWorld: Bringing up level for play took: 0.001457
+[2018.02.17-04.34.13:587][849]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=682.752 Y=-36.005 Z=111.721] for [Character_BP_C]
+[2018.02.17-04.34.13:587][849]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Character_BP_C at Rotation: Pitch 0.000000 Yaw -179.999893 Roll 0.000000
+Translation: 682.751587 -36.005325 111.721054
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.17-04.34.13:614][849]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.497
+[2018.02.17-04.34.13:615][849]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.34.15:066][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.34.15:120][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.34.34:962][ 34]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.17-04.34.35:969][ 67]LogSavePackage: Save=193.05ms
+[2018.02.17-04.34.35:969][ 67]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap5CBFB7954163DE01FC1BF5A67D9C786A.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2018.02.17-04.34.35:975][ 67]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.02.17-04.34.36:236][ 67]LogSavePackage: Save=106.39ms
+[2018.02.17-04.34.36:236][ 67]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltData0A9416C44C9D0CDD86969282BEF64081.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.02.17-04.34.36:239][ 67]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.02.17-04.34.36:535][ 76]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.17-04.34.36:557][ 76]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.34.36:558][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-04.34.36:558][ 76]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 17. 오후 10:34:36)
+[2018.02.17-04.34.36:558][ 76]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.17-04.34.36:565][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006346s)
+[2018.02.17-04.34.36:565][ 76]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.17-04.34.36:566][ 76]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2018.02.17-04.34.36:566][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.007539s)
+[2018.02.17-04.34.36:591][ 76]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-04.34.36:600][ 76]LogInit: FAudioDevice initialized.
+[2018.02.17-04.34.36:715][ 76]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.17-04.34.36:716][ 76]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.17-13.34.36
+[2018.02.17-04.34.36:717][ 76]LogWorld: Bringing up level for play took: 0.001245
+[2018.02.17-04.34.36:726][ 76]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.392
+[2018.02.17-04.34.36:726][ 76]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.34.39:822][249]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.34.39:891][249]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.34.45:314][542]LogSavePackage: Save=147.65ms
+[2018.02.17-04.34.45:314][542]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap3BC63F9445D49E4CA133F7A3B9078D92.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2018.02.17-04.34.45:319][542]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.02.17-04.34.45:559][542]LogSavePackage: Save=93.36ms
+[2018.02.17-04.34.45:559][542]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltDataF74A28E245F22D8A10D848A3DBDC2708.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.02.17-04.34.45:562][542]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.02.17-04.34.46:214][578]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.17-04.34.46:232][578]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.34.46:233][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-04.34.46:233][578]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 17. 오후 10:34:46)
+[2018.02.17-04.34.46:233][578]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.17-04.34.46:238][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005530s)
+[2018.02.17-04.34.46:239][578]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.17-04.34.46:239][578]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2018.02.17-04.34.46:240][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.006774s)
+[2018.02.17-04.34.46:264][578]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-04.34.46:272][578]LogInit: FAudioDevice initialized.
+[2018.02.17-04.34.46:382][578]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.17-04.34.46:384][578]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.17-13.34.46
+[2018.02.17-04.34.46:385][578]LogWorld: Bringing up level for play took: 0.001283
+[2018.02.17-04.34.46:385][578]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=682.752 Y=-36.005 Z=111.721] for [Character_BP_C]
+[2018.02.17-04.34.46:386][578]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Character_BP_C at Rotation: Pitch 0.000000 Yaw -179.999893 Roll 0.000000
+Translation: 682.751587 -36.005325 111.721054
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.17-04.34.46:394][578]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.723
+[2018.02.17-04.34.46:395][578]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.34.47:580][643]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.34.47:635][643]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.34.49:612][756]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.17-04.34.49:631][756]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.34.49:631][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-04.34.49:631][756]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 17. 오후 10:34:49)
+[2018.02.17-04.34.49:632][756]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.17-04.34.49:637][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005339s)
+[2018.02.17-04.34.49:638][756]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.17-04.34.49:638][756]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2018.02.17-04.34.49:638][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.006352s)
+[2018.02.17-04.34.49:663][756]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-04.34.49:672][756]LogInit: FAudioDevice initialized.
+[2018.02.17-04.34.49:798][756]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.17-04.34.49:800][756]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.17-13.34.49
+[2018.02.17-04.34.49:800][756]LogWorld: Bringing up level for play took: 0.001331
+[2018.02.17-04.34.49:810][756]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.692
+[2018.02.17-04.34.49:810][756]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.34.52:731][923]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.34.52:792][923]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.35.03:408][556]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.17-04.35.03:431][556]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.35.03:431][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-04.35.03:431][556]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 17. 오후 10:35:03)
+[2018.02.17-04.35.03:431][556]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.17-04.35.03:437][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005682s)
+[2018.02.17-04.35.03:437][556]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.17-04.35.03:438][556]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2018.02.17-04.35.03:438][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.006982s)
+[2018.02.17-04.35.03:463][556]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-04.35.03:472][556]LogInit: FAudioDevice initialized.
+[2018.02.17-04.35.03:597][556]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.17-04.35.03:599][556]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.17-13.35.03
+[2018.02.17-04.35.03:599][556]LogWorld: Bringing up level for play took: 0.001243
+[2018.02.17-04.35.03:600][556]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=682.752 Y=-36.005 Z=111.721] for [Character_BP_C]
+[2018.02.17-04.35.03:600][556]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Character_BP_C at Rotation: Pitch 0.000000 Yaw -179.999893 Roll 0.000000
+Translation: 682.751587 -36.005325 111.721054
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.17-04.35.03:608][556]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.491
+[2018.02.17-04.35.03:609][556]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.35.05:711][674]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.35.05:767][674]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.35.06:598][721]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.17-04.35.06:614][721]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.35.06:615][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-04.35.06:615][721]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 17. 오후 10:35:06)
+[2018.02.17-04.35.06:615][721]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.17-04.35.06:622][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006523s)
+[2018.02.17-04.35.06:622][721]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.17-04.35.06:623][721]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2018.02.17-04.35.06:623][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.007843s)
+[2018.02.17-04.35.06:646][721]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-04.35.06:655][721]LogInit: FAudioDevice initialized.
+[2018.02.17-04.35.06:775][721]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.17-04.35.06:777][721]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.17-13.35.06
+[2018.02.17-04.35.06:777][721]LogWorld: Bringing up level for play took: 0.001261
+[2018.02.17-04.35.06:778][721]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=682.752 Y=-36.005 Z=111.721] for [Character_BP_C]
+[2018.02.17-04.35.06:778][721]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Character_BP_C at Rotation: Pitch 0.000000 Yaw -179.999893 Roll 0.000000
+Translation: 682.751587 -36.005325 111.721054
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.17-04.35.06:784][721]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.333
+[2018.02.17-04.35.06:785][721]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.35.07:435][754]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.35.07:500][754]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.35.08:214][794]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.17-04.35.08:233][794]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.35.08:234][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-04.35.08:234][794]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 17. 오후 10:35:08)
+[2018.02.17-04.35.08:234][794]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.17-04.35.08:240][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005590s)
+[2018.02.17-04.35.08:240][794]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.17-04.35.08:240][794]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2018.02.17-04.35.08:241][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.006719s)
+[2018.02.17-04.35.08:264][794]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-04.35.08:273][794]LogInit: FAudioDevice initialized.
+[2018.02.17-04.35.08:396][794]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.17-04.35.08:398][794]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.17-13.35.08
+[2018.02.17-04.35.08:399][794]LogWorld: Bringing up level for play took: 0.001253
+[2018.02.17-04.35.08:400][794]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=682.752 Y=-36.005 Z=111.721] for [Character_BP_C]
+[2018.02.17-04.35.08:400][794]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Character_BP_C at Rotation: Pitch 0.000000 Yaw -179.999893 Roll 0.000000
+Translation: 682.751587 -36.005325 111.721054
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.17-04.35.08:409][794]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.708
+[2018.02.17-04.35.08:410][794]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.35.08:846][814]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.35.08:910][814]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.35.09:726][860]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.02.17-04.35.19:509][428]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.17-04.35.19:533][428]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.35.19:533][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-04.35.19:533][428]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 17. 오후 10:35:19)
+[2018.02.17-04.35.19:533][428]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.17-04.35.19:541][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007155s)
+[2018.02.17-04.35.19:541][428]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.17-04.35.19:542][428]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2018.02.17-04.35.19:542][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.008672s)
+[2018.02.17-04.35.19:567][428]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-04.35.19:575][428]LogInit: FAudioDevice initialized.
+[2018.02.17-04.35.19:679][428]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.17-04.35.19:681][428]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.17-13.35.19
+[2018.02.17-04.35.19:681][428]LogWorld: Bringing up level for play took: 0.001263
+[2018.02.17-04.35.19:682][428]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=682.752 Y=-36.005 Z=111.721] for [Character_BP_C]
+[2018.02.17-04.35.19:682][428]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Character_BP_C at Rotation: Pitch 0.000000 Yaw -179.999893 Roll 0.000000
+Translation: 682.751587 -36.005325 111.721054
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.17-04.35.19:690][428]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.573
+[2018.02.17-04.35.19:691][428]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.35.21:279][516]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-04.35.21:330][516]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-06.16.28:677][129]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.02.17-06.16.34:680][457]LogSavePackage: Save=152.52ms
+[2018.02.17-06.16.34:680][457]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap18616E5242AC3A2BC11AC48CE6F444F8.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2018.02.17-06.16.34:687][457]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.02.17-06.16.34:943][457]LogSavePackage: Save=105.04ms
+[2018.02.17-06.16.34:943][457]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltDataBACC754946FEE4A89CE65599824C9F10.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.02.17-06.16.34:946][457]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.02.17-06.16.35:538][486]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.17-06.16.35:559][486]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-06.16.35:559][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-06.16.35:559][486]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 18. 오전 12:16:35)
+[2018.02.17-06.16.35:559][486]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.17-06.16.35:565][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005712s)
+[2018.02.17-06.16.35:566][486]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.17-06.16.35:566][486]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2018.02.17-06.16.35:566][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.007038s)
+[2018.02.17-06.16.35:592][486]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-06.16.35:604][486]LogInit: FAudioDevice initialized.
+[2018.02.17-06.16.35:702][486]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.17-06.16.35:705][486]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.17-15.16.35
+[2018.02.17-06.16.35:706][486]LogWorld: Bringing up level for play took: 0.002180
+[2018.02.17-06.16.35:712][486]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.595
+[2018.02.17-06.16.35:713][486]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-06.16.38:673][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-06.16.38:735][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-06.17.42:600][287]BlueprintLog: New page: Character_BP 컴파일
+[2018.02.17-06.17.43:525][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Character_BP/Character_BP" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Character_BP/Character_BP.uasset" SILENT=true
+[2018.02.17-06.17.43:690][308]LogSavePackage: Save=156.82ms
+[2018.02.17-06.17.43:690][308]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Character_BP644CEBD34602D8655F44D09DF67810DB.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Character_BP/Character_BP.uasset'
+[2018.02.17-06.17.43:695][308]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Character_BP/Character_BP.uasset
+[2018.02.17-06.17.44:444][352]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.17-06.17.44:468][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-06.17.44:468][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-06.17.44:468][352]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 18. 오전 12:17:44)
+[2018.02.17-06.17.44:468][352]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.17-06.17.44:474][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005842s)
+[2018.02.17-06.17.44:475][352]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.17-06.17.44:476][352]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2018.02.17-06.17.44:476][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.007442s)
+[2018.02.17-06.17.44:504][352]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-06.17.44:513][352]LogInit: FAudioDevice initialized.
+[2018.02.17-06.17.44:607][352]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.17-06.17.44:609][352]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.17-15.17.44
+[2018.02.17-06.17.44:609][352]LogWorld: Bringing up level for play took: 0.001209
+[2018.02.17-06.17.44:610][352]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=682.752 Y=-36.005 Z=111.721] for [Character_BP_C]
+[2018.02.17-06.17.44:610][352]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Character_BP_C at Rotation: Pitch 0.000000 Yaw -179.999893 Roll 0.000000
+Translation: 682.751587 -36.005325 111.721054
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.17-06.17.44:617][352]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.5
+[2018.02.17-06.17.44:618][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-06.17.47:077][483]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-06.17.47:145][483]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.17-06.17.50:770][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.17-06.17.56:740][946]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.02.17-06.18.07:201][114]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.17-06.18.07:290][114]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.02.17-06.18.07:538][115]Cmd: QUIT_EDITOR
+[2018.02.17-06.18.08:983][115]LogExit: Preparing to exit.
+[2018.02.17-06.18.09:894][115]LogDirectoryWatcher: A directory notification for 'D:/Ari/Unreal Projects/FinalProject/Content/' was aborted.
+[2018.02.17-06.18.10:064][115]LogExit: Editor shut down
+[2018.02.17-06.18.10:073][115]LogExit: Transaction tracking system shut down
+[2018.02.17-06.18.10:535][115]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.17-06.18.10:535][115]LogDirectoryWatcher: A directory notification for '../../../../../Unreal Projects/FinalProject/Content/' was aborted.
+[2018.02.17-06.18.10:535][115]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.17-06.18.10:535][115]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.17-06.18.10:535][115]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.17-06.18.10:535][115]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.17-06.18.10:536][115]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.17-06.18.12:093][115]LogExit: Object subsystem successfully closed.
+[2018.02.17-06.18.12:260][115]LogD3D11RHI: Shutdown
+[2018.02.17-06.18.12:289][115]LogD3D11RHI: CleanupD3DDevice
+[2018.02.17-06.18.12:319][115]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.17-06.18.13:234][115]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (560)
+[2018.02.17-06.18.13:234][115]LogModuleManager: Shutting down and abandoning module BlueprintGraph (558)
+[2018.02.17-06.18.13:234][115]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (556)
+[2018.02.17-06.18.13:234][115]LogModuleManager: Shutting down and abandoning module SceneOutliner (554)
+[2018.02.17-06.18.13:234][115]LogModuleManager: Shutting down and abandoning module AddContentDialog (552)
+[2018.02.17-06.18.13:234][115]LogDirectoryWatcher: A directory notification for 'D:/Ari/Program Files/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.17-06.18.13:237][115]LogModuleManager: Shutting down and abandoning module WidgetCarousel (551)
+[2018.02.17-06.18.13:237][115]LogModuleManager: Shutting down and abandoning module EditorWidgets (548)
+[2018.02.17-06.18.13:237][115]LogModuleManager: Shutting down and abandoning module CollectionManager (546)
+[2018.02.17-06.18.13:273][115]LogDirectoryWatcher: A directory notification for 'D:/Ari/Unreal Projects/FinalProject/Content/Collections/' was aborted.
+[2018.02.17-06.18.13:273][115]LogDirectoryWatcher: A directory notification for 'D:/Ari/Unreal Projects/FinalProject/Content/Developers/ar981/Collections/' was aborted.
+[2018.02.17-06.18.13:273][115]LogDirectoryWatcher: A directory notification for 'D:/Ari/Unreal Projects/FinalProject/Saved/Collections/' was aborted.
+[2018.02.17-06.18.13:273][115]LogModuleManager: Shutting down and abandoning module StatsViewer (544)
+[2018.02.17-06.18.13:273][115]LogModuleManager: Shutting down and abandoning module FoliageEdit (542)
+[2018.02.17-06.18.13:290][115]LogModuleManager: Shutting down and abandoning module LandscapeEditor (540)
+[2018.02.17-06.18.13:325][115]LogModuleManager: Shutting down and abandoning module MeshPaintMode (538)
+[2018.02.17-06.18.13:336][115]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (536)
+[2018.02.17-06.18.13:336][115]LogModuleManager: Shutting down and abandoning module ActorPickerMode (534)
+[2018.02.17-06.18.13:336][115]LogModuleManager: Shutting down and abandoning module GeometryMode (532)
+[2018.02.17-06.18.13:336][115]LogModuleManager: Shutting down and abandoning module TextureAlignMode (530)
+[2018.02.17-06.18.13:336][115]LogModuleManager: Shutting down and abandoning module BspMode (528)
+[2018.02.17-06.18.13:336][115]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (526)
+[2018.02.17-06.18.13:336][115]LogModuleManager: Shutting down and abandoning module HardwareSurvey (524)
+[2018.02.17-06.18.13:336][115]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (522)
+[2018.02.17-06.18.13:354][115]LogModuleManager: Shutting down and abandoning module AutomationWorker (520)
+[2018.02.17-06.18.13:367][115]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (518)
+[2018.02.17-06.18.13:378][115]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (516)
+[2018.02.17-06.18.13:433][115]LogModuleManager: Shutting down and abandoning module PlacementMode (515)
+[2018.02.17-06.18.13:433][115]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (512)
+[2018.02.17-06.18.13:434][115]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (510)
+[2018.02.17-06.18.13:434][115]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (508)
+[2018.02.17-06.18.13:434][115]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (506)
+[2018.02.17-06.18.13:434][115]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (504)
+[2018.02.17-06.18.13:434][115]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (502)
+[2018.02.17-06.18.13:434][115]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (500)
+[2018.02.17-06.18.13:434][115]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (498)
+[2018.02.17-06.18.13:434][115]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (496)
+[2018.02.17-06.18.13:434][115]LogModuleManager: Shutting down and abandoning module CharacterAI (494)
+[2018.02.17-06.18.13:434][115]LogModuleManager: Shutting down and abandoning module AudioCapture (492)
+[2018.02.17-06.18.13:450][115]LogModuleManager: Shutting down and abandoning module SequenceRecorder (491)
+[2018.02.17-06.18.13:472][115]LogModuleManager: Shutting down and abandoning module SmartSnapping (488)
+[2018.02.17-06.18.13:472][115]LogModuleManager: Shutting down and abandoning module SessionServices (486)
+[2018.02.17-06.18.13:472][115]LogModuleManager: Shutting down and abandoning module ViewportSnapping (484)
+[2018.02.17-06.18.13:472][115]LogModuleManager: Shutting down and abandoning module ViewportInteraction (482)
+[2018.02.17-06.18.13:472][115]LogModuleManager: Shutting down and abandoning module ClothPainter (480)
+[2018.02.17-06.18.13:537][115]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (479)
+[2018.02.17-06.18.13:608][115]LogModuleManager: Shutting down and abandoning module LogVisualizer (476)
+[2018.02.17-06.18.13:789][115]LogModuleManager: Shutting down and abandoning module IntroTutorials (474)
+[2018.02.17-06.18.14:000][115]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (473)
+[2018.02.17-06.18.14:050][115]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (470)
+[2018.02.17-06.18.14:050][115]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (468)
+[2018.02.17-06.18.14:050][115]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (466)
+[2018.02.17-06.18.14:050][115]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (465)
+[2018.02.17-06.18.14:986][115]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (462)
+[2018.02.17-06.18.14:986][115]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (460)
+[2018.02.17-06.18.14:986][115]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (458)
+[2018.02.17-06.18.14:986][115]LogModuleManager: Shutting down and abandoning module InputBindingEditor (456)
+[2018.02.17-06.18.15:038][115]LogModuleManager: Shutting down and abandoning module MergeActors (454)
+[2018.02.17-06.18.15:059][115]LogModuleManager: Shutting down and abandoning module SizeMap (452)
+[2018.02.17-06.18.15:059][115]LogModuleManager: Shutting down and abandoning module TreeMap (450)
+[2018.02.17-06.18.15:087][115]LogModuleManager: Shutting down and abandoning module ReferenceViewer (448)
+[2018.02.17-06.18.15:087][115]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (446)
+[2018.02.17-06.18.15:101][115]LogModuleManager: Shutting down and abandoning module LocalizationService (445)
+[2018.02.17-06.18.15:109][115]LogModuleManager: Shutting down and abandoning module HardwareTargeting (442)
+[2018.02.17-06.18.15:109][115]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (440)
+[2018.02.17-06.18.15:109][115]LogModuleManager: Shutting down and abandoning module UndoHistory (438)
+[2018.02.17-06.18.15:109][115]LogModuleManager: Shutting down and abandoning module XmlParser (436)
+[2018.02.17-06.18.15:120][115]LogModuleManager: Shutting down and abandoning module Blutility (434)
+[2018.02.17-06.18.15:120][115]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (432)
+[2018.02.17-06.18.15:120][115]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (431)
+[2018.02.17-06.18.15:120][115]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (428)
+[2018.02.17-06.18.15:121][115]LogModuleManager: Shutting down and abandoning module SettingsEditor (426)
+[2018.02.17-06.18.15:148][115]LogModuleManager: Shutting down and abandoning module ProjectLauncher (424)
+[2018.02.17-06.18.15:175][115]LogModuleManager: Shutting down and abandoning module SessionFrontend (422)
+[2018.02.17-06.18.15:198][115]LogModuleManager: Shutting down and abandoning module ProfilerClient (420)
+[2018.02.17-06.18.15:208][115]LogModuleManager: Shutting down and abandoning module DeviceManager (418)
+[2018.02.17-06.18.15:216][115]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (417)
+[2018.02.17-06.18.15:271][115]LogModuleManager: Shutting down and abandoning module AutomationController (414)
+[2018.02.17-06.18.15:293][115]LogModuleManager: Shutting down and abandoning module AutomationWindow (412)
+[2018.02.17-06.18.15:320][115]LogModuleManager: Shutting down and abandoning module Layers (410)
+[2018.02.17-06.18.15:362][115]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (408)
+[2018.02.17-06.18.15:362][115]LogModuleManager: Shutting down and abandoning module DetailCustomizations (406)
+[2018.02.17-06.18.15:380][115]LogModuleManager: Shutting down and abandoning module PackagesDialog (404)
+[2018.02.17-06.18.15:416][115]LogModuleManager: Shutting down and abandoning module Persona (402)
+[2018.02.17-06.18.15:456][115]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (401)
+[2018.02.17-06.18.15:456][115]LogModuleManager: Shutting down and abandoning module AnimGraph (399)
+[2018.02.17-06.18.15:456][115]LogModuleManager: Shutting down and abandoning module Kismet (396)
+[2018.02.17-06.18.15:479][115]LogModuleManager: Shutting down and abandoning module ClassViewer (394)
+[2018.02.17-06.18.15:480][115]LogModuleManager: Shutting down and abandoning module Toolbox (392)
+[2018.02.17-06.18.15:480][115]LogModuleManager: Shutting down and abandoning module ModuleUI (390)
+[2018.02.17-06.18.15:496][115]LogModuleManager: Shutting down and abandoning module MovieSceneTools (388)
+[2018.02.17-06.18.15:569][115]LogModuleManager: Shutting down and abandoning module OutputLog (386)
+[2018.02.17-06.18.15:647][115]LogModuleManager: Shutting down and abandoning module GammaUI (384)
+[2018.02.17-06.18.15:660][115]LogModuleManager: Shutting down and abandoning module Documentation (382)
+[2018.02.17-06.18.15:660][115]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (380)
+[2018.02.17-06.18.15:660][115]LogModuleManager: Shutting down and abandoning module MovieScene (378)
+[2018.02.17-06.18.15:660][115]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (376)
+[2018.02.17-06.18.15:660][115]LogModuleManager: Shutting down and abandoning module LauncherPlatform (374)
+[2018.02.17-06.18.15:660][115]LogModuleManager: Shutting down and abandoning module AnalyticsET (372)
+[2018.02.17-06.18.15:660][115]LogModuleManager: Shutting down and abandoning module PortalServices (370)
+[2018.02.17-06.18.15:660][115]LogModuleManager: Shutting down and abandoning module PortalRpc (368)
+[2018.02.17-06.18.15:660][115]LogModuleManager: Shutting down and abandoning module MessagingRpc (366)
+[2018.02.17-06.18.15:660][115]LogModuleManager: Shutting down and abandoning module AIModule (364)
+[2018.02.17-06.18.15:669][115]LogModuleManager: Shutting down and abandoning module GameplayDebugger (363)
+[2018.02.17-06.18.15:670][115]LogModuleManager: Shutting down and abandoning module AITestSuite (361)
+[2018.02.17-06.18.15:679][115]LogModuleManager: Shutting down and abandoning module DesktopPlatform (358)
+[2018.02.17-06.18.15:679][115]LogModuleManager: Shutting down and abandoning module ProfilerService (356)
+[2018.02.17-06.18.15:720][115]LogModuleManager: Shutting down and abandoning module TaskGraph (354)
+[2018.02.17-06.18.15:762][115]LogModuleManager: Shutting down and abandoning module SubstanceLiveLink (352)
+[2018.02.17-06.18.15:762][115]LogModuleManager: Shutting down and abandoning module SubstanceSource (350)
+[2018.02.17-06.18.15:779][115]LogModuleManager: Shutting down and abandoning module SubstanceEditor (348)
+[2018.02.17-06.18.15:791][115]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.02.17-06.18.15:791][115]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.02.17-06.18.15:791][115]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.02.17-06.18.15:791][115]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.02.17-06.18.15:801][115]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.02.17-06.18.15:801][115]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.02.17-06.18.15:801][115]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.02.17-06.18.15:816][115]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.02.17-06.18.15:816][115]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.02.17-06.18.15:816][115]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.02.17-06.18.15:816][115]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.02.17-06.18.15:836][115]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.02.17-06.18.15:836][115]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.02.17-06.18.15:836][115]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.02.17-06.18.15:836][115]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.02.17-06.18.15:848][115]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.02.17-06.18.15:848][115]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.02.17-06.18.15:857][115]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.02.17-06.18.15:857][115]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.02.17-06.18.15:857][115]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.02.17-06.18.15:886][115]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.02.17-06.18.15:908][115]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.02.17-06.18.15:908][115]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.02.17-06.18.15:908][115]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.02.17-06.18.15:908][115]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.02.17-06.18.15:933][115]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.02.17-06.18.15:960][115]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.02.17-06.18.15:960][115]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.02.17-06.18.15:960][115]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.02.17-06.18.15:960][115]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.02.17-06.18.15:960][115]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.02.17-06.18.15:961][115]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.02.17-06.18.15:987][115]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.02.17-06.18.16:002][115]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.02.17-06.18.16:014][115]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.02.17-06.18.16:028][115]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.02.17-06.18.16:028][115]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.02.17-06.18.16:044][115]LogDirectoryWatcher: A directory notification for 'D:/Ari/Unreal Projects/FinalProject/Binaries/Win64' was aborted.
+[2018.02.17-06.18.16:044][115]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (270)
+[2018.02.17-06.18.16:044][115]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (268)
+[2018.02.17-06.18.16:044][115]LogModuleManager: Shutting down and abandoning module PhysXVehicles (266)
+[2018.02.17-06.18.16:045][115]LogModuleManager: Shutting down and abandoning module OculusEditor (264)
+[2018.02.17-06.18.16:045][115]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (262)
+[2018.02.17-06.18.16:045][115]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (260)
+[2018.02.17-06.18.16:045][115]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (258)
+[2018.02.17-06.18.16:051][115]LogModuleManager: Shutting down and abandoning module UdpMessaging (256)
+[2018.02.17-06.18.16:163][115]LogModuleManager: Shutting down and abandoning module TcpMessaging (254)
+[2018.02.17-06.18.16:280][115]LogModuleManager: Shutting down and abandoning module SubstanceCore (252)
+[2018.02.17-06.18.16:280][115]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.17-06.18.16:376][115]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.17-06.18.16:377][115]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.17-06.18.16:377][115]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.17-06.18.16:493][115]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.17-06.18.16:493][115]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.17-06.18.16:494][115]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.17-06.18.16:494][115]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.17-06.18.16:494][115]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.17-06.18.16:501][115]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.17-06.18.16:522][115]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.17-06.18.16:522][115]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.17-06.18.16:522][115]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.17-06.18.16:522][115]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.17-06.18.16:522][115]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.17-06.18.16:522][115]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.17-06.18.16:528][115]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.17-06.18.16:528][115]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.17-06.18.16:528][115]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.17-06.18.16:571][115]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.17-06.18.16:586][115]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.17-06.18.16:586][115]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.17-06.18.16:630][115]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.17-06.18.16:645][115]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.17-06.18.16:650][115]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.17-06.18.16:650][115]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.17-06.18.16:665][115]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.17-06.18.16:785][115]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.17-06.18.16:831][115]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.17-06.18.16:831][115]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.17-06.18.16:858][115]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.17-06.18.16:858][115]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.17-06.18.16:860][115]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.17-06.18.16:860][115]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.17-06.18.16:860][115]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.17-06.18.16:860][115]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.17-06.18.16:860][115]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.17-06.18.16:860][115]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.17-06.18.16:860][115]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.17-06.18.16:860][115]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.17-06.18.16:861][115]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.17-06.18.16:861][115]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.17-06.18.16:889][115]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.17-06.18.16:910][115]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.17-06.18.16:910][115]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.17-06.18.16:922][115]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.17-06.18.16:922][115]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.17-06.18.16:941][115]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.17-06.18.16:965][115]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.17-06.18.17:022][115]LogDerivedDataCache: Shutdown
+[2018.02.17-06.18.17:022][115]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.17-06.18.17:022][115]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.17-06.18.17:031][115]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.17-06.18.17:047][115]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.17-06.18.17:069][115]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.17-06.18.17:069][115]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.17-06.18.17:090][115]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.17-06.18.17:107][115]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.17-06.18.17:108][115]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.17-06.18.17:108][115]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.17-06.18.17:108][115]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.17-06.18.17:108][115]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.17-06.18.17:133][115]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.17-06.18.17:152][115]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.17-06.18.17:152][115]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.17-06.18.17:164][115]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA5ECAB60-43D5-66F0-E0A4-87A448703DF7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=5712ad7f45d9e96aa4003a820469c188%7C0484f503dfd84142907b84d36f52f0e9%7Cf755e3a6-1554-4250-9085-c3a0509afc01&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.17-06.18.17:180][115]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.17-06.18.17:192][115]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.17-06.18.17:206][115]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.17-06.18.17:207][115]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.17-06.18.17:216][115]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.17-06.18.17:224][115]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.17-06.18.17:224][115]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.17-06.18.17:224][115]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.17-06.18.17:254][115]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.17-06.18.17:275][115]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.17-06.18.17:275][115]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.17-06.18.17:290][115]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.17-06.18.17:290][115]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.17-06.18.17:300][115]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.17-06.18.17:300][115]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.17-06.18.17:300][115]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.17-06.18.17:300][115]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.17-06.18.17:300][115]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.17-06.18.17:300][115]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.17-06.18.17:431][115]LogExit: Exiting.
+[2018.02.17-06.18.17:443][115]Log file closed, 02/17/18 15:18:17
