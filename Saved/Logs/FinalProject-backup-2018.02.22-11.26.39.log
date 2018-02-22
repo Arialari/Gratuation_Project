@@ -1,0 +1,1080 @@
+﻿Log file open, 02/21/18 21:33:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FinalProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1645141740) SRandInit(1645141741).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 5.943102
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceCore.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceSource.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceLiveLink.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Ari/Program Files/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.21-12.33.54:335][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.21-12.33.54:335][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.21-12.33.54:466][  0]LogInit: Computer: JAEBUM-PC
+[2018.02.21-12.33.54:466][  0]LogInit: User: ar981
+[2018.02.21-12.33.54:466][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.21-12.33.54:466][  0]LogInit: High frequency timer resolution =2.435773 MHz
+[2018.02.21-12.33.54:466][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.02.21-12.33.54:466][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.21-12.33.54:466][  0]LogMemory: Process Physical Memory: 273.68 MB used, 273.68 MB peak
+[2018.02.21-12.33.54:466][  0]LogMemory: Process Virtual Memory: 271.96 MB used, 271.96 MB peak
+[2018.02.21-12.33.54:466][  0]LogMemory: Physical Memory: 4317.36 MB used,  3753.58 MB free, 8070.93 MB total
+[2018.02.21-12.33.54:466][  0]LogMemory: Virtual Memory: 670.04 MB used,  3753.58 MB free, 134217728.00 MB total
+[2018.02.21-12.33.55:295][  0]LogInit: Using OS detected language (ko-KR).
+[2018.02.21-12.33.55:295][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.02.21-12.33.55:461][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.02.21-12.33.55:891][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.21-12.33.57:450][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.21-12.33.57:775][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 850M' (Feature Level 11_0)
+[2018.02.21-12.33.57:775][  0]LogD3D11RHI:       2019/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.02.21-12.33.57:804][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.02.21-12.33.57:804][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.21-12.33.57:808][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.21-12.33.57:808][  0]LogD3D11RHI:       0/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.21-12.33.57:808][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.21-12.33.57:826][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.21-12.33.57:835][  0]LogD3D11RHI:     GPU DeviceId: 0x1391 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.21-12.33.57:835][  0]LogWindows: EnumDisplayDevices:
+[2018.02.21-12.33.57:836][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.02.21-12.33.57:836][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2018.02.21-12.33.57:837][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.02.21-12.33.57:837][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.21-12.33.57:837][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 850M
+[2018.02.21-12.33.57:837][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.21-12.33.57:837][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.21-12.33.57:837][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2018.02.21-12.33.57:916][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.21-12.33.57:980][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.21-12.33.58:020][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../Unreal Projects/FinalProject/Intermediate/Shaders/WorkingDirectory/11332/).
+[2018.02.21-12.33.58:029][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ar981/AppData/Local/Temp/UnrealShaderWorkingDir/4EC9BF744181EF5FF8A7A2A1102F7DED/'.
+[2018.02.21-12.33.58:041][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.21-12.34.04:358][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.21-12.34.04:459][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.21-12.34.04:588][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.21-12.34.04:665][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.21-12.34.05:044][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.21-12.34.05:214][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.21-12.34.05:364][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.21-12.34.05:450][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.21-12.34.05:580][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.21-12.34.05:692][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.21-12.34.05:795][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.21-12.34.05:904][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.21-12.34.05:985][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.21-12.34.06:098][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.21-12.34.06:298][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.21-12.34.06:298][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.21-12.34.06:412][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.21-12.34.06:492][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.21-12.34.06:717][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.21-12.34.06:757][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.21-12.34.06:865][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.21-12.34.06:977][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.21-12.34.07:077][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.21-12.34.07:198][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.21-12.34.07:198][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.21-12.34.09:015][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.21-12.34.10:032][  0]LogDerivedDataCache: Loaded boot cache 1.01s 78MB C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.21-12.34.10:033][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.21-12.34.10:033][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/FinalProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.21-12.34.10:033][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.21-12.34.10:033][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/FinalProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.21-12.34.10:033][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.21-12.34.10:099][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.21-12.34.10:113][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ar981/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.21-12.34.10:152][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.21-12.34.10:154][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.21-12.34.10:193][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.21-12.34.10:193][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.21-12.34.20:291][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.21-12.34.21:787][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.21-12.34.21:921][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.21-12.34.21:940][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.21-12.34.21:940][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.21-12.34.21:940][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.21-12.34.21:940][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.21-12.34.22:077][  0]LogNetVersion: FinalProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1186961665)
+[2018.02.21-12.34.22:489][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2018.02.21-12.34.24:979][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.111342 seconds
+[2018.02.21-12.34.24:991][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.21-12.34.24:991][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.02.21-12.34.24:991][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.21-12.34.25:081][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.21-12.34.58:292][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2018.02.21-12.34.58:476][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.21-12.34.58:573][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.21-12.35.00:436][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.21-12.35.01:535][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.02.21-12.35.05:240][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.21-12.35.05:814][  0]LogOcInput: OculusInput pre-init called
+[2018.02.21-12.35.07:849][  0]LogEngine: Initializing Engine...
+[2018.02.21-12.35.07:898][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.02.21-12.35.08:605][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.21-12.35.08:605][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.21-12.35.08:997][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.21-12.35.09:036][  0]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.21-12.35.09:063][  0]LogInit: FAudioDevice initialized.
+[2018.02.21-12.35.09:286][  0]LogDerivedDataCache: Saved boot cache 0.22s 78MB C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.21-12.35.09:308][  0]LogInit: Texture streaming: Enabled
+[2018.02.21-12.35.09:757][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.21-12.35.10:064][  0]LogInit: Transaction tracking system initialized
+[2018.02.21-12.35.10:662][  0]BlueprintLog: New page: 에디터 로드
+[2018.02.21-12.35.12:842][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.02.21-12.35.14:411][  0]LogConsoleResponse: Display: 
+[2018.02.21-12.35.19:031][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/' took 0.02s
+[2018.02.21-12.35.19:031][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.21-12.35.19:031][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.21-12.35.19:056][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.21-12.35.24:415][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.21-12.35.24:415][  0]LightingResults: New page: 라이팅 빌드
+[2018.02.21-12.35.24:496][  0]MapCheck: New page: 맵 체크
+[2018.02.21-12.35.24:496][  0]LightingResults: New page: 라이팅 빌드
+[2018.02.21-12.35.25:461][  0]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.21-12.35.25:584][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.21-12.35.25:597][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.21-12.35.25:699][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 102.264ms.
+[2018.02.21-12.35.25:699][  0]LogFileHelpers: Loading map 'TwinStickExampleMap' took 1.285
+[2018.02.21-12.35.26:293][  0]LogCollectionManager: Loaded 0 collections in 0.003178 seconds
+[2018.02.21-12.35.26:439][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Saved/Collections/' took 0.01s
+[2018.02.21-12.35.26:439][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/Developers/ar981/Collections/' took 0.01s
+[2018.02.21-12.35.26:439][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/Collections/' took 0.01s
+[2018.02.21-12.35.26:439][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.21-12.35.26:449][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2377 classes and 525 folders.
+[2018.02.21-12.35.26:550][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.02.21-12.35.27:729][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.02.21-12.35.27:818][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.02.21-12.35.28:060][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.02.21-12.35.28:060][  0]LogLoad: (Engine Initialization) Total time: 136.94 seconds
+[2018.02.21-12.35.28:060][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.21-12.35.28:060][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.21-12.35.28:060][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.21-12.35.28:422][  0]SourceControl: On branch master
+[2018.02.21-12.35.28:422][  0]SourceControl: Your branch is ahead of 'origin/master' by 1 commit.
+[2018.02.21-12.35.28:422][  0]SourceControl:   (use "git push" to publish your local commits)
+[2018.02.21-12.35.28:422][  0]SourceControl: Changes to be committed:
+[2018.02.21-12.35.28:422][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.02.21-12.35.28:422][  0]SourceControl: 	modified:   Content/Custom/Character_BP/Character_BP.uasset
+[2018.02.21-12.35.28:422][  0]SourceControl: 	modified:   Content/Custom/Character_BP/Character_IF.uasset
+[2018.02.21-12.35.28:422][  0]SourceControl: 	modified:   Content/Custom/Character_BP/PlayerInput_BP.uasset
+[2018.02.21-12.35.28:422][  0]SourceControl: 	modified:   Content/Custom/Character_BP/Player_BP.uasset
+[2018.02.21-12.35.28:422][  0]SourceControl: 	modified:   Content/Custom/Character_BP/Player_IF.uasset
+[2018.02.21-12.35.28:422][  0]SourceControl: 	modified:   Content/Custom/Character_BP/Sample.uasset
+[2018.02.21-12.35.28:422][  0]SourceControl: 	modified:   Content/Custom/Character_BP/Sylphod.uasset
+[2018.02.21-12.35.28:422][  0]SourceControl: 	new file:   Content/Custom/Players/Character_BP.uasset
+[2018.02.21-12.35.28:422][  0]SourceControl: 	new file:   Content/Custom/Players/Character_BP_C.uasset
+[2018.02.21-12.35.28:422][  0]SourceControl: 	new file:   Content/Custom/Players/Character_IF.uasset
+[2018.02.21-12.35.28:422][  0]SourceControl: 	new file:   Content/Custom/Players/Character_IF_C.uasset
+[2018.02.21-12.35.28:422][  0]SourceControl: 	copied:     Content/Custom/Character_BP/PlayerInput_BP.uasset -> Content/Custom/Players/PlayerInput_BP.uasset
+[2018.02.21-12.35.28:422][  0]SourceControl: 	copied:     Content/Custom/Character_BP/Player_BP.uasset -> Content/Custom/Players/Player_BP.uasset
+[2018.02.21-12.35.28:422][  0]SourceControl: 	copied:     Content/Custom/Character_BP/Player_IF.uasset -> Content/Custom/Players/Player_IF.uasset
+[2018.02.21-12.35.28:422][  0]SourceControl: 	copied:     Content/Custom/Character_BP/Sample.uasset -> Content/Custom/Players/Sample.uasset
+[2018.02.21-12.35.28:422][  0]SourceControl: 	new file:   Content/Custom/Players/Sylphod.uasset
+[2018.02.21-12.35.28:422][  0]SourceControl: Changes not staged for commit:
+[2018.02.21-12.35.28:423][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.02.21-12.35.28:423][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.02.21-12.35.28:423][  0]SourceControl: 	modified:   Content/Custom/Players/PlayerInput_BP.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	modified:   Content/Custom/Players/Player_BP.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	modified:   Content/Custom/Players/Sylphod.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	modified:   Content/TwinStickBP/Blueprints/TwinStickGameMode.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.02.21-12.35.28:423][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.02.21-12.35.28:423][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2018.02.21-12.35.28:423][  0]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2018.02.21-12.35.28:423][  0]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2018.02.21-12.35.28:423][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.02.21-12.35.28:423][  0]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.02.16-13.51.49.log
+[2018.02.21-12.35.28:423][  0]SourceControl: 	modified:   Saved/Logs/FinalProject.log
+[2018.02.21-12.35.28:423][  0]SourceControl: 	modified:   Thumbs.db
+[2018.02.21-12.35.28:423][  0]SourceControl: Untracked files:
+[2018.02.21-12.35.28:423][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/Character_BP_2018-02-21-21-32-00.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/Character_IF_2018-02-21-21-32-01.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/PlayerInput_BP_2018-02-20-20-19-09.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/PlayerInput_BP_2018-02-20-20-26-31.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/PlayerInput_BP_2018-02-20-20-31-32.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/PlayerInput_BP_2018-02-21-20-47-00.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/PlayerInput_BP_2018-02-21-21-10-22.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/PlayerInput_BP_2018-02-21-21-15-40.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/PlayerInput_BP_2018-02-21-21-31-59.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/Player_BP_2018-02-21-20-46-19.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/Player_BP_2018-02-21-21-28-35.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/Player_IF_2018-02-21-21-31-58.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/Sample_2018-02-21-21-32-02.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/Sylphod_2018-02-21-21-19-26.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/Sylphod_2018-02-21-21-31-59.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-02-21-20-49-44.umap
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-02-21-20-49-44.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/TwinStickGameMode_2018-02-20-20-31-32.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/TwinStickGameMode_2018-02-21-21-32-55.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Backup/TwinStickProjectile_2018-02-21-14-58-25.uasset
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-2884DFE146789CBA309DB1B920DFA42A/
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-4FEB88F74D5AB3A31701D59F0EB9C2AD/
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Logs/FinalProject-backup-2018.02.21-11.37.53.log
+[2018.02.21-12.35.28:423][  0]SourceControl: 	Saved/Logs/FinalProject-backup-2018.02.21-21.33.45.log
+[2018.02.21-12.35.28:423][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.21-12.35.28:451][  0]LogSlate: Took 0.012717 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.21-12.35.28:514][  0]LogSlate: Took 0.061829 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.02.21-12.35.28:524][  0]LogSlate: Took 0.008264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.21-12.35.28:555][  0]LogSlate: Took 0.010343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.21-12.35.28:879][  0]LogRenderer: Reallocating scene render targets to support 276x460 Format 10 NumSamples 1 (Frame:1).
+[2018.02.21-12.35.29:116][  0]LogSlate: Took 0.013874 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.21-12.35.29:154][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2018.02.21-12.35.29:530][  2]LogAssetRegistry: Asset discovery search completed in 67.0631 seconds
+[2018.02.21-12.35.29:532][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.21-12.35.29:533][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000133 seconds (updated 0 objects)
+[2018.02.21-12.48.36:142][763]LogSlate: Took 0.000440 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.21-12.48.36:328][763]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.02.21-12.48.37:359][763]LogSlate: Took 0.019868 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.21-12.48.40:855][911]LogSlate: Took 0.000398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.21-12.48.41:174][912]LogSlate: Took 0.018162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.21-12.49.03:703][336]SourceControl: rm 'Content/Custom/Character_BP/Character_BP.uasset'
+[2018.02.21-12.49.03:703][336]SourceControl: rm 'Content/Custom/Character_BP/Character_IF.uasset'
+[2018.02.21-12.49.03:703][336]SourceControl: rm 'Content/Custom/Character_BP/PlayerInput_BP.uasset'
+[2018.02.21-12.49.03:703][336]SourceControl: rm 'Content/Custom/Character_BP/Player_BP.uasset'
+[2018.02.21-12.49.03:703][336]SourceControl: rm 'Content/Custom/Character_BP/Player_IF.uasset'
+[2018.02.21-12.49.03:703][336]SourceControl: rm 'Content/Custom/Character_BP/Sample.uasset'
+[2018.02.21-12.49.03:703][336]SourceControl: rm 'Content/Custom/Character_BP/Sylphod.uasset'
+[2018.02.21-12.49.15:714][961]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.21-12.49.15:946][961]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.49.15:946][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.21-12.49.15:961][961]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 22. 오전 6:49:15)
+[2018.02.21-12.49.15:961][961]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.21-12.49.15:969][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007659s)
+[2018.02.21-12.49.15:970][961]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.21-12.49.15:970][961]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2018.02.21-12.49.15:970][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.008916s)
+[2018.02.21-12.49.15:994][961]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.21-12.49.16:006][961]LogInit: FAudioDevice initialized.
+[2018.02.21-12.49.16:081][961]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.21-12.49.16:097][961]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.21-21.49.16
+[2018.02.21-12.49.16:097][961]LogWorld: Bringing up level for play took: 0.001618
+[2018.02.21-12.49.16:176][961]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.02.21-12.49.16:181][961]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.049
+[2018.02.21-12.49.16:181][961]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.49.16:319][961]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.02.21-12.49.37:609][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.49.37:667][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.52.34:952][166]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.21-12.52.34:992][166]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.52.34:993][166]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.02.21-12.52.34:996][166]LogPlayLevel: [PlayLevel] Compiling CameraTopView_Blueprint before play...
+[2018.02.21-12.52.35:505][166]LogPlayLevel: PlayLevel: Blueprint regeneration took 512 ms (1 blueprints)
+[2018.02.21-12.52.35:505][166]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 22. 오전 6:52:35)
+[2018.02.21-12.52.35:505][166]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.21-12.52.35:511][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005565s)
+[2018.02.21-12.52.35:511][166]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.21-12.52.35:512][166]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2018.02.21-12.52.35:512][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.006851s)
+[2018.02.21-12.52.35:565][166]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.21-12.52.35:580][166]LogInit: FAudioDevice initialized.
+[2018.02.21-12.52.35:642][166]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.21-12.52.35:644][166]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.21-21.52.35
+[2018.02.21-12.52.35:644][166]LogWorld: Bringing up level for play took: 0.001657
+[2018.02.21-12.52.35:653][166]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.522
+[2018.02.21-12.52.35:654][166]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.52.47:129][649]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.52.47:195][649]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.53.27:467][886]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.02.21-12.53.27:517][886]LogSlate: Took 0.000472 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.21-12.55.56:156][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/CameraTopView_Blueprint" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/CameraTopView_Blueprint.uasset" SILENT=true
+[2018.02.21-12.55.56:190][371]LogSavePackage: Save=19.84ms
+[2018.02.21-12.55.56:191][371]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/CameraTopView_Blueprint3298D7D74A3887183FABC88EA7121434.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/CameraTopView_Blueprint.uasset'
+[2018.02.21-12.55.56:246][371]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/CameraTopView_Blueprint.uasset
+[2018.02.21-12.56.07:203][966]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.21-12.56.07:234][966]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.56.07:234][966]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.02.21-12.56.07:236][966]LogPlayLevel: [PlayLevel] Compiling CameraTopView_Blueprint before play...
+[2018.02.21-12.56.07:637][966]LogPlayLevel: PlayLevel: Blueprint regeneration took 402 ms (1 blueprints)
+[2018.02.21-12.56.07:637][966]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 22. 오전 6:56:07)
+[2018.02.21-12.56.07:637][966]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.21-12.56.07:644][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006544s)
+[2018.02.21-12.56.07:645][966]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.21-12.56.07:645][966]LogPlayLevel: PIE: World Init took: (0.001274s)
+[2018.02.21-12.56.07:646][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.008207s)
+[2018.02.21-12.56.07:672][966]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.21-12.56.07:686][966]LogInit: FAudioDevice initialized.
+[2018.02.21-12.56.07:785][966]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.21-12.56.07:787][966]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.21-21.56.07
+[2018.02.21-12.56.07:787][966]LogWorld: Bringing up level for play took: 0.001263
+[2018.02.21-12.56.07:792][966]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.661
+[2018.02.21-12.56.07:793][966]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.56.16:936][446]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.56.16:996][446]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.56.26:365][982]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.21-12.56.26:396][982]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.56.26:396][982]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.02.21-12.56.26:398][982]LogPlayLevel: [PlayLevel] Compiling CameraTopView_Blueprint before play...
+[2018.02.21-12.56.26:731][982]LogPlayLevel: PlayLevel: Blueprint regeneration took 335 ms (1 blueprints)
+[2018.02.21-12.56.26:731][982]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 22. 오전 6:56:26)
+[2018.02.21-12.56.26:731][982]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.21-12.56.26:737][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005697s)
+[2018.02.21-12.56.26:738][982]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.21-12.56.26:738][982]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2018.02.21-12.56.26:738][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.007085s)
+[2018.02.21-12.56.26:765][982]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.21-12.56.26:776][982]LogInit: FAudioDevice initialized.
+[2018.02.21-12.56.26:879][982]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.21-12.56.26:881][982]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.21-21.56.26
+[2018.02.21-12.56.26:882][982]LogWorld: Bringing up level for play took: 0.001322
+[2018.02.21-12.56.26:887][982]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.244
+[2018.02.21-12.56.26:888][982]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.56.29:633][117]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.56.29:690][117]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.56.33:917][361]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.21-12.56.33:944][361]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.56.33:944][361]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.02.21-12.56.33:946][361]LogPlayLevel: [PlayLevel] Compiling CameraTopView_Blueprint before play...
+[2018.02.21-12.56.34:246][361]LogPlayLevel: PlayLevel: Blueprint regeneration took 301 ms (1 blueprints)
+[2018.02.21-12.56.34:247][361]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 22. 오전 6:56:34)
+[2018.02.21-12.56.34:247][361]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.21-12.56.34:252][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005112s)
+[2018.02.21-12.56.34:253][361]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.21-12.56.34:253][361]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2018.02.21-12.56.34:253][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.006265s)
+[2018.02.21-12.56.34:279][361]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.21-12.56.34:290][361]LogInit: FAudioDevice initialized.
+[2018.02.21-12.56.34:390][361]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.21-12.56.34:394][361]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.21-21.56.34
+[2018.02.21-12.56.34:394][361]LogWorld: Bringing up level for play took: 0.001943
+[2018.02.21-12.56.34:399][361]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.268
+[2018.02.21-12.56.34:400][361]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.56.35:965][434]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.56.36:020][434]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.56.41:980][775]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2018.02.21-12.56.44:080][884]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2018.02.21-12.56.52:202][317]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.21-12.56.53:132][366]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.21-12.56.53:162][366]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.56.53:162][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.21-12.56.53:162][366]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 22. 오전 6:56:53)
+[2018.02.21-12.56.53:162][366]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.21-12.56.53:168][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005684s)
+[2018.02.21-12.56.53:169][366]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.21-12.56.53:169][366]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2018.02.21-12.56.53:169][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.006799s)
+[2018.02.21-12.56.53:197][366]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.21-12.56.53:209][366]LogInit: FAudioDevice initialized.
+[2018.02.21-12.56.53:283][366]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.21-12.56.53:285][366]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.21-21.56.53
+[2018.02.21-12.56.53:285][366]LogWorld: Bringing up level for play took: 0.001687
+[2018.02.21-12.56.53:295][366]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.164
+[2018.02.21-12.56.53:296][366]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.57.19:329][657]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.57.19:391][657]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.57.22:544][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.21-12.57.29:015][157]LogSavePackage: Save=182.98ms
+[2018.02.21-12.57.29:015][157]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap47E182D84515166284C26BAFF011DE46.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2018.02.21-12.57.29:021][157]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.02.21-12.57.29:307][157]LogSavePackage: Save=131.12ms
+[2018.02.21-12.57.29:307][157]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltData1AE5F7954660F1316C320388D1BFB7B5.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.02.21-12.57.29:310][157]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.02.21-12.57.30:148][196]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.21-12.57.30:177][196]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.57.30:177][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.21-12.57.30:177][196]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 22. 오전 6:57:30)
+[2018.02.21-12.57.30:178][196]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.21-12.57.30:184][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006003s)
+[2018.02.21-12.57.30:184][196]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.21-12.57.30:185][196]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2018.02.21-12.57.30:185][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.007394s)
+[2018.02.21-12.57.30:212][196]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.21-12.57.30:224][196]LogInit: FAudioDevice initialized.
+[2018.02.21-12.57.30:297][196]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.21-12.57.30:299][196]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.21-21.57.30
+[2018.02.21-12.57.30:300][196]LogWorld: Bringing up level for play took: 0.001625
+[2018.02.21-12.57.30:309][196]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.823
+[2018.02.21-12.57.30:310][196]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.57.43:822][879]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.57.43:888][879]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-12.57.46:075][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/CameraTopView_Blueprint" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/CameraTopView_Blueprint.uasset" SILENT=true
+[2018.02.21-12.57.46:103][980]LogSavePackage: Save=17.48ms
+[2018.02.21-12.57.46:103][980]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/CameraTopView_Blueprint7197F26748BCF883222FBFB9C733FF5E.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/CameraTopView_Blueprint.uasset'
+[2018.02.21-12.57.46:109][980]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/CameraTopView_Blueprint.uasset
+[2018.02.21-12.58.40:875][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/CameraTopView_Blueprint" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/CameraTopView_Blueprint.uasset" SILENT=true
+[2018.02.21-12.58.40:911][206]LogSavePackage: Save=23.43ms
+[2018.02.21-12.58.40:911][206]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/CameraTopView_Blueprint6733C1D64FBFAA0E10EC778B1111C28A.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/CameraTopView_Blueprint.uasset'
+[2018.02.21-12.58.40:915][206]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/CameraTopView_Blueprint.uasset
+[2018.02.21-12.59.21:715][547]BlueprintLog: New page: CameraTopView_Blueprint 컴파일
+[2018.02.21-13.02.33:066][191]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.21-13.02.33:706][204]LogSavePackage: Save=165.85ms
+[2018.02.21-13.02.33:706][204]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMapDF1B215C41378C402E5980B6EF4C778A.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2018.02.21-13.02.33:713][204]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.02.21-13.02.34:027][204]LogSavePackage: Save=96.08ms
+[2018.02.21-13.02.34:027][204]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltDataE91D62934A51858824363A974F8744E8.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.02.21-13.02.34:030][204]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.02.21-13.02.46:621][289]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.21-13.02.46:653][289]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-13.02.46:653][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.21-13.02.46:653][289]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 22. 오전 7:02:46)
+[2018.02.21-13.02.46:653][289]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.21-13.02.46:664][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010267s)
+[2018.02.21-13.02.46:665][289]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.21-13.02.46:665][289]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2018.02.21-13.02.46:665][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.011783s)
+[2018.02.21-13.02.46:696][289]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.21-13.02.46:711][289]LogInit: FAudioDevice initialized.
+[2018.02.21-13.02.46:769][289]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.21-13.02.46:771][289]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.21-22.02.46
+[2018.02.21-13.02.46:772][289]LogWorld: Bringing up level for play took: 0.001696
+[2018.02.21-13.02.46:778][289]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.354
+[2018.02.21-13.02.46:778][289]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-13.03.10:476][388]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-13.03.10:540][388]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-13.03.12:150][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/CameraTopView_Blueprint" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/CameraTopView_Blueprint.uasset" SILENT=true
+[2018.02.21-13.03.12:179][456]LogSavePackage: Save=16.77ms
+[2018.02.21-13.03.12:180][456]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/CameraTopView_Blueprint3E90CD8B42754E0C9DEF6384177CA448.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/CameraTopView_Blueprint.uasset'
+[2018.02.21-13.03.12:185][456]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/CameraTopView_Blueprint.uasset
+[2018.02.21-13.13.26:773][797]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.21-13.13.26:808][797]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-13.13.26:808][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.21-13.13.26:809][797]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 22. 오전 7:13:26)
+[2018.02.21-13.13.26:809][797]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.21-13.13.26:817][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008569s)
+[2018.02.21-13.13.26:818][797]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.21-13.13.26:819][797]LogPlayLevel: PIE: World Init took: (0.001253s)
+[2018.02.21-13.13.26:819][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.010284s)
+[2018.02.21-13.13.26:854][797]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.21-13.13.26:872][797]LogInit: FAudioDevice initialized.
+[2018.02.21-13.13.26:953][797]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.21-13.13.26:955][797]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.21-22.13.26
+[2018.02.21-13.13.26:955][797]LogWorld: Bringing up level for play took: 0.001648
+[2018.02.21-13.13.26:962][797]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.169
+[2018.02.21-13.13.26:963][797]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-13.13.57:207][140]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-13.13.57:279][140]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-13.17.29:625][462]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.21-13.17.29:665][462]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-13.17.29:666][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.21-13.17.29:666][462]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 2. 22. 오전 7:17:29)
+[2018.02.21-13.17.29:666][462]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.02.21-13.17.29:675][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009457s)
+[2018.02.21-13.17.29:676][462]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.02.21-13.17.29:677][462]LogPlayLevel: PIE: World Init took: (0.001235s)
+[2018.02.21-13.17.29:677][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.011129s)
+[2018.02.21-13.17.29:712][462]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.21-13.17.29:725][462]LogInit: FAudioDevice initialized.
+[2018.02.21-13.17.29:801][462]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.02.21-13.17.29:804][462]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.02.21-22.17.29
+[2018.02.21-13.17.29:804][462]LogWorld: Bringing up level for play took: 0.002204
+[2018.02.21-13.17.29:815][462]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.683
+[2018.02.21-13.17.29:816][462]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-13.17.53:986][589]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-13.17.54:049][589]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.02.21-13.23.22:470][  5]Cmd: TRANSACTION UNDO
+[2018.02.21-13.23.22:471][  5]LogEditorTransaction: Undo 액터 이동
+[2018.02.21-13.23.23:698][ 56]Cmd: TRANSACTION UNDO
+[2018.02.21-13.23.23:698][ 56]LogEditorTransaction: Undo 액터 생성
+[2018.02.21-13.24.09:912][328]LogSavePackage: Save=195.34ms
+[2018.02.21-13.24.09:913][328]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_Auto101103C3848EB81B437EFFA8753C21572.tmp' to '../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto1.umap'
+[2018.02.21-13.24.09:918][328]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto1.umap
+[2018.02.21-13.24.09:921][328]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.308
+[2018.02.21-13.24.09:921][328]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.308
+[2018.02.21-13.24.09:944][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom/CameraTopView_Blueprint] ([1] browsable assets)...
+[2018.02.21-13.24.09:944][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/CameraTopView_Blueprint]
+[2018.02.21-13.24.09:976][328]LogSavePackage: Save=20.91ms
+[2018.02.21-13.24.09:976][328]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/CameraTopView_Blueprint_Auto12C23FA434886561150E628BE21A61E16.tmp' to '../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/CameraTopView_Blueprint_Auto1.uasset'
+[2018.02.21-13.24.09:980][328]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/CameraTopView_Blueprint_Auto1.uasset
+[2018.02.21-13.24.09:980][328]LogFileHelpers: Auto-saving content packages took 0.058
+[2018.02.21-13.28.14:627][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.21-13.28.50:895][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Players/Sylphod" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Players/Sylphod.uasset" SILENT=true
+[2018.02.21-13.28.50:929][683]LogSavePackage: Save=19.95ms
+[2018.02.21-13.28.50:929][683]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Sylphod99DE1E1A4D7C5F94356D4C9A2871E421.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Players/Sylphod.uasset'
+[2018.02.21-13.28.50:932][683]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Players/Sylphod.uasset
+[2018.02.21-13.31.10:415][794]SourceControl: On branch master
+[2018.02.21-13.31.10:415][794]SourceControl: Your branch is ahead of 'origin/master' by 1 commit.
+[2018.02.21-13.31.10:415][794]SourceControl:   (use "git push" to publish your local commits)
+[2018.02.21-13.31.10:415][794]SourceControl: Changes to be committed:
+[2018.02.21-13.31.10:415][794]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.02.21-13.31.10:415][794]SourceControl: 	deleted:    Content/Custom/Character_BP/Character_BP.uasset
+[2018.02.21-13.31.10:415][794]SourceControl: 	deleted:    Content/Custom/Character_BP/Character_IF.uasset
+[2018.02.21-13.31.10:415][794]SourceControl: 	deleted:    Content/Custom/Character_BP/Sylphod.uasset
+[2018.02.21-13.31.10:415][794]SourceControl: 	new file:   Content/Custom/Players/Character_BP.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	new file:   Content/Custom/Players/Character_BP_C.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	new file:   Content/Custom/Players/Character_IF.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	new file:   Content/Custom/Players/Character_IF_C.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	renamed:    Content/Custom/Character_BP/PlayerInput_BP.uasset -> Content/Custom/Players/PlayerInput_BP.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	renamed:    Content/Custom/Character_BP/Player_BP.uasset -> Content/Custom/Players/Player_BP.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	renamed:    Content/Custom/Character_BP/Player_IF.uasset -> Content/Custom/Players/Player_IF.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	renamed:    Content/Custom/Character_BP/Sample.uasset -> Content/Custom/Players/Sample.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	new file:   Content/Custom/Players/Sylphod.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: Changes not staged for commit:
+[2018.02.21-13.31.10:416][794]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.02.21-13.31.10:416][794]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.02.21-13.31.10:416][794]SourceControl: 	modified:   Content/Custom/CameraTopView_Blueprint.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	modified:   Content/Custom/Players/PlayerInput_BP.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	modified:   Content/Custom/Players/Player_BP.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	modified:   Content/Custom/Players/Sylphod.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	modified:   Content/TwinStickBP/Blueprints/TwinStickGameMode.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	modified:   Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.02.21-13.31.10:416][794]SourceControl: 	modified:   Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.02.21-13.31.10:416][794]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.02.21-13.31.10:416][794]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2018.02.21-13.31.10:416][794]SourceControl: 	modified:   Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto1.umap
+[2018.02.21-13.31.10:416][794]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2018.02.21-13.31.10:416][794]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.02.21-13.31.10:416][794]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.02.16-13.51.49.log
+[2018.02.21-13.31.10:416][794]SourceControl: 	modified:   Saved/Logs/FinalProject.log
+[2018.02.21-13.31.10:416][794]SourceControl: 	modified:   Thumbs.db
+[2018.02.21-13.31.10:416][794]SourceControl: Untracked files:
+[2018.02.21-13.31.10:416][794]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Autosaves/Game/Custom/CameraTopView_Blueprint_Auto1.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/CameraTopView_Blueprint_2018-02-21-21-55-56.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/CameraTopView_Blueprint_2018-02-21-22-03-12.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/CameraTopView_Blueprint_2018-02-21-22-24-09.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/Character_BP_2018-02-21-21-32-00.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/Character_IF_2018-02-21-21-32-01.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/PlayerInput_BP_2018-02-20-20-19-09.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/PlayerInput_BP_2018-02-20-20-26-31.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/PlayerInput_BP_2018-02-20-20-31-32.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/PlayerInput_BP_2018-02-21-20-47-00.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/PlayerInput_BP_2018-02-21-21-10-22.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/PlayerInput_BP_2018-02-21-21-15-40.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/PlayerInput_BP_2018-02-21-21-31-59.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/Player_BP_2018-02-21-20-46-19.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/Player_BP_2018-02-21-21-28-35.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/Player_IF_2018-02-21-21-31-58.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/Sample_2018-02-21-21-32-02.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/Sylphod_2018-02-21-21-19-26.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/Sylphod_2018-02-21-21-31-59.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/Sylphod_2018-02-21-22-28-50.uasset
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-02-21-20-49-44.umap
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-02-21-21-57-28.umap
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-02-21-22-02-33.umap
+[2018.02.21-13.31.10:416][794]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-02-21-22-24-09.umap
+[2018.02.21-13.31.10:417][794]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-02-21-20-49-44.uasset
+[2018.02.21-13.31.10:417][794]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-02-21-21-57-29.uasset
+[2018.02.21-13.31.10:417][794]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-02-21-22-02-33.uasset
+[2018.02.21-13.31.10:417][794]SourceControl: 	Saved/Backup/TwinStickGameMode_2018-02-20-20-31-32.uasset
+[2018.02.21-13.31.10:417][794]SourceControl: 	Saved/Backup/TwinStickGameMode_2018-02-21-21-32-55.uasset
+[2018.02.21-13.31.10:417][794]SourceControl: 	Saved/Backup/TwinStickProjectile_2018-02-21-14-58-25.uasset
+[2018.02.21-13.31.10:417][794]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-2884DFE146789CBA309DB1B920DFA42A/
+[2018.02.21-13.31.10:417][794]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-4FEB88F74D5AB3A31701D59F0EB9C2AD/
+[2018.02.21-13.31.10:417][794]SourceControl: 	Saved/Logs/FinalProject-backup-2018.02.21-11.37.53.log
+[2018.02.21-13.31.10:417][794]SourceControl: 	Saved/Logs/FinalProject-backup-2018.02.21-21.33.45.log
+[2018.02.21-13.31.11:111][794]LogMetaData: Removing '/Game/Custom/Players/TwinStickSample.TwinStickSample_C' ref from Metadata '/Game/Custom/Players/Sample.PackageMetaData'
+[2018.02.21-13.31.11:111][794]LogMetaData: Removing '/Game/Custom/Players/TwinStickSample.SKEL_TwinStickSample_C' ref from Metadata '/Game/Custom/Players/Sample.PackageMetaData'
+[2018.02.21-13.31.11:256][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Players/TwinStickSample" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Players/TwinStickSample.uasset" SILENT=true
+[2018.02.21-13.31.11:370][794]LogSavePackage: Save=111.12ms
+[2018.02.21-13.31.11:370][794]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickSample69CA27494EA89EC8E30848AD303EB0A6.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Players/TwinStickSample.uasset'
+[2018.02.21-13.31.11:377][794]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Players/TwinStickSample.uasset
+[2018.02.21-13.31.12:722][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Players/Character_BP" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Players/Character_BP.uasset" SILENT=true
+[2018.02.21-13.31.12:737][794]LogSavePackage: Save=2.99ms
+[2018.02.21-13.31.12:737][794]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Character_BP65B397764B5E60C71459EFBC8A27F06C.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Players/Character_BP.uasset'
+[2018.02.21-13.31.12:740][794]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Players/Character_BP.uasset
+[2018.02.21-13.31.12:745][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Players/Character_BP_C" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Players/Character_BP_C.uasset" SILENT=true
+[2018.02.21-13.31.12:759][794]LogSavePackage: Save=3.87ms
+[2018.02.21-13.31.12:759][794]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Character_BP_CF7CFD7284C6836FE7D0753A0FB0DBF27.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Players/Character_BP_C.uasset'
+[2018.02.21-13.31.12:762][794]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Players/Character_BP_C.uasset
+[2018.02.21-13.31.13:748][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Players/TwinStickSample" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Players/TwinStickSample.uasset" SILENT=true
+[2018.02.21-13.31.13:859][821]LogSavePackage: Save=97.58ms
+[2018.02.21-13.31.13:859][821]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickSampleF6027C154ACF1CB21E76648FF3B00114.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Players/TwinStickSample.uasset'
+[2018.02.21-13.31.13:863][821]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Players/TwinStickSample.uasset
+[2018.02.21-13.31.35:080][523]LogSavePackage: Save=203.43ms
+[2018.02.21-13.31.35:080][523]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMapEB03A6004252A9D2188476859A73278D.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2018.02.21-13.31.35:086][523]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.02.21-13.31.35:379][523]LogSavePackage: Save=104.39ms
+[2018.02.21-13.31.35:379][523]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltData02488A2347F680086DED8A9DE1AD6E96.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.02.21-13.31.35:382][523]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.02.21-13.31.59:665][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/CameraTopView_Blueprint" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/CameraTopView_Blueprint.uasset" SILENT=true
+[2018.02.21-13.31.59:698][640]LogSavePackage: Save=19.27ms
+[2018.02.21-13.31.59:698][640]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/CameraTopView_Blueprint554BC0EC4ECFED0B998D80BE1B182664.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/CameraTopView_Blueprint.uasset'
+[2018.02.21-13.31.59:704][640]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/CameraTopView_Blueprint.uasset
+[2018.02.21-13.31.59:820][640]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.21-13.31.59:921][640]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.21-13.32.00:019][640]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.21-13.32.00:157][640]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.02.21-13.32.00:365][641]Cmd: QUIT_EDITOR
+[2018.02.21-13.32.01:278][641]LogExit: Preparing to exit.
+[2018.02.21-13.32.02:368][641]LogDirectoryWatcher: A directory notification for 'D:/Ari/Unreal Projects/FinalProject/Content/' was aborted.
+[2018.02.21-13.32.02:463][641]LogExit: Editor shut down
+[2018.02.21-13.32.02:497][641]LogExit: Transaction tracking system shut down
+[2018.02.21-13.32.02:674][641]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.21-13.32.02:674][641]LogDirectoryWatcher: A directory notification for '../../../../../Unreal Projects/FinalProject/Content/' was aborted.
+[2018.02.21-13.32.02:674][641]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.21-13.32.02:674][641]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.21-13.32.02:674][641]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.21-13.32.02:675][641]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.21-13.32.02:675][641]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.21-13.32.02:821][641]LogExit: Object subsystem successfully closed.
+[2018.02.21-13.32.02:851][641]LogD3D11RHI: Shutdown
+[2018.02.21-13.32.02:851][641]LogD3D11RHI: CleanupD3DDevice
+[2018.02.21-13.32.02:858][641]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.21-13.32.02:869][641]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (560)
+[2018.02.21-13.32.02:869][641]LogModuleManager: Shutting down and abandoning module BlueprintGraph (558)
+[2018.02.21-13.32.02:869][641]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (556)
+[2018.02.21-13.32.02:869][641]LogModuleManager: Shutting down and abandoning module SceneOutliner (554)
+[2018.02.21-13.32.02:869][641]LogModuleManager: Shutting down and abandoning module AddContentDialog (552)
+[2018.02.21-13.32.02:870][641]LogDirectoryWatcher: A directory notification for 'D:/Ari/Program Files/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.21-13.32.02:876][641]LogModuleManager: Shutting down and abandoning module WidgetCarousel (551)
+[2018.02.21-13.32.02:876][641]LogModuleManager: Shutting down and abandoning module EditorWidgets (548)
+[2018.02.21-13.32.02:876][641]LogModuleManager: Shutting down and abandoning module CollectionManager (546)
+[2018.02.21-13.32.02:876][641]LogDirectoryWatcher: A directory notification for 'D:/Ari/Unreal Projects/FinalProject/Content/Collections/' was aborted.
+[2018.02.21-13.32.02:876][641]LogDirectoryWatcher: A directory notification for 'D:/Ari/Unreal Projects/FinalProject/Content/Developers/ar981/Collections/' was aborted.
+[2018.02.21-13.32.02:876][641]LogDirectoryWatcher: A directory notification for 'D:/Ari/Unreal Projects/FinalProject/Saved/Collections/' was aborted.
+[2018.02.21-13.32.02:876][641]LogModuleManager: Shutting down and abandoning module StatsViewer (544)
+[2018.02.21-13.32.02:876][641]LogModuleManager: Shutting down and abandoning module FoliageEdit (542)
+[2018.02.21-13.32.02:876][641]LogModuleManager: Shutting down and abandoning module LandscapeEditor (540)
+[2018.02.21-13.32.02:876][641]LogModuleManager: Shutting down and abandoning module MeshPaintMode (538)
+[2018.02.21-13.32.02:876][641]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (536)
+[2018.02.21-13.32.02:876][641]LogModuleManager: Shutting down and abandoning module ActorPickerMode (534)
+[2018.02.21-13.32.02:876][641]LogModuleManager: Shutting down and abandoning module GeometryMode (532)
+[2018.02.21-13.32.02:876][641]LogModuleManager: Shutting down and abandoning module TextureAlignMode (530)
+[2018.02.21-13.32.02:876][641]LogModuleManager: Shutting down and abandoning module BspMode (528)
+[2018.02.21-13.32.02:876][641]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (526)
+[2018.02.21-13.32.02:876][641]LogModuleManager: Shutting down and abandoning module HardwareSurvey (524)
+[2018.02.21-13.32.02:876][641]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (522)
+[2018.02.21-13.32.02:876][641]LogModuleManager: Shutting down and abandoning module AutomationWorker (520)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (518)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (516)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module PlacementMode (515)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (512)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (510)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (508)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (506)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (504)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (502)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (500)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (498)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (496)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module CharacterAI (494)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module AudioCapture (492)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module SequenceRecorder (491)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module SmartSnapping (488)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module SessionServices (486)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module ViewportSnapping (484)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module ViewportInteraction (482)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module ClothPainter (480)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (479)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module LogVisualizer (476)
+[2018.02.21-13.32.02:877][641]LogModuleManager: Shutting down and abandoning module IntroTutorials (474)
+[2018.02.21-13.32.02:878][641]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (473)
+[2018.02.21-13.32.02:878][641]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (470)
+[2018.02.21-13.32.02:878][641]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (468)
+[2018.02.21-13.32.02:878][641]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (466)
+[2018.02.21-13.32.02:878][641]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (465)
+[2018.02.21-13.32.03:084][641]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (462)
+[2018.02.21-13.32.03:084][641]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (460)
+[2018.02.21-13.32.03:084][641]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (458)
+[2018.02.21-13.32.03:084][641]LogModuleManager: Shutting down and abandoning module InputBindingEditor (456)
+[2018.02.21-13.32.03:084][641]LogModuleManager: Shutting down and abandoning module MergeActors (454)
+[2018.02.21-13.32.03:084][641]LogModuleManager: Shutting down and abandoning module SizeMap (452)
+[2018.02.21-13.32.03:085][641]LogModuleManager: Shutting down and abandoning module TreeMap (450)
+[2018.02.21-13.32.03:085][641]LogModuleManager: Shutting down and abandoning module ReferenceViewer (448)
+[2018.02.21-13.32.03:085][641]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (446)
+[2018.02.21-13.32.03:085][641]LogModuleManager: Shutting down and abandoning module LocalizationService (445)
+[2018.02.21-13.32.03:085][641]LogModuleManager: Shutting down and abandoning module HardwareTargeting (442)
+[2018.02.21-13.32.03:085][641]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (440)
+[2018.02.21-13.32.03:085][641]LogModuleManager: Shutting down and abandoning module UndoHistory (438)
+[2018.02.21-13.32.03:085][641]LogModuleManager: Shutting down and abandoning module XmlParser (436)
+[2018.02.21-13.32.03:085][641]LogModuleManager: Shutting down and abandoning module Blutility (434)
+[2018.02.21-13.32.03:085][641]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (432)
+[2018.02.21-13.32.03:085][641]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (431)
+[2018.02.21-13.32.03:085][641]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (428)
+[2018.02.21-13.32.03:085][641]LogModuleManager: Shutting down and abandoning module SettingsEditor (426)
+[2018.02.21-13.32.03:086][641]LogModuleManager: Shutting down and abandoning module ProjectLauncher (424)
+[2018.02.21-13.32.03:086][641]LogModuleManager: Shutting down and abandoning module SessionFrontend (422)
+[2018.02.21-13.32.03:086][641]LogModuleManager: Shutting down and abandoning module ProfilerClient (420)
+[2018.02.21-13.32.03:086][641]LogModuleManager: Shutting down and abandoning module DeviceManager (418)
+[2018.02.21-13.32.03:086][641]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (417)
+[2018.02.21-13.32.03:140][641]LogModuleManager: Shutting down and abandoning module AutomationController (414)
+[2018.02.21-13.32.03:140][641]LogModuleManager: Shutting down and abandoning module AutomationWindow (412)
+[2018.02.21-13.32.03:140][641]LogModuleManager: Shutting down and abandoning module Layers (410)
+[2018.02.21-13.32.03:140][641]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (408)
+[2018.02.21-13.32.03:140][641]LogModuleManager: Shutting down and abandoning module DetailCustomizations (406)
+[2018.02.21-13.32.03:140][641]LogModuleManager: Shutting down and abandoning module PackagesDialog (404)
+[2018.02.21-13.32.03:140][641]LogModuleManager: Shutting down and abandoning module Persona (402)
+[2018.02.21-13.32.03:140][641]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (401)
+[2018.02.21-13.32.03:140][641]LogModuleManager: Shutting down and abandoning module AnimGraph (399)
+[2018.02.21-13.32.03:140][641]LogModuleManager: Shutting down and abandoning module Kismet (396)
+[2018.02.21-13.32.03:148][641]LogModuleManager: Shutting down and abandoning module ClassViewer (394)
+[2018.02.21-13.32.03:149][641]LogModuleManager: Shutting down and abandoning module Toolbox (392)
+[2018.02.21-13.32.03:149][641]LogModuleManager: Shutting down and abandoning module ModuleUI (390)
+[2018.02.21-13.32.03:149][641]LogModuleManager: Shutting down and abandoning module MovieSceneTools (388)
+[2018.02.21-13.32.03:149][641]LogModuleManager: Shutting down and abandoning module OutputLog (386)
+[2018.02.21-13.32.03:149][641]LogModuleManager: Shutting down and abandoning module GammaUI (384)
+[2018.02.21-13.32.03:149][641]LogModuleManager: Shutting down and abandoning module Documentation (382)
+[2018.02.21-13.32.03:150][641]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (380)
+[2018.02.21-13.32.03:150][641]LogModuleManager: Shutting down and abandoning module MovieScene (378)
+[2018.02.21-13.32.03:150][641]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (376)
+[2018.02.21-13.32.03:150][641]LogModuleManager: Shutting down and abandoning module LauncherPlatform (374)
+[2018.02.21-13.32.03:150][641]LogModuleManager: Shutting down and abandoning module AnalyticsET (372)
+[2018.02.21-13.32.03:150][641]LogModuleManager: Shutting down and abandoning module PortalServices (370)
+[2018.02.21-13.32.03:150][641]LogModuleManager: Shutting down and abandoning module PortalRpc (368)
+[2018.02.21-13.32.03:150][641]LogModuleManager: Shutting down and abandoning module MessagingRpc (366)
+[2018.02.21-13.32.03:150][641]LogModuleManager: Shutting down and abandoning module AIModule (364)
+[2018.02.21-13.32.03:150][641]LogModuleManager: Shutting down and abandoning module GameplayDebugger (363)
+[2018.02.21-13.32.03:150][641]LogModuleManager: Shutting down and abandoning module AITestSuite (361)
+[2018.02.21-13.32.03:150][641]LogModuleManager: Shutting down and abandoning module DesktopPlatform (358)
+[2018.02.21-13.32.03:150][641]LogModuleManager: Shutting down and abandoning module ProfilerService (356)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module TaskGraph (354)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module SubstanceLiveLink (352)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module SubstanceSource (350)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module SubstanceEditor (348)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.02.21-13.32.03:300][641]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.02.21-13.32.03:301][641]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.02.21-13.32.03:301][641]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.02.21-13.32.03:301][641]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.02.21-13.32.03:301][641]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.02.21-13.32.03:301][641]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.02.21-13.32.03:301][641]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.02.21-13.32.03:301][641]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.02.21-13.32.03:301][641]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.02.21-13.32.03:301][641]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.02.21-13.32.03:301][641]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.02.21-13.32.03:301][641]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.02.21-13.32.03:301][641]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.02.21-13.32.03:301][641]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.02.21-13.32.03:303][641]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.02.21-13.32.03:303][641]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.02.21-13.32.03:303][641]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.02.21-13.32.03:303][641]LogDirectoryWatcher: A directory notification for 'D:/Ari/Unreal Projects/FinalProject/Binaries/Win64' was aborted.
+[2018.02.21-13.32.03:304][641]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (270)
+[2018.02.21-13.32.03:304][641]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (268)
+[2018.02.21-13.32.03:304][641]LogModuleManager: Shutting down and abandoning module PhysXVehicles (266)
+[2018.02.21-13.32.03:304][641]LogModuleManager: Shutting down and abandoning module OculusEditor (264)
+[2018.02.21-13.32.03:304][641]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (262)
+[2018.02.21-13.32.03:304][641]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (260)
+[2018.02.21-13.32.03:304][641]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (258)
+[2018.02.21-13.32.03:304][641]LogModuleManager: Shutting down and abandoning module UdpMessaging (256)
+[2018.02.21-13.32.03:405][641]LogModuleManager: Shutting down and abandoning module TcpMessaging (254)
+[2018.02.21-13.32.03:506][641]LogModuleManager: Shutting down and abandoning module SubstanceCore (252)
+[2018.02.21-13.32.03:506][641]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.21-13.32.03:506][641]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.21-13.32.03:506][641]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.21-13.32.03:506][641]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.21-13.32.03:506][641]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.21-13.32.03:506][641]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.21-13.32.03:508][641]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.21-13.32.03:508][641]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.21-13.32.03:508][641]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.21-13.32.03:508][641]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.21-13.32.03:511][641]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.21-13.32.03:511][641]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.21-13.32.03:511][641]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.21-13.32.03:511][641]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.21-13.32.03:511][641]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.21-13.32.03:511][641]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.21-13.32.03:517][641]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.21-13.32.03:517][641]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.21-13.32.03:517][641]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.21-13.32.03:517][641]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.21-13.32.03:517][641]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.21-13.32.03:517][641]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.21-13.32.03:517][641]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.21-13.32.03:517][641]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.21-13.32.03:517][641]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.21-13.32.03:517][641]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.21-13.32.03:517][641]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.21-13.32.03:518][641]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.21-13.32.03:518][641]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.21-13.32.03:518][641]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.21-13.32.03:518][641]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.21-13.32.03:518][641]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.21-13.32.03:520][641]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.21-13.32.03:520][641]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.21-13.32.03:521][641]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.21-13.32.03:521][641]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.21-13.32.03:521][641]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.21-13.32.03:521][641]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.21-13.32.03:521][641]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.21-13.32.03:521][641]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.21-13.32.03:530][641]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.21-13.32.03:530][641]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.21-13.32.03:530][641]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.21-13.32.03:530][641]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.21-13.32.03:530][641]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.21-13.32.03:530][641]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.21-13.32.03:530][641]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.21-13.32.03:531][641]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.21-13.32.03:531][641]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.21-13.32.03:552][641]LogDerivedDataCache: Shutdown
+[2018.02.21-13.32.03:552][641]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.21-13.32.03:553][641]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.21-13.32.03:553][641]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.21-13.32.03:553][641]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.21-13.32.03:553][641]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.21-13.32.03:553][641]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.21-13.32.03:553][641]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.21-13.32.03:553][641]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.21-13.32.03:553][641]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.21-13.32.03:553][641]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.21-13.32.03:553][641]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.21-13.32.03:553][641]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.21-13.32.03:553][641]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.21-13.32.03:553][641]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.21-13.32.03:554][641]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.21-13.32.03:554][641]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.21-13.32.03:554][641]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.21-13.32.03:554][641]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.21-13.32.03:554][641]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.21-13.32.03:554][641]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.21-13.32.03:554][641]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.21-13.32.03:554][641]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.21-13.32.03:554][641]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.21-13.32.03:554][641]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.21-13.32.03:554][641]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.21-13.32.03:554][641]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.21-13.32.03:554][641]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.21-13.32.03:554][641]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.21-13.32.03:554][641]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.21-13.32.03:554][641]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.21-13.32.03:555][641]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.21-13.32.03:555][641]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.21-13.32.03:555][641]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.21-13.32.03:555][641]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.21-13.32.03:555][641]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.21-13.32.03:555][641]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.21-13.32.03:555][641]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.21-13.32.03:555][641]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.21-13.32.03:555][641]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.21-13.32.03:555][641]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.21-13.32.03:555][641]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.21-13.32.03:555][641]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.21-13.32.03:555][641]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.21-13.32.03:555][641]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.21-13.32.03:555][641]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.21-13.32.03:555][641]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.21-13.32.03:555][641]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.21-13.32.03:556][641]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.21-13.32.03:556][641]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.21-13.32.03:556][641]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.21-13.32.03:556][641]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.21-13.32.03:556][641]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.21-13.32.03:556][641]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.21-13.32.03:556][641]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.21-13.32.03:556][641]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.21-13.32.03:556][641]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.21-13.32.03:556][641]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB00FBB21-44D3-EA53-70E7-82A69FD773DC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=5712ad7f45d9e96aa4003a820469c188%7C0484f503dfd84142907b84d36f52f0e9%7Cf755e3a6-1554-4250-9085-c3a0509afc01&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.21-13.32.03:580][641]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.21-13.32.03:582][641]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.21-13.32.03:582][641]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.21-13.32.03:582][641]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.21-13.32.03:582][641]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.21-13.32.03:582][641]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.21-13.32.03:582][641]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.21-13.32.03:582][641]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.21-13.32.03:594][641]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.21-13.32.03:594][641]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.21-13.32.03:594][641]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.21-13.32.03:594][641]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.21-13.32.03:594][641]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.21-13.32.03:594][641]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.21-13.32.03:594][641]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.21-13.32.03:594][641]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.21-13.32.03:594][641]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.21-13.32.03:594][641]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.21-13.32.03:594][641]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.21-13.32.03:598][641]LogExit: Exiting.
+[2018.02.21-13.32.03:672][641]Log file closed, 02/21/18 22:32:03
