@@ -1,0 +1,808 @@
+﻿Log file open, 03/07/18 23:03:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FinalProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1728451121) SRandInit(1728451122).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.702322
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceCore.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceSource.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceLiveLink.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Ari/Program Files/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.07-14.03.34:777][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.07-14.03.34:777][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.07-14.03.34:872][  0]LogInit: Computer: JAEBUM-PC
+[2018.03.07-14.03.34:872][  0]LogInit: User: ar981
+[2018.03.07-14.03.34:872][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.07-14.03.34:872][  0]LogInit: High frequency timer resolution =2.435775 MHz
+[2018.03.07-14.03.34:872][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.03.07-14.03.34:878][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.07-14.03.34:878][  0]LogMemory: Process Physical Memory: 273.76 MB used, 273.76 MB peak
+[2018.03.07-14.03.34:878][  0]LogMemory: Process Virtual Memory: 273.86 MB used, 273.86 MB peak
+[2018.03.07-14.03.34:878][  0]LogMemory: Physical Memory: 2992.89 MB used,  5078.05 MB free, 8070.93 MB total
+[2018.03.07-14.03.34:878][  0]LogMemory: Virtual Memory: 671.98 MB used,  5078.05 MB free, 134217728.00 MB total
+[2018.03.07-14.03.35:941][  0]LogInit: Using OS detected language (ko-KR).
+[2018.03.07-14.03.35:941][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.03.07-14.03.36:221][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.03.07-14.03.36:747][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.07-14.03.39:295][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.07-14.03.40:812][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 850M' (Feature Level 11_0)
+[2018.03.07-14.03.40:812][  0]LogD3D11RHI:       2019/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.03.07-14.03.40:878][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.03.07-14.03.40:878][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.03.07-14.03.40:882][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.07-14.03.40:882][  0]LogD3D11RHI:       0/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.07-14.03.40:882][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.07-14.03.40:900][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.07-14.03.40:909][  0]LogD3D11RHI:     GPU DeviceId: 0x1391 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.07-14.03.40:909][  0]LogWindows: EnumDisplayDevices:
+[2018.03.07-14.03.40:909][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.03.07-14.03.40:910][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2018.03.07-14.03.40:910][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.03.07-14.03.40:911][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.07-14.03.40:911][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 850M
+[2018.03.07-14.03.40:911][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.07-14.03.40:911][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.07-14.03.40:911][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2018.03.07-14.03.41:129][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.07-14.03.41:414][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.07-14.03.41:541][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../Unreal Projects/FinalProject/Intermediate/Shaders/WorkingDirectory/11048/).
+[2018.03.07-14.03.41:542][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ar981/AppData/Local/Temp/UnrealShaderWorkingDir/77A4821F40058F19675694AADC71ABD3/'.
+[2018.03.07-14.03.41:547][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.07-14.03.45:506][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.07-14.03.45:624][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.07-14.03.45:733][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.07-14.03.45:805][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.07-14.03.45:937][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.07-14.03.46:469][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.07-14.03.47:117][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.07-14.03.47:219][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.07-14.03.48:554][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.07-14.03.49:404][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.07-14.03.49:532][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.07-14.03.50:313][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.07-14.03.50:641][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.07-14.03.50:975][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.07-14.03.51:739][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.07-14.03.51:739][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.07-14.03.52:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.07-14.03.52:833][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.07-14.03.56:864][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.07-14.03.56:948][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.07-14.03.57:101][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.07-14.03.57:269][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.07-14.03.57:382][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.07-14.03.57:677][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.07-14.03.57:677][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.07-14.04.13:586][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.07-14.04.17:074][  0]LogDerivedDataCache: Loaded boot cache 3.40s 78MB C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.07-14.04.17:074][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.07-14.04.17:074][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/FinalProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.07-14.04.17:074][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.07-14.04.17:074][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/FinalProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.07-14.04.17:074][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.07-14.04.18:730][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.07-14.04.18:779][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ar981/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.07-14.04.18:911][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.07-14.04.20:012][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.07-14.04.20:347][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.07-14.04.20:347][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.07-14.05.28:925][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.07-14.05.46:615][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.07-14.05.47:860][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.07-14.05.47:967][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.07-14.05.48:000][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.07-14.05.48:000][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.07-14.05.48:000][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.07-14.05.50:426][  0]LogNetVersion: FinalProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1186961665)
+[2018.03.07-14.05.56:377][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2018.03.07-14.06.22:354][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.173282 seconds
+[2018.03.07-14.06.22:445][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.07-14.06.22:445][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.03.07-14.06.22:445][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.07-14.06.22:573][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.07-14.09.04:272][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2018.03.07-14.09.04:922][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.07-14.09.05:237][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.07-14.09.16:127][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.07-14.09.22:157][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.03.07-14.09.38:474][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.07-14.09.39:836][  0]LogOcInput: OculusInput pre-init called
+[2018.03.07-14.09.51:290][  0]LogEngine: Initializing Engine...
+[2018.03.07-14.09.51:940][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.03.07-14.09.57:144][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.07-14.09.57:144][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.07-14.09.58:098][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.07-14.09.58:349][  0]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.07-14.10.00:308][  0]LogInit: FAudioDevice initialized.
+[2018.03.07-14.10.01:634][  0]LogDerivedDataCache: Saved boot cache 1.33s 78MB C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.07-14.10.01:642][  0]LogInit: Texture streaming: Enabled
+[2018.03.07-14.10.03:219][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.07-14.10.03:575][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={DE346669-4C70-48F8-576D-8096B5A5A503}
+[2018.03.07-14.10.05:719][  0]LogInit: Transaction tracking system initialized
+[2018.03.07-14.10.10:104][  0]BlueprintLog: New page: 에디터 로드
+[2018.03.07-14.10.23:226][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.03.07-14.10.32:981][  0]LogConsoleResponse: Display: 
+[2018.03.07-14.10.41:471][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/' took 0.02s
+[2018.03.07-14.10.41:471][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.07-14.10.41:499][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.07-14.10.41:499][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.07-14.10.54:038][  0]LogSlate: Took 0.086070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.07-14.10.54:182][  0]LogSlate: Took 0.143571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.03.07-14.12.36:822][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.03.07-14.12.37:370][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.03.07-14.12.52:626][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.03.07-14.12.54:172][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.03.07-14.12.54:397][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.07-14.12.54:411][  0]LightingResults: New page: 라이팅 빌드
+[2018.03.07-14.12.55:078][  0]MapCheck: New page: 맵 체크
+[2018.03.07-14.12.55:078][  0]LightingResults: New page: 라이팅 빌드
+[2018.03.07-14.13.29:184][  0]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.03.07-14.13.29:812][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.07-14.13.30:310][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.07-14.13.30:496][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 162.685ms.
+[2018.03.07-14.13.30:496][  0]LogFileHelpers: Loading map 'TwinStickExampleMap' took 36.100
+[2018.03.07-14.13.37:560][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_3014_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_2e20_0///####STATCAT_Advanced####
+[2018.03.07-14.13.37:560][  0]LogCollectionManager: Loaded 0 collections in 0.080794 seconds
+[2018.03.07-14.13.39:003][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Saved/Collections/' took 0.01s
+[2018.03.07-14.13.39:003][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/Developers/ar981/Collections/' took 0.01s
+[2018.03.07-14.13.39:003][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/Collections/' took 0.01s
+[2018.03.07-14.13.39:003][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.07-14.13.39:274][  0]LogContentBrowser: Native class hierarchy populated in 0.1910 seconds. Added 2377 classes and 525 folders.
+[2018.03.07-14.13.40:141][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.03.07-14.13.48:507][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.03.07-14.13.48:784][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.03.07-14.13.51:393][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.03.07-14.13.51:393][  0]LogLoad: (Engine Initialization) Total time: 651.13 seconds
+[2018.03.07-14.13.51:393][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.07-14.13.51:423][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.03.07-14.13.51:423][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.03.07-14.13.51:591][  0]SourceControl: On branch master
+[2018.03.07-14.13.51:591][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.03.07-14.13.51:591][  0]SourceControl: Changes to be committed:
+[2018.03.07-14.13.51:591][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.03.07-14.13.51:591][  0]SourceControl: 	modified:   Content/Custom/Enemy/EnemyMoveStruct.uasset
+[2018.03.07-14.13.51:591][  0]SourceControl: 	modified:   Content/Custom/Enemy/EnemyMoveStruct_Table.uasset
+[2018.03.07-14.13.51:591][  0]SourceControl: 	modified:   Content/Custom/Enemy/MoveXYStruct.uasset
+[2018.03.07-14.13.51:591][  0]SourceControl: 	modified:   Content/Custom/Enemy/MoveXYStruct_Table.uasset
+[2018.03.07-14.13.51:591][  0]SourceControl: 	copied:     Content/Custom/Enemy/EnemyMoveStruct.uasset -> Content/Custom/Enemy/Movement/EnemyMoveStruct.uasset
+[2018.03.07-14.13.51:591][  0]SourceControl: 	copied:     Content/Custom/Enemy/EnemyMoveStruct_Table.uasset -> Content/Custom/Enemy/Movement/EnemyMoveStruct_Table.uasset
+[2018.03.07-14.13.51:591][  0]SourceControl: 	new file:   Content/Custom/Enemy/Movement/MoveXYStruct.uasset
+[2018.03.07-14.13.51:591][  0]SourceControl: 	copied:     Content/Custom/Enemy/MoveXYStruct_Table.uasset -> Content/Custom/Enemy/Movement/MoveXYStruct_Table.uasset
+[2018.03.07-14.13.51:591][  0]SourceControl: 	new file:   Content/Custom/Enemy/Projectile_Pattern/Projectile_Round_Pattern.uasset
+[2018.03.07-14.13.51:591][  0]SourceControl: Changes not staged for commit:
+[2018.03.07-14.13.51:591][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.03.07-14.13.51:591][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.03.07-14.13.51:591][  0]SourceControl: 	modified:   Content/Custom/Enemy/EnemySpawner.uasset
+[2018.03.07-14.13.51:591][  0]SourceControl: 	modified:   Content/Custom/Enemy/Enemy_BP.uasset
+[2018.03.07-14.13.51:591][  0]SourceControl: 	modified:   Content/Custom/Enemy/Projectile_Pattern/Projectile_Round_Pattern.uasset
+[2018.03.07-14.13.51:591][  0]SourceControl: 	modified:   Content/Custom/Players/Libe/Libe.uasset
+[2018.03.07-14.13.51:591][  0]SourceControl: 	modified:   Content/Custom/Players/Libe/LibeSkill3.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	modified:   Content/Custom/Players/Player_BP.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	modified:   Content/Custom/Players/Sylphod/Sylphod.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	modified:   Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.03.07-14.13.51:592][  0]SourceControl: 	modified:   Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.03.07-14.13.51:592][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Custom/Enemy/EnemySpawner_Auto1.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Custom/Enemy/Enemy_BP_Auto1.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Custom/Players/Player_BP_Auto2.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/EnemyMoveStruct_2018-02-26-14-22-42.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/EnemyMoveStruct_Table_2018-02-26-13-12-40.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/EnemyMoveStruct_Table_2018-02-26-13-20-46.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/EnemyMoveStruct_Table_2018-02-26-14-02-33.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/EnemyMoveStruct_Table_2018-02-26-14-24-18.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/EnemyMoveStruct_Table_2018-02-26-14-32-18.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/EnemyMoveStruct_Table_2018-02-26-14-42-22.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/EnemyMoveStruct_Table_2018-02-26-15-25-25.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-13-13-40.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-13-20-18.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-13-27-50.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-13-53-19.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-14-21-49.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-14-36-47.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-14-46-08.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-15-25-24.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-15-40-13.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-13-20-45.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-13-28-12.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-13-35-06.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-13-43-03.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-13-49-01.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-13-56-20.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-14-02-01.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-14-15-41.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-14-20-41.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-14-26-53.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-14-41-08.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-14-58-49.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-15-05-47.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-15-23-17.uasset
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-13-08-33.umap
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-13-20-18.umap
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-13-31-45.umap
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-13-44-59.umap
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-13-57-15.umap
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-14-08-49.umap
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-14-25-20.umap
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-14-36-47.umap
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-14-49-18.umap
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-15-00-39.umap
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-15-11-00.umap
+[2018.03.07-14.13.51:592][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-15-26-17.umap
+[2018.03.07-14.13.51:593][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_BuiltData_2018-02-26-14-25-20.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-2269C91945D403EBD9B22D968DA726E7/CrashReportClient.ini
+[2018.03.07-14.13.51:593][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-925B9ED740368012C8E0B49862C9FD51/CrashReportClient.ini
+[2018.03.07-14.13.51:593][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-B91ADA904ECB862176B253BA48316126/CrashReportClient.ini
+[2018.03.07-14.13.51:593][  0]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2018.03.07-14.13.51:593][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.03.07-14.13.51:593][  0]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.02.28-14.26.35.log
+[2018.03.07-14.13.51:593][  0]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.02.28-18.14.41.log
+[2018.03.07-14.13.51:593][  0]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.02.28-18.29.28.log
+[2018.03.07-14.13.51:593][  0]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.03.01-11.33.51.log
+[2018.03.07-14.13.51:593][  0]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.03.02-11.44.44.log
+[2018.03.07-14.13.51:593][  0]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.03.02-14.53.15.log
+[2018.03.07-14.13.51:593][  0]SourceControl: 	modified:   Saved/Logs/FinalProject.log
+[2018.03.07-14.13.51:593][  0]SourceControl: 	deleted:    Saved/Logs/FinalProject_2-backup-2018.03.02-11.44.44.log
+[2018.03.07-14.13.51:593][  0]SourceControl: Untracked files:
+[2018.03.07-14.13.51:593][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Autosaves/Game/Custom/Enemy/Projectile_Pattern/
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/EnemyMoveStruct_2018-03-06-21-33-54.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/EnemyMoveStruct_Table_2018-03-06-21-33-53.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/EnemySpawner_2018-03-06-21-44-47.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/Enemy_BP_2018-03-06-21-44-47.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/LibeSkill3_2018-03-06-15-03-42.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/Libe_2018-03-06-15-06-46.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/Libe_2018-03-06-15-27-26.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/Libe_2018-03-06-15-32-54.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/Libe_2018-03-06-15-38-44.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/Libe_2018-03-06-15-45-46.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/MoveXYStruct_2018-03-06-21-33-53.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/MoveXYStruct_Table_2018-03-06-21-33-53.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/Player_BP_2018-03-06-15-24-46.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/Player_BP_2018-03-06-15-33-59.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/Projectile_Round_Pattern_2018-03-06-21-44-48.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/Sylphod_2018-03-06-15-07-08.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/Sylphod_2018-03-06-15-12-19.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/Sylphod_2018-03-06-15-26-26.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/Sylphod_2018-03-06-15-31-57.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/Sylphod_2018-03-06-15-39-05.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/Sylphod_2018-03-06-15-44-27.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-03-06-12-59-52.umap
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-03-06-13-14-42.umap
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-03-06-14-58-07.umap
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-03-06-15-03-19.umap
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-03-06-15-23-53.umap
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-03-06-21-33-56.umap
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-06-13-01-22.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-06-13-14-43.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-06-14-58-07.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-06-15-03-20.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-06-15-23-53.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-06-21-33-57.uasset
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-0AC7E5364FF337496F85A28A74AA474F/
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-9BD860EF48575E3E2BDED085FBF56D16/
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Logs/FinalProject-backup-2018.03.06-21.19.08.log
+[2018.03.07-14.13.51:593][  0]SourceControl: 	Saved/Logs/FinalProject-backup-2018.03.07-23.03.27.log
+[2018.03.07-14.13.51:656][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.07-14.13.51:880][  0]LogSlate: Took 0.139524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.07-14.13.52:033][  0]LogSlate: Took 0.076939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.07-14.13.53:588][  0]LogRenderer: Reallocating scene render targets to support 280x392 Format 10 NumSamples 1 (Frame:1).
+[2018.03.07-14.13.54:643][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2018.03.07-14.13.55:249][  2]LogAssetRegistry: Asset discovery search completed in 478.8939 seconds
+[2018.03.07-14.13.55:313][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.07-14.13.55:313][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000106 seconds (updated 0 objects)
+[2018.03.07-14.13.55:539][  2]LogSlate: Took 0.106693 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.07-14.13.58:886][254]LogSlate: Took 0.000358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.07-14.14.09:789][446]LogStreaming: Warning: Failed to open ANSI TEXT file D:/Ari/Unreal Projects/FinalProject/Saved/HardwareSurvey/dxdiag.txt
+[2018.03.07-14.14.09:796][447]LogStreaming: Warning: Failed to open ANSI TEXT file D:/Ari/Unreal Projects/FinalProject/Saved/HardwareSurvey/dxdiag.txt
+[2018.03.07-14.14.09:836][448]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=5.00
+[2018.03.07-14.14.09:836][448]LogSynthBenchmark: Display: ===============
+[2018.03.07-14.14.09:836][448]LogSynthBenchmark: Display: Main Processor:
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display:          ... 0.021702 s/Run 'RayIntersect'
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display:          ... 0.020922 s/Run 'Fractal'
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display: 
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 8
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display:   NumberOfCores (physical): 4
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display:   NumberOfCores (logical): 8
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display:   CPU Perf Index 0: 118.0 (weight 1.00)
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display:   CPU Perf Index 1: 136.7 (weight 1.50)
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display:  
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display: Graphics:
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display:   Adapter Name: 'NVIDIA GeForce GTX 850M'
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display:   Vendor Id: 0x10DE
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display:   Device Id: 0x1391
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display:   Device Revision: 0xA2
+[2018.03.07-14.14.10:050][448]LogSynthBenchmark: Display:   GPU Memory: 2020/0/4036 MB
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:   GPU first test: 0.19s
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:          ... 0.382 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:          ... 0.322 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:          ... 0.298 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be very inaccurate)
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:          ... 1.645 s/GigaPix, Confidence=100% 'FillOnly' (likely to be very inaccurate)
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:          ... 0.052 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:          ... 0.373 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be very inaccurate)
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:          ... 0.201 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:   GPU Final Results:
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:          ... 0.382 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:          ... 0.322 s/GigaPix, Confidence=100% 'TexHeavy'
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:          ... 0.298 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:          ... 1.645 s/GigaPix, Confidence=100% 'FillOnly'
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:          ... 0.052 s/GigaPix, Confidence=100% 'Bandwidth'
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:          ... 0.373 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:          ... 0.201 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display: 
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:   GPU Perf Index 0: 8.3 (weight 1.00)
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:   GPU Perf Index 1: 4.3 (weight 0.10)
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:   GPU Perf Index 2: 7.7 (weight 0.10)
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:   GPU Perf Index 3: 6.5 (weight 3.00)
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:   GPU Perf Index 4: 4.8 (weight 1.00)
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:   GPU Perf Index 5: 24.2 (weight 0.00)
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:   GPU Perf Index 6: 11.3 (weight 0.00)
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:   CPUIndex: 129.2
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:   GPUIndex: 6.5
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display: 
+[2018.03.07-14.14.10:523][448]LogSynthBenchmark: Display:          ... Total Time: 0.687219 sec
+[2018.03.07-14.14.17:132][ 45]LogSlate: Took 0.000374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.07-14.14.27:933][721]LogSavePackage: Save=315.03ms
+[2018.03.07-14.14.27:933][721]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Projectile_Round_Pattern594FA1154936B84FD04A488FA05372F9.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Projectile_Round_Pattern.uasset'
+[2018.03.07-14.14.27:937][721]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Projectile_Round_Pattern.uasset
+[2018.03.07-14.23.35:268][674]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.03.07-14.24.07:499][674]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.07-14.24.07:499][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.07-14.24.07:792][674]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 3. 8. 오전 8:24:07)
+[2018.03.07-14.24.07:792][674]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.03.07-14.24.07:800][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007643s)
+[2018.03.07-14.24.07:800][674]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.03.07-14.24.07:801][674]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2018.03.07-14.24.07:801][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.008804s)
+[2018.03.07-14.24.07:818][674]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.07-14.24.07:861][674]LogInit: FAudioDevice initialized.
+[2018.03.07-14.24.08:205][674]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.03.07-14.24.08:276][674]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.03.07-23.24.08
+[2018.03.07-14.24.08:366][674]LogWorld: Bringing up level for play took: 0.090161
+[2018.03.07-14.24.08:752][674]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0728 seconds. Added 11 classes and 0 folders.
+[2018.03.07-14.24.08:756][674]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.627
+[2018.03.07-14.24.08:757][674]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.07-14.24.09:032][674]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2018.03.07-14.24.15:283][923]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.07-14.24.46:595][923]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.07-14.24.50:698][167]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.03.07-14.24.50:726][167]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.07-14.24.50:726][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.07-14.24.50:726][167]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 3. 8. 오전 8:24:50)
+[2018.03.07-14.24.50:726][167]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.03.07-14.24.50:732][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005601s)
+[2018.03.07-14.24.50:732][167]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.03.07-14.24.50:732][167]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2018.03.07-14.24.50:733][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.006725s)
+[2018.03.07-14.24.50:748][167]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.07-14.24.50:783][167]LogInit: FAudioDevice initialized.
+[2018.03.07-14.24.50:883][167]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.03.07-14.24.50:886][167]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.03.07-23.24.50
+[2018.03.07-14.24.50:887][167]LogWorld: Bringing up level for play took: 0.003603
+[2018.03.07-14.24.50:892][167]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.762
+[2018.03.07-14.24.50:893][167]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.07-14.24.56:992][508]LogBlueprintUserMessages: [Libe_C_0] Not enough Energy
+[2018.03.07-14.24.57:950][564]LogBlueprintUserMessages: [Libe_C_0] Not enough Energy
+[2018.03.07-14.24.58:607][603]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.07-14.24.58:671][603]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.07-14.24.59:765][667]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.03.07-14.24.59:787][667]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.07-14.24.59:787][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.07-14.24.59:787][667]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 3. 8. 오전 8:24:59)
+[2018.03.07-14.24.59:787][667]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.03.07-14.24.59:792][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005246s)
+[2018.03.07-14.24.59:793][667]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.03.07-14.24.59:793][667]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2018.03.07-14.24.59:794][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.006490s)
+[2018.03.07-14.24.59:809][667]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.07-14.24.59:840][667]LogInit: FAudioDevice initialized.
+[2018.03.07-14.24.59:945][667]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.03.07-14.24.59:947][667]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.03.07-23.24.59
+[2018.03.07-14.24.59:948][667]LogWorld: Bringing up level for play took: 0.001334
+[2018.03.07-14.24.59:953][667]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.176
+[2018.03.07-14.24.59:954][667]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.07-14.25.08:103][148]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.07-14.25.08:171][148]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.07-14.25.10:442][203]LogSavePackage: Save=517.65ms
+[2018.03.07-14.25.10:442][203]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap18F605064261639EDF4814BB12891CB8.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2018.03.07-14.25.10:544][203]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.03.07-14.25.11:184][203]LogSavePackage: Save=235.34ms
+[2018.03.07-14.25.11:184][203]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltData2FA8428D46604E49959031913402767E.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.03.07-14.25.11:309][203]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.03.07-14.34.00:302][656]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.03.07-14.34.00:327][656]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.07-14.34.00:327][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.07-14.34.00:327][656]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 3. 8. 오전 8:34:00)
+[2018.03.07-14.34.00:327][656]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.03.07-14.34.00:334][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007531s)
+[2018.03.07-14.34.00:335][656]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.03.07-14.34.00:336][656]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2018.03.07-14.34.00:336][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.009248s)
+[2018.03.07-14.34.00:354][656]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.07-14.34.00:393][656]LogInit: FAudioDevice initialized.
+[2018.03.07-14.34.00:496][656]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.03.07-14.34.00:499][656]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.03.07-23.34.00
+[2018.03.07-14.34.00:500][656]LogWorld: Bringing up level for play took: 0.002889
+[2018.03.07-14.34.00:504][656]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.375
+[2018.03.07-14.34.00:505][656]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.07-14.34.09:402][147]LogBlueprintUserMessages: [Libe_C_0] Not enough Energy
+[2018.03.07-14.34.10:235][197]LogBlueprintUserMessages: [Libe_C_0] Not enough Energy
+[2018.03.07-14.34.13:653][402]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.07-14.34.13:726][402]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.07-14.34.16:289][517]LogSavePackage: Save=153.95ms
+[2018.03.07-14.34.16:289][517]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMapFE899BA3409A260E1FB7C884041957A5.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2018.03.07-14.34.16:296][517]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.03.07-14.34.16:612][517]LogSavePackage: Save=108.71ms
+[2018.03.07-14.34.16:612][517]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltData3D7ACADD46480895DBD38CBD13E994B7.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.03.07-14.34.16:616][517]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.03.07-14.34.29:447][276]LogBlueprintUserMessages: [LibeSkill3_C_0] LibeSkill3 Error!!!
+PlayerInput_BP 형변환 오류
+[2018.03.07-14.35.03:310][521]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.07-14.35.03:319][522]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.07-14.35.03:372][523]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.07-14.35.03:388][524]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.07-14.35.03:414][525]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.07-14.35.03:443][526]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.07-14.35.03:469][527]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.07-14.35.03:492][528]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.07-14.35.03:517][529]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.07-14.35.03:540][530]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.07-14.35.03:663][536]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.07-14.36.02:387][467]SourceControl: On branch master
+[2018.03.07-14.36.02:387][467]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.03.07-14.36.02:387][467]SourceControl: Changes to be committed:
+[2018.03.07-14.36.02:387][467]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.03.07-14.36.02:387][467]SourceControl: 	modified:   Content/Custom/Enemy/EnemyMoveStruct.uasset
+[2018.03.07-14.36.02:387][467]SourceControl: 	modified:   Content/Custom/Enemy/EnemyMoveStruct_Table.uasset
+[2018.03.07-14.36.02:387][467]SourceControl: 	modified:   Content/Custom/Enemy/MoveXYStruct.uasset
+[2018.03.07-14.36.02:387][467]SourceControl: 	modified:   Content/Custom/Enemy/MoveXYStruct_Table.uasset
+[2018.03.07-14.36.02:387][467]SourceControl: 	copied:     Content/Custom/Enemy/EnemyMoveStruct.uasset -> Content/Custom/Enemy/Movement/EnemyMoveStruct.uasset
+[2018.03.07-14.36.02:387][467]SourceControl: 	copied:     Content/Custom/Enemy/EnemyMoveStruct_Table.uasset -> Content/Custom/Enemy/Movement/EnemyMoveStruct_Table.uasset
+[2018.03.07-14.36.02:387][467]SourceControl: 	new file:   Content/Custom/Enemy/Movement/MoveXYStruct.uasset
+[2018.03.07-14.36.02:387][467]SourceControl: 	copied:     Content/Custom/Enemy/MoveXYStruct_Table.uasset -> Content/Custom/Enemy/Movement/MoveXYStruct_Table.uasset
+[2018.03.07-14.36.02:387][467]SourceControl: 	new file:   Content/Custom/Enemy/Projectile_Pattern/Projectile_Round_Pattern.uasset
+[2018.03.07-14.36.02:387][467]SourceControl: Changes not staged for commit:
+[2018.03.07-14.36.02:388][467]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.03.07-14.36.02:388][467]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.03.07-14.36.02:388][467]SourceControl: 	modified:   Content/Custom/Enemy/EnemySpawner.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	modified:   Content/Custom/Enemy/Enemy_BP.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	modified:   Content/Custom/Enemy/Projectile_Pattern/Projectile_Round_Pattern.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	modified:   Content/Custom/Players/Libe/Libe.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	modified:   Content/Custom/Players/Libe/LibeSkill3.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	modified:   Content/Custom/Players/Player_BP.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	modified:   Content/Custom/Players/Sylphod/Sylphod.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	modified:   Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.03.07-14.36.02:388][467]SourceControl: 	modified:   Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.03.07-14.36.02:388][467]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.03.07-14.36.02:388][467]SourceControl: 	modified:   Saved/Autosaves/Game/Custom/Enemy/EnemySpawner_Auto1.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	modified:   Saved/Autosaves/Game/Custom/Enemy/Enemy_BP_Auto1.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	modified:   Saved/Autosaves/Game/Custom/Players/Player_BP_Auto2.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemyMoveStruct_2018-02-26-14-22-42.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemyMoveStruct_Table_2018-02-26-13-12-40.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemyMoveStruct_Table_2018-02-26-13-20-46.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemyMoveStruct_Table_2018-02-26-14-02-33.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemyMoveStruct_Table_2018-02-26-14-24-18.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemyMoveStruct_Table_2018-02-26-14-32-18.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemyMoveStruct_Table_2018-02-26-14-42-22.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemyMoveStruct_Table_2018-02-26-15-25-25.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemyMoveStruct_Table_2018-02-26-16-01-57.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemyMoveStruct_Table_2018-02-26-16-12-19.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-13-13-40.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-13-20-18.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-13-27-50.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-13-53-19.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-14-21-49.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-14-36-47.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-14-46-08.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-15-25-24.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-15-40-13.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-15-45-26.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-15-54-32.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-16-01-22.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-02-26-16-12-16.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-13-20-45.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-13-28-12.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-13-35-06.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-13-43-03.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-13-49-01.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-13-56-20.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-14-02-01.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-14-15-41.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-14-20-41.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-14-26-53.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-14-41-08.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-14-58-49.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-15-05-47.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-15-23-17.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-15-42-14.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-15-48-59.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-15-54-48.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-02-26-16-01-22.uasset
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-13-08-33.umap
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-13-20-18.umap
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-13-31-45.umap
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-13-44-59.umap
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-13-57-15.umap
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-14-08-49.umap
+[2018.03.07-14.36.02:388][467]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-14-25-20.umap
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-14-36-47.umap
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-14-49-18.umap
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-15-00-39.umap
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-15-11-00.umap
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-15-26-17.umap
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-15-48-58.umap
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-16-01-22.umap
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-02-26-16-12-27.umap
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_BuiltData_2018-02-26-14-25-20.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_BuiltData_2018-02-26-16-12-27.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-2269C91945D403EBD9B22D968DA726E7/CrashReportClient.ini
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-925B9ED740368012C8E0B49862C9FD51/CrashReportClient.ini
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-B91ADA904ECB862176B253BA48316126/CrashReportClient.ini
+[2018.03.07-14.36.02:389][467]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2018.03.07-14.36.02:389][467]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.02.28-14.26.35.log
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.02.28-18.14.41.log
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.02.28-18.29.28.log
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.03.01-11.33.51.log
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.03.02-11.44.44.log
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.03.02-14.53.15.log
+[2018.03.07-14.36.02:389][467]SourceControl: 	modified:   Saved/Logs/FinalProject.log
+[2018.03.07-14.36.02:389][467]SourceControl: 	deleted:    Saved/Logs/FinalProject_2-backup-2018.03.02-11.44.44.log
+[2018.03.07-14.36.02:389][467]SourceControl: Untracked files:
+[2018.03.07-14.36.02:389][467]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Autosaves/Game/Custom/Enemy/Projectile_Pattern/
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/EnemyMoveStruct_2018-03-06-21-33-54.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/EnemyMoveStruct_Table_2018-03-06-21-33-53.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/EnemySpawner_2018-03-06-21-44-47.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/Enemy_BP_2018-03-06-21-44-47.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/LibeSkill3_2018-03-06-15-03-42.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/Libe_2018-03-06-15-06-46.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/Libe_2018-03-06-15-27-26.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/Libe_2018-03-06-15-32-54.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/Libe_2018-03-06-15-38-44.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/Libe_2018-03-06-15-45-46.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/MoveXYStruct_2018-03-06-21-33-53.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/MoveXYStruct_Table_2018-03-06-21-33-53.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/Player_BP_2018-03-06-15-24-46.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/Player_BP_2018-03-06-15-33-59.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/Projectile_Round_Pattern_2018-03-06-21-44-48.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/Projectile_Round_Pattern_2018-03-07-23-14-27.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/Sylphod_2018-03-06-15-07-08.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/Sylphod_2018-03-06-15-12-19.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/Sylphod_2018-03-06-15-26-26.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/Sylphod_2018-03-06-15-31-57.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/Sylphod_2018-03-06-15-39-05.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/Sylphod_2018-03-06-15-44-27.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-03-06-12-59-52.umap
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-03-06-13-14-42.umap
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-03-06-14-58-07.umap
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-03-06-15-03-19.umap
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-03-06-15-23-53.umap
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-03-06-21-33-56.umap
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-03-07-23-25-09.umap
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-03-07-23-34-16.umap
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-06-13-01-22.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-06-13-14-43.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-06-14-58-07.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-06-15-03-20.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-06-15-23-53.uasset
+[2018.03.07-14.36.02:389][467]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-06-21-33-57.uasset
+[2018.03.07-14.36.02:390][467]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-07-23-25-10.uasset
+[2018.03.07-14.36.02:390][467]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-07-23-34-16.uasset
+[2018.03.07-14.36.02:390][467]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-0AC7E5364FF337496F85A28A74AA474F/
+[2018.03.07-14.36.02:390][467]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-9BD860EF48575E3E2BDED085FBF56D16/
+[2018.03.07-14.36.02:390][467]SourceControl: 	Saved/HardwareSurvey/
+[2018.03.07-14.36.02:390][467]SourceControl: 	Saved/Logs/FinalProject-backup-2018.03.06-21.19.08.log
+[2018.03.07-14.36.02:390][467]SourceControl: 	Saved/Logs/FinalProject-backup-2018.03.07-23.03.27.log
+[2018.03.07-14.36.02:885][467]LogSavePackage: Save=2.41ms
+[2018.03.07-14.36.02:885][467]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Projectile_Round_Pattern_TableF83357104916D5DBF058759693AF5F2B.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Projectile_Round_Pattern_Table.uasset'
+[2018.03.07-14.36.02:892][467]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Projectile_Round_Pattern_Table.uasset
+[2018.03.07-14.36.04:339][496]LogSavePackage: Save=2.04ms
+[2018.03.07-14.36.04:339][496]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Projectile_Round_Pattern_TableED18547E448F1743ECFB02A08ABEED5D.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Projectile_Round_Pattern_Table.uasset'
+[2018.03.07-14.36.04:342][496]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Projectile_Round_Pattern_Table.uasset
+[2018.03.07-14.37.05:257][877]LogSavePackage: Save=2.20ms
+[2018.03.07-14.37.05:257][877]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Projectile_Round_Pattern_Table43DE9CA844EF9B320117FA8212808F47.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Projectile_Round_Pattern_Table.uasset'
+[2018.03.07-14.37.05:263][877]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Projectile_Round_Pattern_Table.uasset
+[2018.03.07-14.37.07:836][966]LogSavePackage: Save=148.38ms
+[2018.03.07-14.37.07:836][966]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMapE56D69124421B5D320C637ADA835356F.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2018.03.07-14.37.07:843][966]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.03.07-14.37.08:129][966]LogSavePackage: Save=101.35ms
+[2018.03.07-14.37.08:129][966]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltDataF0920EA6435B189C902C0EADD84E4457.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.03.07-14.37.08:132][966]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
