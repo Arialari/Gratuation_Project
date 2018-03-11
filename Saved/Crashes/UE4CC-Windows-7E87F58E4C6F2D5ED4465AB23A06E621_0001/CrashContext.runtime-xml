@@ -34,7 +34,7 @@
 		<EpicAccountId>0484f503dfd84142907b84d36f52f0e9</EpicAccountId>
 		<CallStack />
 		<SourceContext />
-		<UserDescription />
+		<UserDescription>Sent in the unattended mode</UserDescription>
 		<UserActivityHint>Layout=&quot;StandaloneToolkit : 20&quot; Label=&quot;Libe&quot; Content=SStandaloneAssetEditorToolkitHost</UserActivityHint>
 		<ErrorMessage>Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\Kismet\Private\SKismetInspector.cpp] [Line: 568] Object in KismetInspector is invalid, see TTP 281915</ErrorMessage>
 		<CrashDumpMode>0</CrashDumpMode>
