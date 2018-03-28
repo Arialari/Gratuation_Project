@@ -1,0 +1,883 @@
+﻿Log file open, 03/28/18 11:47:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FinalProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(11628274) SRandInit(11628274).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 5.737075
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceCore.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceSource.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceLiveLink.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Ari/Program Files/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.28-02.47.09:872][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.28-02.47.09:887][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.28-02.47.10:001][  0]LogInit: Computer: JAEBUM-PC
+[2018.03.28-02.47.10:002][  0]LogInit: User: ar981
+[2018.03.28-02.47.10:002][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.28-02.47.10:002][  0]LogInit: High frequency timer resolution =2.435775 MHz
+[2018.03.28-02.47.10:002][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.03.28-02.47.10:002][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.28-02.47.10:002][  0]LogMemory: Process Physical Memory: 274.81 MB used, 274.81 MB peak
+[2018.03.28-02.47.10:002][  0]LogMemory: Process Virtual Memory: 265.90 MB used, 265.90 MB peak
+[2018.03.28-02.47.10:002][  0]LogMemory: Physical Memory: 3658.09 MB used,  4412.84 MB free, 8070.93 MB total
+[2018.03.28-02.47.10:002][  0]LogMemory: Virtual Memory: 664.03 MB used,  4412.84 MB free, 134217728.00 MB total
+[2018.03.28-02.47.11:182][  0]LogInit: Using OS detected language (ko-KR).
+[2018.03.28-02.47.11:182][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.03.28-02.47.11:274][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.03.28-02.47.11:624][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.28-02.47.13:473][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.28-02.47.14:812][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 850M' (Feature Level 11_0)
+[2018.03.28-02.47.14:812][  0]LogD3D11RHI:       2019/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.28-02.47.14:878][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.03.28-02.47.14:878][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.03.28-02.47.14:882][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.28-02.47.14:882][  0]LogD3D11RHI:       0/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.28-02.47.14:882][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.28-02.47.14:900][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.28-02.47.14:910][  0]LogD3D11RHI:     GPU DeviceId: 0x1391 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.28-02.47.14:910][  0]LogWindows: EnumDisplayDevices:
+[2018.03.28-02.47.14:910][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.03.28-02.47.14:911][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.03.28-02.47.14:911][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.03.28-02.47.14:912][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.28-02.47.14:912][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 850M
+[2018.03.28-02.47.14:912][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.28-02.47.14:912][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.28-02.47.14:912][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2018.03.28-02.47.15:000][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.28-02.47.15:293][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 4)
+[2018.03.28-02.47.15:431][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../Unreal Projects/FinalProject/Intermediate/Shaders/WorkingDirectory/14788/).
+[2018.03.28-02.47.15:431][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ar981/AppData/Local/Temp/UnrealShaderWorkingDir/55950AD14E9E639A69D758BF32C14A3B/'.
+[2018.03.28-02.47.15:436][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.28-02.47.18:631][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.28-02.47.18:707][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.28-02.47.18:794][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.28-02.47.18:866][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.28-02.47.18:997][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.28-02.47.19:096][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.28-02.47.19:213][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.28-02.47.19:303][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.28-02.47.19:521][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.28-02.47.19:665][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.28-02.47.19:811][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.28-02.47.19:963][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.28-02.47.20:089][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.28-02.47.20:215][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.28-02.47.20:526][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.28-02.47.20:526][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.28-02.47.20:829][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.28-02.47.20:964][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.28-02.47.21:210][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.28-02.47.21:262][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.28-02.47.21:386][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.28-02.47.21:612][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.28-02.47.21:738][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.28-02.47.22:002][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.28-02.47.22:002][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.28-02.47.23:532][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.28-02.47.24:572][  0]LogDerivedDataCache: Loaded boot cache 1.03s 78MB C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.28-02.47.24:572][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.28-02.47.24:572][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/FinalProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.28-02.47.24:572][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.28-02.47.24:572][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/FinalProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.28-02.47.24:572][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.28-02.47.24:623][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.28-02.47.24:637][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ar981/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.28-02.47.24:660][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.28-02.47.24:720][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.28-02.47.24:785][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.28-02.47.24:785][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.28-02.47.32:142][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.28-02.47.34:143][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.28-02.47.34:279][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.28-02.47.34:298][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.28-02.47.34:298][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.28-02.47.34:298][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.28-02.47.34:298][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.28-02.47.34:619][  0]LogNetVersion: FinalProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1186961665)
+[2018.03.28-02.47.36:138][  0]LogAssetRegistry: FAssetRegistry took 0.1442 seconds to start up
+[2018.03.28-02.47.42:903][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.130351 seconds
+[2018.03.28-02.47.42:938][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.28-02.47.42:938][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.03.28-02.47.42:938][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.28-02.47.43:016][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.28-02.48.16:185][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2018.03.28-02.48.16:371][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.28-02.48.16:481][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.28-02.48.16:495][  0]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1
+[2018.03.28-02.48.16:495][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2018.03.28-02.48.16:496][  0]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2018.03.28-02.48.18:864][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.28-02.48.20:682][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.03.28-02.48.24:777][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.28-02.48.25:587][  0]LogOcInput: OculusInput pre-init called
+[2018.03.28-02.48.28:019][  0]LogEngine: Initializing Engine...
+[2018.03.28-02.48.28:105][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.03.28-02.48.29:599][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.28-02.48.29:599][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.28-02.48.29:953][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.28-02.48.29:991][  0]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.28-02.48.30:275][  0]LogInit: FAudioDevice initialized.
+[2018.03.28-02.48.30:479][  0]LogDerivedDataCache: Saved boot cache 0.20s 78MB C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.28-02.48.30:493][  0]LogInit: Texture streaming: Enabled
+[2018.03.28-02.48.30:783][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.28-02.48.31:610][  0]LogInit: Transaction tracking system initialized
+[2018.03.28-02.48.34:201][  0]BlueprintLog: New page: 에디터 로드
+[2018.03.28-02.48.40:157][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.03.28-02.48.43:994][  0]LogConsoleResponse: Display: 
+[2018.03.28-02.48.49:030][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/' took 0.02s
+[2018.03.28-02.48.49:030][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.28-02.48.49:084][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.28-02.48.49:149][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.28-02.48.58:400][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.28-02.48.58:481][  0]LightingResults: New page: 라이팅 빌드
+[2018.03.28-02.48.59:070][  0]MapCheck: New page: 맵 체크
+[2018.03.28-02.48.59:070][  0]LightingResults: New page: 라이팅 빌드
+[2018.03.28-02.49.19:837][  0]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.03.28-02.49.20:313][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.28-02.49.20:387][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.28-02.49.20:544][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 156.806ms.
+[2018.03.28-02.49.20:544][  0]LogFileHelpers: Loading map 'TwinStickExampleMap' took 22.144
+[2018.03.28-02.49.23:039][  0]LogCollectionManager: Loaded 0 collections in 0.004507 seconds
+[2018.03.28-02.49.24:197][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Saved/Collections/' took 0.01s
+[2018.03.28-02.49.24:197][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/Developers/ar981/Collections/' took 0.01s
+[2018.03.28-02.49.24:197][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/Collections/' took 0.01s
+[2018.03.28-02.49.24:197][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.28-02.49.24:505][  0]LogContentBrowser: Native class hierarchy populated in 0.2119 seconds. Added 2377 classes and 525 folders.
+[2018.03.28-02.49.24:972][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.03.28-02.49.28:265][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.03.28-02.49.28:410][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.03.28-02.49.29:136][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.03.28-02.49.29:137][  0]LogLoad: (Engine Initialization) Total time: 167.91 seconds
+[2018.03.28-02.49.29:137][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.28-02.49.29:137][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.03.28-02.49.29:137][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.03.28-02.49.29:258][  0]SourceControl: On branch master
+[2018.03.28-02.49.29:258][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.03.28-02.49.29:258][  0]SourceControl: Changes not staged for commit:
+[2018.03.28-02.49.29:258][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.03.28-02.49.29:258][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.03.28-02.49.29:258][  0]SourceControl: 	modified:   Content/Custom/CameraTopView_Blueprint.uasset
+[2018.03.28-02.49.29:258][  0]SourceControl: 	modified:   Content/Custom/Enemy/Enemy_BP.uasset
+[2018.03.28-02.49.29:258][  0]SourceControl: 	modified:   Content/Custom/Enemy/Enemys/ArckShip.uasset
+[2018.03.28-02.49.29:258][  0]SourceControl: 	modified:   Content/Custom/Enemy/Enemys/Disruptor.uasset
+[2018.03.28-02.49.29:258][  0]SourceControl: 	modified:   Content/Custom/Enemy/Enemys/Mistic.uasset
+[2018.03.28-02.49.29:258][  0]SourceControl: 	modified:   Content/Custom/Enemy/Enemys/ScopeRay.uasset
+[2018.03.28-02.49.29:258][  0]SourceControl: 	modified:   Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.03.28-02.49.29:258][  0]SourceControl: 	modified:   Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.03.28-02.49.29:258][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.03.28-02.49.29:258][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.03.28-02.49.29:258][  0]SourceControl: 	deleted:    Saved/Backup/Simple_Round_Projectile_2018-03-24-13-06-32.uasset
+[2018.03.28-02.49.29:258][  0]SourceControl: 	deleted:    Saved/Backup/Spac_Inst_2018-03-24-13-06-32.uasset
+[2018.03.28-02.49.29:258][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-03-24-12-54-43.umap
+[2018.03.28-02.49.29:258][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-03-24-13-06-32.umap
+[2018.03.28-02.49.29:258][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-24-12-54-43.uasset
+[2018.03.28-02.49.29:258][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-24-13-16-36.uasset
+[2018.03.28-02.49.29:258][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-2B6C896A42F2B279EC8D53B1DCDA8AD2/CrashReportClient.ini
+[2018.03.28-02.49.29:258][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-62D27C5D4814F8B4A2F243A7FE8B1A8C/CrashReportClient.ini
+[2018.03.28-02.49.29:258][  0]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2018.03.28-02.49.29:259][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.03.28-02.49.29:259][  0]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
+[2018.03.28-02.49.29:259][  0]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.03.24-21.33.51.log
+[2018.03.28-02.49.29:259][  0]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.03.25-10.13.49.log
+[2018.03.28-02.49.29:259][  0]SourceControl: 	modified:   Saved/Logs/FinalProject.log
+[2018.03.28-02.49.29:259][  0]SourceControl: Untracked files:
+[2018.03.28-02.49.29:259][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.03.28-02.49.29:259][  0]SourceControl: 	Saved/Backup/ArckShip_2018-03-27-23-24-47.uasset
+[2018.03.28-02.49.29:259][  0]SourceControl: 	Saved/Backup/CameraTopView_Blueprint_2018-03-27-23-11-07.uasset
+[2018.03.28-02.49.29:259][  0]SourceControl: 	Saved/Backup/Disruptor_2018-03-27-23-24-48.uasset
+[2018.03.28-02.49.29:259][  0]SourceControl: 	Saved/Backup/Enemy_BP_2018-03-27-23-13-17.uasset
+[2018.03.28-02.49.29:259][  0]SourceControl: 	Saved/Backup/Mistic_2018-03-27-23-15-04.uasset
+[2018.03.28-02.49.29:259][  0]SourceControl: 	Saved/Backup/ScopeRay_2018-03-27-23-24-48.uasset
+[2018.03.28-02.49.29:259][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-03-27-23-14-33.umap
+[2018.03.28-02.49.29:259][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-27-23-14-34.uasset
+[2018.03.28-02.49.29:259][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-368D4E94491E3DC3C1E7DCA6F39B5ED7/
+[2018.03.28-02.49.29:259][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-8640E2B947FEB43331AC64B8752FAC88/
+[2018.03.28-02.49.29:259][  0]SourceControl: 	Saved/Logs/FinalProject-backup-2018.03.27-23.06.54.log
+[2018.03.28-02.49.29:259][  0]SourceControl: 	Saved/Logs/FinalProject-backup-2018.03.28-11.47.02.log
+[2018.03.28-02.49.29:259][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.03.28-02.49.29:260][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.28-02.49.29:394][  0]LogSlate: Took 0.020951 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.28-02.49.30:202][  0]LogSlate: Took 0.806416 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.03.28-02.49.30:300][  0]LogSlate: Took 0.097136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.28-02.49.30:323][  0]LogSlate: Took 0.019452 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.28-02.49.31:338][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2018.03.28-02.49.31:590][  1]LogRenderer: Reallocating scene render targets to support 740x368 Format 10 NumSamples 1 (Frame:1).
+[2018.03.28-02.49.31:590][  1]LogSlate: Took 0.090617 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.28-02.49.32:133][  3]LogAssetRegistry: Asset discovery search completed in 116.0169 seconds
+[2018.03.28-02.49.32:194][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.28-02.49.32:194][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000075 seconds (updated 0 objects)
+[2018.03.28-03.12.33:766][866]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.03.28-03.12.34:087][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.28-03.12.34:087][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-03.12.34:138][866]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 3. 28. 오후 9:12:34)
+[2018.03.28-03.12.34:138][866]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.03.28-03.12.34:148][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010272s)
+[2018.03.28-03.12.34:149][866]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.03.28-03.12.34:149][866]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2018.03.28-03.12.34:149][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.011540s)
+[2018.03.28-03.12.34:167][866]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.28-03.12.34:179][866]LogInit: FAudioDevice initialized.
+[2018.03.28-03.12.34:220][866]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.03.28-03.12.34:224][866]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.03.28-12.12.34
+[2018.03.28-03.12.34:253][866]LogWorld: Bringing up level for play took: 0.031142
+[2018.03.28-03.12.34:358][866]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.03.28-03.12.35:707][866]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.91
+[2018.03.28-03.12.35:707][866]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.28-03.12.35:921][867]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.070606 > MaxSimulationTimeStep (0.050) for 'PlayerInput_BP_C_0', movement 'Walking'
+[2018.03.28-03.12.38:642][ 19]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.28-03.12.38:730][ 19]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.28-03.12.42:702][210]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.42:714][211]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.42:772][212]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.42:786][213]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.42:852][215]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.42:886][216]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.42:904][217]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.42:931][218]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.42:956][219]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.42:982][220]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:007][221]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:029][222]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:059][223]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:078][224]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:109][225]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:129][226]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:154][227]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:179][228]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:205][229]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:230][230]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:258][231]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:281][232]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:305][233]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:330][234]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:356][235]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:381][236]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:406][237]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:432][238]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:457][239]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:483][240]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:508][241]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:533][242]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:560][243]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:590][244]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:609][245]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:634][246]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:669][247]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:695][248]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:725][249]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:755][250]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:790][251]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:819][252]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:860][253]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:889][254]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:919][255]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:946][256]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:969][257]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.43:995][258]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:018][259]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:044][260]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:068][261]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:098][262]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:116][263]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:132][264]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:152][265]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:171][266]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:191][267]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:211][268]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:235][269]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:255][270]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:273][271]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:295][272]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:315][273]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:337][274]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:359][275]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:381][276]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:403][277]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:425][278]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:450][279]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:475][280]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:501][281]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:532][282]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:559][283]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:590][284]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:618][285]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:647][286]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:677][287]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:706][288]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:737][289]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:768][290]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:793][291]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:818][292]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:843][293]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:868][294]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:892][295]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:917][296]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:942][297]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:961][298]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.44:980][299]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:000][300]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:018][301]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:039][302]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:058][303]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:078][304]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:097][305]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:117][306]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:134][307]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:153][308]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:174][309]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:192][310]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:210][311]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:229][312]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:248][313]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:267][314]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:285][315]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:302][316]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:321][317]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:340][318]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:359][319]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:377][320]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:395][321]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:413][322]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:431][323]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:449][324]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:468][325]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:485][326]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:508][327]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:524][328]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:541][329]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:560][330]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:579][331]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:598][332]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:618][333]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:635][334]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:654][335]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:674][336]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:692][337]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:710][338]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:729][339]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:747][340]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:766][341]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:784][342]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:802][343]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:821][344]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:840][345]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:859][346]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:877][347]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:896][348]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:914][349]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:933][350]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:950][351]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:969][352]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.45:991][353]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:005][354]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:024][355]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:042][356]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:060][357]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:078][358]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:096][359]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:114][360]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:132][361]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:151][362]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:169][363]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:187][364]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:207][365]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:225][366]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:243][367]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:261][368]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:279][369]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:297][370]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:315][371]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:333][372]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:352][373]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:369][374]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:387][375]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:406][376]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:426][377]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:442][378]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:460][379]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:478][380]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.46:497][381]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.12.47:537][435]LogSlate: Took 0.000371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.28-03.12.47:981][435]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator0' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.03.28-03.12.47:981][435]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator1' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.03.28-03.12.47:981][435]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator2' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.03.28-03.12.47:981][435]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator3' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.03.28-03.12.47:981][435]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator4' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.03.28-03.12.47:981][435]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator5' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.03.28-03.12.47:981][435]LogEnum: Warning: Enum name collision: 'EnemyName::EnemyName_MAX' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.03.28-03.12.47:981][435]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator0' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.03.28-03.12.47:981][435]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator1' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.03.28-03.12.47:981][435]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator2' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.03.28-03.12.47:981][435]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator3' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.03.28-03.12.47:981][435]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator4' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.03.28-03.12.47:981][435]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator5' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.03.28-03.12.48:105][435]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.03.28-03.12.49:229][435]LogSlate: Took 0.000406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.28-03.12.49:475][435]LogSlate: Took 0.012146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.28-03.12.50:234][436]LogSlate: Took 0.009967 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.28-03.12.54:263][622]LogSlate: Took 0.010003 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.03.28-03.13.14:366][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Projectile/Player_Projectile_Pool" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Projectile/Player_Projectile_Pool.uasset" SILENT=true
+[2018.03.28-03.13.14:463][623]LogSavePackage: Save=73.64ms
+[2018.03.28-03.13.14:463][623]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Player_Projectile_Pool3DAFDD5D4EE462BDC7FB8C9B3F8D5B22.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Projectile/Player_Projectile_Pool.uasset'
+[2018.03.28-03.13.14:470][623]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Projectile/Player_Projectile_Pool.uasset
+[2018.03.28-03.13.14:883][645]BlueprintLog: New page: Player_Projectile_Pool 컴파일
+[2018.03.28-03.13.15:679][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Projectile/Player_Projectile_Pool" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Projectile/Player_Projectile_Pool.uasset" SILENT=true
+[2018.03.28-03.13.15:768][655]LogSavePackage: Save=69.60ms
+[2018.03.28-03.13.15:768][655]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Player_Projectile_PoolB5FD3A1B431275C6CBA092B14126F0CA.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Projectile/Player_Projectile_Pool.uasset'
+[2018.03.28-03.13.15:772][655]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Projectile/Player_Projectile_Pool.uasset
+[2018.03.28-03.13.16:679][708]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.03.28-03.13.16:722][708]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.28-03.13.16:722][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-03.13.16:723][708]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 3. 28. 오후 9:13:16)
+[2018.03.28-03.13.16:723][708]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.03.28-03.13.16:733][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010218s)
+[2018.03.28-03.13.16:734][708]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.03.28-03.13.16:734][708]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2018.03.28-03.13.16:734][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.011525s)
+[2018.03.28-03.13.16:780][708]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.28-03.13.16:789][708]LogInit: FAudioDevice initialized.
+[2018.03.28-03.13.16:821][708]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.03.28-03.13.16:824][708]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.03.28-12.13.16
+[2018.03.28-03.13.16:825][708]LogWorld: Bringing up level for play took: 0.002745
+[2018.03.28-03.13.18:080][708]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 2.284
+[2018.03.28-03.13.18:082][708]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.28-03.13.18:126][709]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.070696 > MaxSimulationTimeStep (0.050) for 'PlayerInput_BP_C_0', movement 'Walking'
+[2018.03.28-03.13.18:646][725]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.28-03.13.18:729][725]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.28-03.13.21:228][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Projectile/Player_Projectile_Pool" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Projectile/Player_Projectile_Pool.uasset" SILENT=true
+[2018.03.28-03.13.21:319][854]LogSavePackage: Save=70.31ms
+[2018.03.28-03.13.21:319][854]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Player_Projectile_PoolF62F03E6436515D14079A4932AC0D092.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Projectile/Player_Projectile_Pool.uasset'
+[2018.03.28-03.13.21:323][854]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Projectile/Player_Projectile_Pool.uasset
+[2018.03.28-03.13.23:360][915]LogSavePackage: Save=260.46ms
+[2018.03.28-03.13.23:360][915]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap73567A5B46280BBE546EB6B2E24305E2.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2018.03.28-03.13.23:365][915]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.03.28-03.13.23:746][915]LogSavePackage: Save=133.00ms
+[2018.03.28-03.13.23:746][915]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltData51968AE244FFB37B0A012CB575C9FB36.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.03.28-03.13.23:749][915]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.03.28-03.13.23:759][916]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.03.28-03.13.23:796][916]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.28-03.13.23:796][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-03.13.23:796][916]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 3. 28. 오후 9:13:23)
+[2018.03.28-03.13.23:797][916]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.03.28-03.13.23:809][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012777s)
+[2018.03.28-03.13.23:810][916]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.03.28-03.13.23:810][916]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2018.03.28-03.13.23:811][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.014042s)
+[2018.03.28-03.13.23:841][916]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.28-03.13.23:851][916]LogInit: FAudioDevice initialized.
+[2018.03.28-03.13.23:884][916]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.03.28-03.13.23:886][916]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.03.28-12.13.23
+[2018.03.28-03.13.23:887][916]LogWorld: Bringing up level for play took: 0.001793
+[2018.03.28-03.13.25:027][916]PIE: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.231
+[2018.03.28-03.13.25:028][916]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.28-03.13.25:030][916]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.053271 > MaxSimulationTimeStep (0.050) for 'PlayerInput_BP_C_0', movement 'Walking'
+[2018.03.28-03.13.44:744][ 76]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShootBullet) or object (ArckShip_C_0)
+[2018.03.28-03.13.45:204][104]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShootBullet) or object (ArckShip_C_1)
+[2018.03.28-03.13.45:704][134]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShootBullet) or object (ArckShip_C_2)
+[2018.03.28-03.14.38:150][224]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.28-03.14.38:222][224]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.03.28-03.14.42:647][443]LogSavePackage: Save=440.76ms
+[2018.03.28-03.14.42:647][443]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap765CF80646641BAB7D90A49913EF3E61.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2018.03.28-03.14.42:654][443]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2018.03.28-03.14.42:948][443]LogSavePackage: Save=93.84ms
+[2018.03.28-03.14.42:948][443]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltData28C892CF4835D7649BD87E8E5D2BDAF3.tmp' to '../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.03.28-03.14.42:951][443]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.03.28-03.22.49:010][598]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:023][599]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:040][600]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:057][601]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:088][602]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:112][603]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:137][604]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:160][605]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:185][606]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:209][607]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:233][608]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:257][609]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:281][610]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:306][611]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:332][612]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:359][613]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:381][614]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:408][615]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:427][616]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:450][617]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:467][618]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:487][619]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:507][620]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:525][621]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:550][622]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:577][623]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:599][624]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:624][625]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:649][626]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:674][627]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:699][628]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:724][629]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:749][630]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:775][631]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:804][632]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:837][633]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:865][634]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:896][635]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:928][636]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:962][637]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.49:997][638]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.50:028][639]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.50:059][640]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.50:089][641]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.50:113][642]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.50:137][643]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.50:162][644]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.50:187][645]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.50:211][646]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.50:235][647]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.50:260][648]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.50:286][649]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.50:311][650]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.22.50:780][651]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.16:125][978]BlueprintLog: New page: PlayerInput_BP 컴파일
+[2018.03.28-03.23.17:258][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Players/PlayerInput_BP" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Players/PlayerInput_BP.uasset" SILENT=true
+[2018.03.28-03.23.17:512][ 14]LogSavePackage: Save=231.64ms
+[2018.03.28-03.23.17:512][ 14]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/PlayerInput_BP55DDEFE34DF8F3ABE5A73784BA57D52D.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Players/PlayerInput_BP.uasset'
+[2018.03.28-03.23.17:519][ 14]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Players/PlayerInput_BP.uasset
+[2018.03.28-03.23.22:121][256]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:137][257]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:154][258]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:171][259]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:187][260]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:204][261]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:221][262]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:241][263]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:254][264]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:274][265]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:293][266]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:312][267]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:332][268]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:354][269]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:371][270]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:391][271]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:410][272]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:431][273]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:450][274]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:469][275]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:490][276]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:507][277]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:527][278]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:546][279]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:565][280]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:584][281]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:602][282]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:621][283]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:640][284]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:660][285]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:679][286]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:698][287]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:715][288]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:733][289]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:751][290]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:769][291]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:787][292]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:824][294]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:843][295]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:860][296]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:878][297]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:894][298]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:912][299]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:930][300]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:944][301]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:960][302]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:976][303]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.22:996][304]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:014][305]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:032][306]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:050][307]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:068][308]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:087][309]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:105][310]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:124][311]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:141][312]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:161][313]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:179][314]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:197][315]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:215][316]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:233][317]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:251][318]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:270][319]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:290][320]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:306][321]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:324][322]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:342][323]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:362][324]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:380][325]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:398][326]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:416][327]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:434][328]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:452][329]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:473][330]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:489][331]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:507][332]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:528][333]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:543][334]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:566][335]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:581][336]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:599][337]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:617][338]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:635][339]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:653][340]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:671][341]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:689][342]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:708][343]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:727][344]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:746][345]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:764][346]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:782][347]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:800][348]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:818][349]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:835][350]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:853][351]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:871][352]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:890][353]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:907][354]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:926][355]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:945][356]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:963][357]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:981][358]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.23:998][359]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.24:017][360]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.24:035][361]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.24:053][362]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.24:071][363]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.24:089][364]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.24:107][365]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.24:124][366]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.24:145][367]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.24:164][368]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.24:180][369]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.24:198][370]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.24:217][371]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.24:234][372]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.24:252][373]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.24:272][374]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.03.28-03.23.35:967][990]LogUObjectArray: Warning: Other object in slot
+[2018.03.28-03.23.38:395][990]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.427 s
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: 
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: Stack: 
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x000000009B8C2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x000000009B66123A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x000000009B67B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x0000000092C433F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x0000000099E803AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x00000000958F3EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x00000000957874AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x000000009578ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x00000000958B8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x000000009AF87397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x000000009AF8CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x000000009B1C9913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x000000009AFE3484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x000000009AFDD1F1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x000000009AFDC953 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x0000000023FD69CA UE4Editor.exe!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x0000000023FE5430 UE4Editor.exe!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x0000000023FE54AA UE4Editor.exe!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x0000000023FF2379 UE4Editor.exe!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x0000000023FF3D57 UE4Editor.exe!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x00000000DA131FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: [Callstack] 0x00000000DA4FEFC1 ntdll.dll!UnknownFunction []
+[2018.03.28-03.23.38:395][990]LogOutputDevice: Error: 
+[2018.03.28-03.23.38:398][990]LogStats:                SubmitErrorReport -  0.000 s
