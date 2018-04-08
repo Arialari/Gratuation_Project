@@ -1,0 +1,1291 @@
+﻿Log file open, 04/07/18 16:58:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FinalProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1388369475) SRandInit(-1388369475).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.195326
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceCore.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceSource.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceLiveLink.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Ari/Program Files/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.07-07.58.54:805][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.07-07.58.54:805][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.07-07.58.54:819][  0]LogInit: Computer: JAEBUM-PC
+[2018.04.07-07.58.54:819][  0]LogInit: User: ar981
+[2018.04.07-07.58.54:819][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.07-07.58.54:819][  0]LogInit: High frequency timer resolution =2.435772 MHz
+[2018.04.07-07.58.54:820][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.04.07-07.58.54:820][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.07-07.58.54:820][  0]LogMemory: Process Physical Memory: 275.55 MB used, 275.55 MB peak
+[2018.04.07-07.58.54:820][  0]LogMemory: Process Virtual Memory: 281.95 MB used, 281.95 MB peak
+[2018.04.07-07.58.54:820][  0]LogMemory: Physical Memory: 3512.80 MB used,  4558.13 MB free, 8070.93 MB total
+[2018.04.07-07.58.54:820][  0]LogMemory: Virtual Memory: 680.03 MB used,  4558.13 MB free, 134217728.00 MB total
+[2018.04.07-07.58.54:979][  0]LogInit: Using OS detected language (ko-KR).
+[2018.04.07-07.58.54:979][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.04.07-07.58.54:987][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.04.07-07.58.55:190][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.07-07.58.55:726][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.07-07.58.56:043][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 850M' (Feature Level 11_0)
+[2018.04.07-07.58.56:043][  0]LogD3D11RHI:       2019/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.07-07.58.56:051][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.04.07-07.58.56:051][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.04.07-07.58.56:055][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.07-07.58.56:055][  0]LogD3D11RHI:       0/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.07-07.58.56:055][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.07-07.58.56:064][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.07-07.58.56:064][  0]LogD3D11RHI:     GPU DeviceId: 0x1391 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.07-07.58.56:064][  0]LogWindows: EnumDisplayDevices:
+[2018.04.07-07.58.56:065][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.04.07-07.58.56:066][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.04.07-07.58.56:066][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.04.07-07.58.56:067][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.07-07.58.56:067][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 850M
+[2018.04.07-07.58.56:067][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.07-07.58.56:067][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.07-07.58.56:067][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2018.04.07-07.58.56:106][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.07-07.58.56:120][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.07-07.58.56:122][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../Unreal Projects/FinalProject/Intermediate/Shaders/WorkingDirectory/13376/).
+[2018.04.07-07.58.56:122][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ar981/AppData/Local/Temp/UnrealShaderWorkingDir/CF7B4F764C7C038118E0359C15ED11F4/'.
+[2018.04.07-07.58.56:122][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.07-07.58.57:311][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.07-07.58.57:370][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.07-07.58.57:428][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.07-07.58.57:492][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.07-07.58.57:559][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.07-07.58.57:621][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.07-07.58.57:685][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.07-07.58.57:747][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.07-07.58.57:801][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.07-07.58.57:863][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.07-07.58.57:920][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.07-07.58.57:985][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.07-07.58.58:051][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.07-07.58.58:114][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.07-07.58.58:234][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.07-07.58.58:234][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.07-07.58.58:293][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.07-07.58.58:339][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.07-07.58.58:439][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.07-07.58.58:465][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.07-07.58.58:527][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.07-07.58.58:585][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.07-07.58.58:647][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.07-07.58.58:709][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.07-07.58.58:709][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.07-07.58.59:235][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.07-07.58.59:334][  0]LogDerivedDataCache: Loaded boot cache 0.10s 78MB C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.07-07.58.59:334][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.07-07.58.59:334][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/FinalProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.07-07.58.59:334][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.07-07.58.59:334][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/FinalProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.07-07.58.59:334][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.07-07.58.59:352][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.07-07.58.59:366][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ar981/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.07-07.58.59:377][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.07-07.58.59:378][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.07-07.58.59:379][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.07-07.58.59:379][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.07-07.58.59:871][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.07-07.59.00:316][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.07-07.59.00:368][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.07-07.59.00:368][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.07-07.59.00:368][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.07-07.59.00:368][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.07-07.59.00:368][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.07-07.59.00:429][  0]LogNetVersion: FinalProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1186961665)
+[2018.04.07-07.59.00:645][  0]LogAssetRegistry: FAssetRegistry took 0.0272 seconds to start up
+[2018.04.07-07.59.01:330][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.082360 seconds
+[2018.04.07-07.59.01:337][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.07-07.59.01:337][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.04.07-07.59.01:337][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.07-07.59.01:385][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.07-07.59.05:103][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2018.04.07-07.59.05:157][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.07-07.59.05:221][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.07-07.59.06:237][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.07-07.59.06:825][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.04.07-07.59.09:080][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.07-07.59.09:531][  0]LogOcInput: OculusInput pre-init called
+[2018.04.07-07.59.10:335][  0]LogEngine: Initializing Engine...
+[2018.04.07-07.59.10:339][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.04.07-07.59.10:632][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.07-07.59.10:632][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.07-07.59.10:788][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.07-07.59.10:817][  0]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.07-07.59.10:871][  0]LogInit: FAudioDevice initialized.
+[2018.04.07-07.59.11:077][  0]LogDerivedDataCache: Saved boot cache 0.21s 78MB C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.07-07.59.11:107][  0]LogInit: Texture streaming: Enabled
+[2018.04.07-07.59.11:345][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.07-07.59.11:576][  0]LogInit: Transaction tracking system initialized
+[2018.04.07-07.59.12:128][  0]BlueprintLog: New page: 에디터 로드
+[2018.04.07-07.59.14:132][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.04.07-07.59.15:645][  0]LogConsoleResponse: Display: 
+[2018.04.07-07.59.15:886][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.07-07.59.15:886][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.07-07.59.15:886][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.07-07.59.16:341][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/' took 0.02s
+[2018.04.07-07.59.17:686][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.07-07.59.17:687][  0]LightingResults: New page: 라이팅 빌드
+[2018.04.07-07.59.17:737][  0]MapCheck: New page: 맵 체크
+[2018.04.07-07.59.17:737][  0]LightingResults: New page: 라이팅 빌드
+[2018.04.07-07.59.19:925][  0]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.04.07-07.59.19:999][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.07-07.59.20:022][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.07-07.59.20:162][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 139.528ms.
+[2018.04.07-07.59.20:162][  0]LogFileHelpers: Loading map 'TwinStickExampleMap' took 2.476
+[2018.04.07-07.59.20:235][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.04.07-07.59.20:825][  0]LogCollectionManager: Loaded 0 collections in 0.003122 seconds
+[2018.04.07-07.59.20:924][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Saved/Collections/' took 0.01s
+[2018.04.07-07.59.20:924][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/Developers/ar981/Collections/' took 0.01s
+[2018.04.07-07.59.20:924][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/Collections/' took 0.01s
+[2018.04.07-07.59.20:924][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.07-07.59.20:934][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2377 classes and 525 folders.
+[2018.04.07-07.59.21:010][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.07-07.59.22:056][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.07-07.59.22:167][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.04.07-07.59.22:402][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.04.07-07.59.22:402][  0]LogLoad: (Engine Initialization) Total time: 32.22 seconds
+[2018.04.07-07.59.22:402][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.07-07.59.22:402][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.07-07.59.22:402][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.07-07.59.22:448][  0]SourceControl: On branch master
+[2018.04.07-07.59.22:448][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.04.07-07.59.22:448][  0]SourceControl: Changes not staged for commit:
+[2018.04.07-07.59.22:448][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.04.07-07.59.22:448][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.04.07-07.59.22:448][  0]SourceControl: 	modified:   Content/Custom/Enemy/Enemys/Disruptor.uasset
+[2018.04.07-07.59.22:448][  0]SourceControl: 	modified:   Content/Custom/Enemy/Enemys/Mistic.uasset
+[2018.04.07-07.59.22:448][  0]SourceControl: 	modified:   Content/Custom/Maps/TwinStickExampleMap.umap
+[2018.04.07-07.59.22:448][  0]SourceControl: 	modified:   Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.04.07-07.59.22:448][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.04.07-07.59.22:448][  0]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2018.04.07-07.59.22:448][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-03-31-21-08-41.uasset
+[2018.04.07-07.59.22:448][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-03-31-21-17-40.uasset
+[2018.04.07-07.59.22:448][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-03-31-21-26-10.uasset
+[2018.04.07-07.59.22:448][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-03-31-21-31-17.uasset
+[2018.04.07-07.59.22:448][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-31-21-34-52.uasset
+[2018.04.07-07.59.22:448][  0]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2018.04.07-07.59.22:448][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.04.07-07.59.22:448][  0]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.04.02-13.08.21.log
+[2018.04.07-07.59.22:448][  0]SourceControl: 	modified:   Saved/Logs/FinalProject.log
+[2018.04.07-07.59.22:448][  0]SourceControl: 	deleted:    Saved/Logs/FinalProject_2-backup-2018.04.02-13.08.21.log
+[2018.04.07-07.59.22:448][  0]SourceControl: Untracked files:
+[2018.04.07-07.59.22:449][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.04.07-07.59.22:449][  0]SourceControl: 	Saved/Backup/Disruptor_2018-04-07-14-42-07.uasset
+[2018.04.07-07.59.22:449][  0]SourceControl: 	Saved/Backup/Mistic_2018-04-07-14-42-02.uasset
+[2018.04.07-07.59.22:449][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-04-07-14-41-55.umap
+[2018.04.07-07.59.22:449][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-04-07-14-41-56.uasset
+[2018.04.07-07.59.22:449][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-8DED558B4EF8D5903FA6A7B1954210F1/
+[2018.04.07-07.59.22:449][  0]SourceControl: 	Saved/Logs/FinalProject-backup-2018.04.07-16.58.51.log
+[2018.04.07-07.59.22:449][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.04.07-07.59.22:449][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.07-07.59.22:473][  0]LogSlate: Took 0.022755 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.07-07.59.22:531][  0]LogSlate: Took 0.055779 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.04.07-07.59.22:540][  0]LogSlate: Took 0.008533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.07-07.59.22:561][  0]LogSlate: Took 0.017023 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.07-07.59.22:834][  0]LogSlate: Took 0.029363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.07-07.59.22:879][  1]LogRenderer: Reallocating scene render targets to support 808x372 Format 10 NumSamples 1 (Frame:1).
+[2018.04.07-07.59.22:880][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2018.04.07-07.59.22:901][  1]LogAssetRegistry: Asset discovery search completed in 22.2782 seconds
+[2018.04.07-07.59.22:903][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.07-07.59.22:903][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2018.04.07-08.00.32:000][110]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.07-08.00.32:329][110]LogSavePackage: Save=278.08ms
+[2018.04.07-08.00.32:329][110]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap2214455D46D9FDE7484BD3851246D7FA.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap.umap'
+[2018.04.07-08.00.32:342][110]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap.umap
+[2018.04.07-08.00.32:573][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Maps/TwinStickExampleMap_BuiltData" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset" SILENT=true
+[2018.04.07-08.00.33:039][110]LogSavePackage: Save=417.86ms
+[2018.04.07-08.00.33:039][110]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltData1DD56BFA4C19ABB4E7670D862B694E7D.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.04.07-08.00.33:043][110]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.04.07-08.00.35:546][255]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.07-08.00.35:649][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Custom/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/Custom/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/Custom/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.04.07-08.00.35:649][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.07-08.00.35:650][255]PIE: New page: PIE 세션: TwinStickExampleMap (2018. 4. 8. 오전 2:00:35)
+[2018.04.07-08.00.35:650][255]LogPlayLevel: Creating play world package: /Game/Custom/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.04.07-08.00.35:660][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009852s)
+[2018.04.07-08.00.35:661][255]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.04.07-08.00.35:661][255]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2018.04.07-08.00.35:661][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/Custom/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.010930s)
+[2018.04.07-08.00.35:682][255]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.07-08.00.35:695][255]LogInit: FAudioDevice initialized.
+[2018.04.07-08.00.35:736][255]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.04.07-08.00.35:739][255]LogWorld: Bringing World /Game/Custom/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2018.04.07-17.00.35
+[2018.04.07-08.00.35:740][255]LogWorld: Bringing up level for play took: 0.001808
+[2018.04.07-08.00.35:791][255]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.04.07-08.00.37:176][255]PIE: /Game/Custom/Maps/UEDPIE_0_TwinStickExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.088
+[2018.04.07-08.00.37:177][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Custom/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/Custom/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/Custom/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.04.07-08.00.37:232][256]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.070594 > MaxSimulationTimeStep (0.050) for 'PlayerInput_BP_C_0', movement 'Walking'
+[2018.04.07-08.02.18:551][866]LogScriptCore: Warning: Script Msg: Divide by zero detected: 360.000000 / 0
+Script call stack:
+	Function /Game/Custom/Enemy/EnemySpawner.EnemySpawner_C:EnemySpawn
+	Function /Game/Custom/Enemy/EnemySpawner.EnemySpawner_C:SpawnEnemyHereFc
+	Function /Game/Custom/Enemy/Enemy_BP.Enemy_BP_C:Start
+	Function /Game/Custom/Enemy/Enemy_BP.Enemy_BP_C:AttachToAddOnComp
+
+[2018.04.07-08.03.33:810][330]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Custom/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/Custom/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/Custom/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.04.07-08.03.33:926][330]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Custom/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Custom/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/Custom/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/Custom/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.04.07-08.03.35:070][357]LogSavePackage: Save=217.84ms
+[2018.04.07-08.03.35:070][357]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap0DFFB74A4B7900263CAF67BAE87D66E5.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap.umap'
+[2018.04.07-08.03.35:095][357]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap.umap
+[2018.04.07-08.03.35:320][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Maps/TwinStickExampleMap_BuiltData" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset" SILENT=true
+[2018.04.07-08.03.35:580][357]LogSavePackage: Save=245.23ms
+[2018.04.07-08.03.35:581][357]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltData2F94193C4963D7A54C4C2C81B08FDB25.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.04.07-08.03.35:584][357]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.04.07-08.03.39:075][534]LogSavePackage: Save=261.67ms
+[2018.04.07-08.03.39:075][534]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap02337BDB40A96B0AC68924A66CD91695.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap.umap'
+[2018.04.07-08.03.39:082][534]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap.umap
+[2018.04.07-08.03.39:268][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Maps/TwinStickExampleMap_BuiltData" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset" SILENT=true
+[2018.04.07-08.03.39:543][534]LogSavePackage: Save=259.58ms
+[2018.04.07-08.03.39:543][534]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltDataDE36050041EE8841FCE8C6882935EE5B.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.04.07-08.03.39:547][534]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.04.07-08.03.48:942][ 74]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator0' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.07-08.03.48:942][ 74]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator1' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.07-08.03.48:942][ 74]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator2' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.07-08.03.48:942][ 74]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator3' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.07-08.03.48:942][ 74]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator4' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.07-08.03.48:942][ 74]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator5' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.07-08.03.48:942][ 74]LogEnum: Warning: Enum name collision: 'EnemyName::EnemyName_MAX' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.07-08.03.48:942][ 74]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator0' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.07-08.03.48:942][ 74]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator1' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.07-08.03.48:942][ 74]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator2' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.07-08.03.48:942][ 74]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator3' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.07-08.03.48:942][ 74]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator4' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.07-08.03.48:942][ 74]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator5' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.07-08.03.49:009][ 74]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.04.07-08.03.49:851][ 74]LogSlate: Took 0.000437 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.07-08.03.50:074][ 74]LogSlate: Took 0.034846 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.07-08.04.27:747][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.04.27:825][310]LogSavePackage: Save=59.47ms
+[2018.04.07-08.04.27:825][310]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss1FB4E7EDD4F3CB559D2A8F999BCE07B31.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.04.27:878][310]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.04.28:516][347]BlueprintLog: New page: Boss1 컴파일
+[2018.04.07-08.04.29:369][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.04.29:446][355]LogSavePackage: Save=60.15ms
+[2018.04.07-08.04.29:446][355]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss17D1A57E24FF195885374E0B3B1F1921A.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.04.29:449][355]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.04.37:285][817]LogSlate: Took 0.044860 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.07-08.04.59:042][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.04.59:112][112]LogSavePackage: Save=52.08ms
+[2018.04.07-08.04.59:112][112]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss19D0F8C754E7C59B9B47195842D7AD6EF.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.04.59:121][112]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.07.05:947][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.07.06:019][712]LogSavePackage: Save=53.88ms
+[2018.04.07-08.07.06:019][712]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss1DFCF420D47F63DD944FD4B995FA8DC6E.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.07.06:023][712]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.07.28:009][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.07.28:079][ 22]LogSavePackage: Save=53.16ms
+[2018.04.07-08.07.28:079][ 22]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss1DDCBFB1241A05BFF0E2FA7B5B1716D36.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.07.28:084][ 22]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.07.36:051][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.07.36:120][277]LogSavePackage: Save=52.22ms
+[2018.04.07-08.07.36:121][277]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss19D1AC2AF42E3A31C6242CFB64A90EA07.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.07.36:126][277]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.07.38:448][401]LogRenderer: Reallocating scene render targets to support 808x448 Format 10 NumSamples 1 (Frame:1).
+[2018.04.07-08.07.41:567][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.07.41:635][576]LogSavePackage: Save=52.33ms
+[2018.04.07-08.07.41:635][576]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss1F626600049C05B882A89E99EC7479EA8.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.07.41:640][576]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.07.52:786][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.07.52:854][234]LogSavePackage: Save=51.69ms
+[2018.04.07-08.07.52:854][234]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss1D7FE354B4D6B2504BAC9FE89BBEE3404.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.07.52:861][234]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.07.53:346][263]BlueprintLog: New page: Boss1 컴파일
+[2018.04.07-08.07.54:161][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.07.54:238][274]LogSavePackage: Save=61.16ms
+[2018.04.07-08.07.54:238][274]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss1B4B7BB794899CA1C2B24A8A82F5D73A0.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.07.54:241][274]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.08.25:678][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.08.25:748][130]LogSavePackage: Save=52.35ms
+[2018.04.07-08.08.25:748][130]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss1C4FF2F6C4EAF968F2EEDA2847DC731EC.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.08.25:753][130]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.08.29:818][334]LogSavePackage: Save=299.64ms
+[2018.04.07-08.08.29:818][334]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap65F682AA4B47E658096E7EA7943F5B75.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap.umap'
+[2018.04.07-08.08.29:825][334]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap.umap
+[2018.04.07-08.08.30:050][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Maps/TwinStickExampleMap_BuiltData" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset" SILENT=true
+[2018.04.07-08.08.30:345][334]LogSavePackage: Save=273.85ms
+[2018.04.07-08.08.30:345][334]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltDataA496A4CF4B54671671C57CA71992C479.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.04.07-08.08.30:349][334]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.04.07-08.18.31:107][552]LogSavePackage: Save=280.98ms
+[2018.04.07-08.18.31:107][552]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap11C0197C4867DA6B4EEF3B8B481B3D43.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap.umap'
+[2018.04.07-08.18.31:115][552]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap.umap
+[2018.04.07-08.18.31:396][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Maps/TwinStickExampleMap_BuiltData" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset" SILENT=true
+[2018.04.07-08.18.31:713][552]LogSavePackage: Save=270.06ms
+[2018.04.07-08.18.31:713][552]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltData567A094B4DCC62E338D6DDBAD9EC9C81.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.04.07-08.18.31:716][552]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.04.07-08.19.21:927][476]LogRenderer: Reallocating scene render targets to support 812x448 Format 10 NumSamples 1 (Frame:42371).
+[2018.04.07-08.19.21:979][476]LogRenderer: Reallocating scene render targets to support 816x448 Format 10 NumSamples 1 (Frame:42372).
+[2018.04.07-08.19.22:034][476]LogRenderer: Reallocating scene render targets to support 820x448 Format 10 NumSamples 1 (Frame:42373).
+[2018.04.07-08.19.22:083][476]LogRenderer: Reallocating scene render targets to support 828x448 Format 10 NumSamples 1 (Frame:42374).
+[2018.04.07-08.19.22:133][476]LogRenderer: Reallocating scene render targets to support 832x448 Format 10 NumSamples 1 (Frame:42375).
+[2018.04.07-08.19.22:184][476]LogRenderer: Reallocating scene render targets to support 836x448 Format 10 NumSamples 1 (Frame:42376).
+[2018.04.07-08.19.22:235][476]LogRenderer: Reallocating scene render targets to support 840x448 Format 10 NumSamples 1 (Frame:42377).
+[2018.04.07-08.19.22:312][476]LogRenderer: Reallocating scene render targets to support 844x448 Format 10 NumSamples 1 (Frame:42378).
+[2018.04.07-08.20.09:425][ 44]BlueprintLog: New page: Boss1 컴파일
+[2018.04.07-08.20.10:327][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.20.10:412][ 56]LogSavePackage: Save=65.37ms
+[2018.04.07-08.20.10:412][ 56]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss1CEFADB494B04DC0236884F8F23BA1EED.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.20.10:419][ 56]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.49.16:623][107]BlueprintLog: New page: Boss1 컴파일
+[2018.04.07-08.49.16:731][107]LogBlueprint: Error: [Compiler Boss1] ' Event ' 핀의 현재 값이 유효하지 않습니다: Unsupported type 델리게이트 on pin Delegate
+[2018.04.07-08.49.17:124][107]LogBlueprint: Warning: [Compiler Boss1] [3026.94] Boss1 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 0 회, [소요시간 500 ms] (/Game/Custom/Bosses/Boss1.Boss1)
+[2018.04.07-08.49.17:437][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.49.17:523][114]LogSavePackage: Save=67.59ms
+[2018.04.07-08.49.17:523][114]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss13926BF7C40A0A640850A48B68137D7A3.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.49.17:530][114]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.49.25:069][529]BlueprintLog: New page: Boss1 컴파일
+[2018.04.07-08.49.25:861][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.49.25:945][539]LogSavePackage: Save=67.81ms
+[2018.04.07-08.49.25:945][539]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss19A37F7A54F174C8408BE7895272C822D.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.49.25:952][539]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.49.35:975][100]BlueprintLog: New page: Boss1 컴파일
+[2018.04.07-08.49.36:810][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.49.36:895][107]LogSavePackage: Save=68.07ms
+[2018.04.07-08.49.36:895][107]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss16F83B5D44D1AE06B6AB920B8E1C03406.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.49.36:901][107]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.50.49:277][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.50.49:354][422]LogSavePackage: Save=60.32ms
+[2018.04.07-08.50.49:354][422]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss11D184AB143F2A56FE3AB49ADF4D2D1C4.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.50.49:358][422]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.52.09:708][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.52.09:787][ 73]LogSavePackage: Save=61.53ms
+[2018.04.07-08.52.09:787][ 73]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss1D73E2D804CE9808B27713BAA272CEC4C.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.52.09:793][ 73]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.55.19:621][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.55.19:708][409]LogSavePackage: Save=66.83ms
+[2018.04.07-08.55.19:708][409]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss120A4C2274FF7E77E30A7BA9BD9F7DE17.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.55.19:711][409]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.55.50:099][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.55.50:177][647]LogSavePackage: Save=60.15ms
+[2018.04.07-08.55.50:177][647]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss1C18FF6F9414A8215C04983BBA5629645.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.55.50:184][647]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.56.25:319][675]BlueprintLog: New page: Boss1 컴파일
+[2018.04.07-08.56.26:037][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.56.26:118][681]LogSavePackage: Save=63.54ms
+[2018.04.07-08.56.26:118][681]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss15490F27D4F6BBEB4A519EE8EA122A0CF.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.56.26:124][681]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.56.39:733][449]BlueprintLog: New page: Boss1 컴파일
+[2018.04.07-08.56.40:551][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.56.40:636][455]LogSavePackage: Save=69.70ms
+[2018.04.07-08.56.40:636][455]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss192B639FB4A3F6AE7AC21FEB559FA1E45.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.56.40:643][455]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.56.45:263][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.56.45:338][703]LogSavePackage: Save=59.86ms
+[2018.04.07-08.56.45:338][703]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss14E240F9D448FD620D37D33B963F50612.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.56.45:345][703]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.58.31:639][973]BlueprintLog: New page: Boss1 컴파일
+[2018.04.07-08.58.32:421][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.58.32:503][979]LogSavePackage: Save=65.16ms
+[2018.04.07-08.58.32:503][979]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss189D1503D4C4C8A0FA0B858B6A97FEE43.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.58.32:510][979]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-08.59.40:045][501]BlueprintLog: New page: Boss1 컴파일
+[2018.04.07-08.59.40:846][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-08.59.40:928][507]LogSavePackage: Save=65.18ms
+[2018.04.07-08.59.40:928][507]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss18D8CAC6E47D7EA68489B15BE2AF2C385.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-08.59.40:934][507]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-09.00.08:835][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-09.00.08:908][155]LogSavePackage: Save=57.22ms
+[2018.04.07-09.00.08:908][155]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss10ED82C444A1D8B1B7BB55FA8CBC5D8EA.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-09.00.08:912][155]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-09.01.15:365][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-09.01.15:441][  5]LogSavePackage: Save=56.63ms
+[2018.04.07-09.01.15:441][  5]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss176D4164E444CDEED9E8D90AF25AF3F08.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-09.01.15:444][  5]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-09.02.31:032][360]BlueprintLog: New page: Boss1 컴파일
+[2018.04.07-09.02.31:981][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-09.02.32:064][374]LogSavePackage: Save=64.53ms
+[2018.04.07-09.02.32:064][374]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss1F53862934A280822974A6EBC33CDF610.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-09.02.32:069][374]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-09.02.49:135][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-09.02.49:210][844]LogSavePackage: Save=57.51ms
+[2018.04.07-09.02.49:210][844]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss1316E348A4D0673A047160D980BBF6D2C.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-09.02.49:213][844]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-09.03.11:857][899]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.11:867][900]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.11:894][901]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.11:911][902]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.11:928][903]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.11:945][904]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.11:961][905]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.11:979][906]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.11:998][907]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:017][908]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:036][909]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:056][910]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:075][911]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:097][912]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:116][913]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:133][914]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:160][915]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:173][916]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:193][917]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:209][918]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:232][919]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:247][920]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:266][921]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:290][922]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:304][923]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:325][924]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:343][925]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:362][926]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:379][927]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:398][928]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:417][929]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:436][930]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:455][931]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:475][932]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:494][933]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:512][934]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:531][935]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:550][936]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:569][937]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:590][938]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:609][939]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:627][940]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:649][941]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:666][942]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:684][943]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:702][944]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:721][945]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:741][946]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:761][947]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:780][948]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:799][949]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:817][950]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:836][951]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:857][952]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:876][953]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:895][954]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:915][955]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:932][956]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:951][957]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:970][958]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.12:989][959]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.13:009][960]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.13:028][961]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.13:046][962]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.13:065][963]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:478][788]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:497][789]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:521][790]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:543][791]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:559][792]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:578][793]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:598][794]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:616][795]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:638][796]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:659][797]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:675][798]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:695][799]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:716][800]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:738][801]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:761][802]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:783][803]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:804][804]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:829][805]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:849][806]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:870][807]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:893][808]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:914][809]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:935][810]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:958][811]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:978][812]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.29:998][813]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.30:020][814]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.30:043][815]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.30:063][816]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.30:084][817]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.30:105][818]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.30:127][819]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.30:148][820]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.30:170][821]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.30:190][822]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.30:211][823]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.30:231][824]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.32:939][968]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.32:961][969]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.32:978][970]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.32:994][971]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:011][972]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:027][973]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:044][974]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:061][975]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:078][976]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:111][978]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:127][979]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:144][980]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:160][981]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:177][982]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:194][983]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:210][984]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:227][985]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:244][986]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:261][987]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:278][988]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:296][989]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:315][990]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:334][991]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:352][992]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:373][993]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:392][994]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:410][995]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:429][996]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:447][997]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:467][998]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:487][999]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:504][  0]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:527][  1]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:543][  2]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:561][  3]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:580][  4]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:599][  5]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:617][  6]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:640][  7]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:656][  8]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:676][  9]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:694][ 10]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:713][ 11]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:733][ 12]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:757][ 13]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:770][ 14]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:790][ 15]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:809][ 16]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:827][ 17]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:849][ 18]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:865][ 19]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:891][ 20]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:908][ 21]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:924][ 22]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:942][ 23]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:961][ 24]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:980][ 25]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.33:999][ 26]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:019][ 27]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:039][ 28]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:058][ 29]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:077][ 30]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:095][ 31]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:114][ 32]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:133][ 33]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:152][ 34]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:173][ 35]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:191][ 36]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:210][ 37]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:233][ 38]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:252][ 39]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:273][ 40]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:290][ 41]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:310][ 42]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:326][ 43]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:345][ 44]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:367][ 45]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:383][ 46]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:402][ 47]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:420][ 48]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:440][ 49]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:459][ 50]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:480][ 51]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:497][ 52]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:515][ 53]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:534][ 54]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:553][ 55]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:573][ 56]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:592][ 57]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:610][ 58]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:630][ 59]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:648][ 60]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:667][ 61]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:689][ 62]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:706][ 63]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:724][ 64]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:744][ 65]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:763][ 66]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:781][ 67]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:800][ 68]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:819][ 69]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:839][ 70]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:859][ 71]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:877][ 72]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:896][ 73]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:915][ 74]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:934][ 75]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:954][ 76]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:973][ 77]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.34:992][ 78]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:012][ 79]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:029][ 80]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:049][ 81]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:067][ 82]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:086][ 83]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:106][ 84]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:124][ 85]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:143][ 86]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:162][ 87]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:182][ 88]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:200][ 89]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:221][ 90]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:237][ 91]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:257][ 92]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:276][ 93]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:294][ 94]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:313][ 95]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:331][ 96]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:350][ 97]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:369][ 98]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:389][ 99]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:408][100]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:426][101]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:445][102]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:463][103]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:482][104]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:501][105]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:520][106]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:539][107]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:559][108]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:577][109]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:597][110]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:617][111]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:634][112]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:652][113]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:672][114]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:691][115]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:710][116]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:728][117]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:746][118]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:766][119]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:784][120]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:804][121]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:822][122]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:841][123]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:860][124]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:878][125]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:898][126]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:916][127]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:935][128]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:955][129]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:974][130]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.35:993][131]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:011][132]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:030][133]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:049][134]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:067][135]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:086][136]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:106][137]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:125][138]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:143][139]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:162][140]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:181][141]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:200][142]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:220][143]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:237][144]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:256][145]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:276][146]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:294][147]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:312][148]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:332][149]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:353][150]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:370][151]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:389][152]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:407][153]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:426][154]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:445][155]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:464][156]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:482][157]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:504][158]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:520][159]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:539][160]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:559][161]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:577][162]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:596][163]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:614][164]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:633][165]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:652][166]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:672][167]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:691][168]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:709][169]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:727][170]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:746][171]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:765][172]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:784][173]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:803][174]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:822][175]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:842][176]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:860][177]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:879][178]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:898][179]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:917][180]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:936][181]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:956][182]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:976][183]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.36:995][184]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:012][185]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:033][186]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:050][187]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:071][188]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:087][189]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:106][190]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:126][191]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:144][192]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:163][193]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:181][194]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:200][195]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:219][196]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:239][197]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:257][198]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:276][199]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:295][200]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:313][201]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:332][202]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:351][203]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:370][204]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:389][205]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:408][206]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:426][207]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:446][208]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:464][209]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:483][210]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:501][211]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:521][212]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:539][213]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:558][214]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.03.37:577][215]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.04.04:112][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Enemy/EnemySpawner" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/EnemySpawner.uasset" SILENT=true
+[2018.04.07-09.04.04:523][655]LogSavePackage: Save=331.92ms
+[2018.04.07-09.04.04:523][655]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/EnemySpawnerB102F576418082A8C5CB45920267B3E8.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/EnemySpawner.uasset'
+[2018.04.07-09.04.04:528][655]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/EnemySpawner.uasset
+[2018.04.07-09.04.08:011][837]LogSlate: Took 0.000467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.07-09.04.08:881][846]LogSpawn: Warning: SpawnActor failed because class Player_BP_C is abstract
+[2018.04.07-09.05.28:670][148]BlueprintLog: New page: Boss1 컴파일
+[2018.04.07-09.05.29:481][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-09.05.29:569][152]LogSavePackage: Save=69.91ms
+[2018.04.07-09.05.29:569][152]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss1AB3CF8D14557576D5C1077A6814C80A3.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-09.05.29:575][152]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-09.05.30:183][160]LogSavePackage: Save=262.77ms
+[2018.04.07-09.05.30:183][160]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap1FB4D7AB49B51944FFF46F85F7D18242.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap.umap'
+[2018.04.07-09.05.30:189][160]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap.umap
+[2018.04.07-09.05.30:384][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Maps/TwinStickExampleMap_BuiltData" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset" SILENT=true
+[2018.04.07-09.05.30:739][160]LogSavePackage: Save=294.62ms
+[2018.04.07-09.05.30:739][160]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltData2A458BBD480678528563E094E6AD71C7.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.04.07-09.05.30:742][160]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.04.07-09.06.34:348][852]BlueprintLog: New page: Boss1 컴파일
+[2018.04.07-09.06.35:182][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-09.06.35:271][858]LogSavePackage: Save=69.32ms
+[2018.04.07-09.06.35:271][858]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss17569BA6B433E12869888D8926BCCF158.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-09.06.35:277][858]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-09.06.36:013][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-09.06.36:089][887]LogSavePackage: Save=60.47ms
+[2018.04.07-09.06.36:089][887]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss1E997462147C321EF6E5738B29580F40B.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-09.06.36:093][887]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-09.07.09:089][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-09.07.09:167][787]LogSavePackage: Save=61.25ms
+[2018.04.07-09.07.09:167][787]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss1A55DBC80460574315C4D399263531914.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-09.07.09:172][787]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-09.07.14:614][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-09.07.14:691][947]LogSavePackage: Save=60.45ms
+[2018.04.07-09.07.14:691][947]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss199ACB8074AC8E77568AC67B808FE419A.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-09.07.14:697][947]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-09.09.45:679][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Bosses/Boss1" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset" SILENT=true
+[2018.04.07-09.09.45:760][139]LogSavePackage: Save=64.01ms
+[2018.04.07-09.09.45:760][139]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Boss1B02C95A4448BB92DAA8DF6B3BE42E2C7.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset'
+[2018.04.07-09.09.45:763][139]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Bosses/Boss1.uasset
+[2018.04.07-09.12.04:796][447]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.07-09.12.06:259][493]LogSavePackage: Save=276.96ms
+[2018.04.07-09.12.06:259][493]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMapDF7619AF483FD6EF2FDD7EB886C85E5D.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap.umap'
+[2018.04.07-09.12.06:268][493]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap.umap
+[2018.04.07-09.12.06:461][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Maps/TwinStickExampleMap_BuiltData" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset" SILENT=true
+[2018.04.07-09.12.06:811][493]LogSavePackage: Save=268.63ms
+[2018.04.07-09.12.06:811][493]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltDataAC69A02044F60AD2C718C7A1F792034A.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.04.07-09.12.06:814][493]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.04.07-09.12.07:368][509]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.04.07-09.12.07:549][510]Cmd: QUIT_EDITOR
+[2018.04.07-09.12.08:760][510]LogExit: Preparing to exit.
+[2018.04.07-09.12.09:495][510]LogDirectoryWatcher: A directory notification for 'D:/Ari/Unreal Projects/FinalProject/Content/' was aborted.
+[2018.04.07-09.12.09:656][510]LogExit: Editor shut down
+[2018.04.07-09.12.09:690][510]LogExit: Transaction tracking system shut down
+[2018.04.07-09.12.09:914][510]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.07-09.12.09:914][510]LogDirectoryWatcher: A directory notification for '../../../../../Unreal Projects/FinalProject/Content/' was aborted.
+[2018.04.07-09.12.09:915][510]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.07-09.12.09:915][510]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.07-09.12.09:915][510]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.07-09.12.09:915][510]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.07-09.12.09:915][510]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.07-09.12.10:178][510]LogExit: Object subsystem successfully closed.
+[2018.04.07-09.12.10:270][510]LogD3D11RHI: Shutdown
+[2018.04.07-09.12.10:270][510]LogD3D11RHI: CleanupD3DDevice
+[2018.04.07-09.12.10:279][510]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.07-09.12.10:366][510]LogModuleManager: Shutting down and abandoning module BlueprintGraph (560)
+[2018.04.07-09.12.10:366][510]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (558)
+[2018.04.07-09.12.10:366][510]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (556)
+[2018.04.07-09.12.10:366][510]LogModuleManager: Shutting down and abandoning module SceneOutliner (554)
+[2018.04.07-09.12.10:366][510]LogModuleManager: Shutting down and abandoning module AddContentDialog (552)
+[2018.04.07-09.12.10:367][510]LogDirectoryWatcher: A directory notification for 'D:/Ari/Program Files/UE_4.18/FeaturePacks/' was aborted.
+[2018.04.07-09.12.10:373][510]LogModuleManager: Shutting down and abandoning module WidgetCarousel (551)
+[2018.04.07-09.12.10:373][510]LogModuleManager: Shutting down and abandoning module EditorWidgets (548)
+[2018.04.07-09.12.10:373][510]LogModuleManager: Shutting down and abandoning module CollectionManager (546)
+[2018.04.07-09.12.10:373][510]LogDirectoryWatcher: A directory notification for 'D:/Ari/Unreal Projects/FinalProject/Content/Collections/' was aborted.
+[2018.04.07-09.12.10:373][510]LogDirectoryWatcher: A directory notification for 'D:/Ari/Unreal Projects/FinalProject/Content/Developers/ar981/Collections/' was aborted.
+[2018.04.07-09.12.10:373][510]LogDirectoryWatcher: A directory notification for 'D:/Ari/Unreal Projects/FinalProject/Saved/Collections/' was aborted.
+[2018.04.07-09.12.10:373][510]LogModuleManager: Shutting down and abandoning module StatsViewer (544)
+[2018.04.07-09.12.10:373][510]LogModuleManager: Shutting down and abandoning module FoliageEdit (542)
+[2018.04.07-09.12.10:373][510]LogModuleManager: Shutting down and abandoning module LandscapeEditor (540)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module MeshPaintMode (538)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (536)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module ActorPickerMode (534)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module GeometryMode (532)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module TextureAlignMode (530)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module BspMode (528)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (526)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module HardwareSurvey (524)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (522)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module AutomationWorker (520)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (518)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (516)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module PlacementMode (515)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (512)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (510)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (508)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (506)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (504)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (502)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (500)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (498)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (496)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module CharacterAI (494)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module AudioCapture (492)
+[2018.04.07-09.12.10:374][510]LogModuleManager: Shutting down and abandoning module SequenceRecorder (491)
+[2018.04.07-09.12.10:375][510]LogModuleManager: Shutting down and abandoning module SmartSnapping (488)
+[2018.04.07-09.12.10:375][510]LogModuleManager: Shutting down and abandoning module SessionServices (486)
+[2018.04.07-09.12.10:375][510]LogModuleManager: Shutting down and abandoning module ViewportSnapping (484)
+[2018.04.07-09.12.10:375][510]LogModuleManager: Shutting down and abandoning module ViewportInteraction (482)
+[2018.04.07-09.12.10:375][510]LogModuleManager: Shutting down and abandoning module ClothPainter (480)
+[2018.04.07-09.12.10:375][510]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (479)
+[2018.04.07-09.12.10:375][510]LogModuleManager: Shutting down and abandoning module LogVisualizer (476)
+[2018.04.07-09.12.10:375][510]LogModuleManager: Shutting down and abandoning module IntroTutorials (474)
+[2018.04.07-09.12.10:375][510]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (473)
+[2018.04.07-09.12.10:375][510]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (470)
+[2018.04.07-09.12.10:375][510]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (468)
+[2018.04.07-09.12.10:375][510]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (466)
+[2018.04.07-09.12.10:375][510]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (465)
+[2018.04.07-09.12.10:756][510]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (462)
+[2018.04.07-09.12.10:756][510]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (460)
+[2018.04.07-09.12.10:756][510]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (458)
+[2018.04.07-09.12.10:756][510]LogModuleManager: Shutting down and abandoning module InputBindingEditor (456)
+[2018.04.07-09.12.10:756][510]LogModuleManager: Shutting down and abandoning module MergeActors (454)
+[2018.04.07-09.12.10:756][510]LogModuleManager: Shutting down and abandoning module SizeMap (452)
+[2018.04.07-09.12.10:756][510]LogModuleManager: Shutting down and abandoning module TreeMap (450)
+[2018.04.07-09.12.10:757][510]LogModuleManager: Shutting down and abandoning module ReferenceViewer (448)
+[2018.04.07-09.12.10:757][510]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (446)
+[2018.04.07-09.12.10:757][510]LogModuleManager: Shutting down and abandoning module LocalizationService (445)
+[2018.04.07-09.12.10:757][510]LogModuleManager: Shutting down and abandoning module HardwareTargeting (442)
+[2018.04.07-09.12.10:757][510]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (440)
+[2018.04.07-09.12.10:757][510]LogModuleManager: Shutting down and abandoning module UndoHistory (438)
+[2018.04.07-09.12.10:757][510]LogModuleManager: Shutting down and abandoning module XmlParser (436)
+[2018.04.07-09.12.10:757][510]LogModuleManager: Shutting down and abandoning module Blutility (434)
+[2018.04.07-09.12.10:757][510]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (432)
+[2018.04.07-09.12.10:757][510]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (431)
+[2018.04.07-09.12.10:757][510]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (428)
+[2018.04.07-09.12.10:757][510]LogModuleManager: Shutting down and abandoning module SettingsEditor (426)
+[2018.04.07-09.12.10:757][510]LogModuleManager: Shutting down and abandoning module ProjectLauncher (424)
+[2018.04.07-09.12.10:757][510]LogModuleManager: Shutting down and abandoning module SessionFrontend (422)
+[2018.04.07-09.12.10:757][510]LogModuleManager: Shutting down and abandoning module ProfilerClient (420)
+[2018.04.07-09.12.10:757][510]LogModuleManager: Shutting down and abandoning module DeviceManager (418)
+[2018.04.07-09.12.10:757][510]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (417)
+[2018.04.07-09.12.10:813][510]LogModuleManager: Shutting down and abandoning module AutomationController (414)
+[2018.04.07-09.12.10:813][510]LogModuleManager: Shutting down and abandoning module AutomationWindow (412)
+[2018.04.07-09.12.10:813][510]LogModuleManager: Shutting down and abandoning module Layers (410)
+[2018.04.07-09.12.10:813][510]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (408)
+[2018.04.07-09.12.10:813][510]LogModuleManager: Shutting down and abandoning module DetailCustomizations (406)
+[2018.04.07-09.12.10:813][510]LogModuleManager: Shutting down and abandoning module PackagesDialog (404)
+[2018.04.07-09.12.10:813][510]LogModuleManager: Shutting down and abandoning module Persona (402)
+[2018.04.07-09.12.10:813][510]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (401)
+[2018.04.07-09.12.10:813][510]LogModuleManager: Shutting down and abandoning module AnimGraph (399)
+[2018.04.07-09.12.10:814][510]LogModuleManager: Shutting down and abandoning module Kismet (396)
+[2018.04.07-09.12.10:834][510]LogModuleManager: Shutting down and abandoning module ClassViewer (394)
+[2018.04.07-09.12.10:836][510]LogModuleManager: Shutting down and abandoning module Toolbox (392)
+[2018.04.07-09.12.10:836][510]LogModuleManager: Shutting down and abandoning module ModuleUI (390)
+[2018.04.07-09.12.10:836][510]LogModuleManager: Shutting down and abandoning module MovieSceneTools (388)
+[2018.04.07-09.12.10:836][510]LogModuleManager: Shutting down and abandoning module OutputLog (386)
+[2018.04.07-09.12.10:836][510]LogModuleManager: Shutting down and abandoning module GammaUI (384)
+[2018.04.07-09.12.10:836][510]LogModuleManager: Shutting down and abandoning module Documentation (382)
+[2018.04.07-09.12.10:837][510]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (380)
+[2018.04.07-09.12.10:837][510]LogModuleManager: Shutting down and abandoning module MovieScene (378)
+[2018.04.07-09.12.10:837][510]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (376)
+[2018.04.07-09.12.10:837][510]LogModuleManager: Shutting down and abandoning module LauncherPlatform (374)
+[2018.04.07-09.12.10:837][510]LogModuleManager: Shutting down and abandoning module AnalyticsET (372)
+[2018.04.07-09.12.10:837][510]LogModuleManager: Shutting down and abandoning module PortalServices (370)
+[2018.04.07-09.12.10:837][510]LogModuleManager: Shutting down and abandoning module PortalRpc (368)
+[2018.04.07-09.12.10:837][510]LogModuleManager: Shutting down and abandoning module MessagingRpc (366)
+[2018.04.07-09.12.10:837][510]LogModuleManager: Shutting down and abandoning module AIModule (364)
+[2018.04.07-09.12.10:837][510]LogModuleManager: Shutting down and abandoning module GameplayDebugger (363)
+[2018.04.07-09.12.10:837][510]LogModuleManager: Shutting down and abandoning module AITestSuite (361)
+[2018.04.07-09.12.10:837][510]LogModuleManager: Shutting down and abandoning module DesktopPlatform (358)
+[2018.04.07-09.12.10:837][510]LogModuleManager: Shutting down and abandoning module ProfilerService (356)
+[2018.04.07-09.12.10:906][510]LogModuleManager: Shutting down and abandoning module TaskGraph (354)
+[2018.04.07-09.12.10:906][510]LogModuleManager: Shutting down and abandoning module SubstanceLiveLink (352)
+[2018.04.07-09.12.10:906][510]LogModuleManager: Shutting down and abandoning module SubstanceSource (350)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module SubstanceEditor (348)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.04.07-09.12.10:907][510]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.04.07-09.12.10:908][510]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.04.07-09.12.10:908][510]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.04.07-09.12.10:908][510]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.04.07-09.12.10:908][510]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.04.07-09.12.10:910][510]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.04.07-09.12.10:910][510]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.04.07-09.12.10:910][510]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.04.07-09.12.10:910][510]LogDirectoryWatcher: A directory notification for 'D:/Ari/Unreal Projects/FinalProject/Binaries/Win64' was aborted.
+[2018.04.07-09.12.10:911][510]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (270)
+[2018.04.07-09.12.10:911][510]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (268)
+[2018.04.07-09.12.10:911][510]LogModuleManager: Shutting down and abandoning module PhysXVehicles (266)
+[2018.04.07-09.12.10:911][510]LogModuleManager: Shutting down and abandoning module OculusEditor (264)
+[2018.04.07-09.12.10:911][510]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (262)
+[2018.04.07-09.12.10:911][510]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (260)
+[2018.04.07-09.12.10:911][510]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (258)
+[2018.04.07-09.12.10:911][510]LogModuleManager: Shutting down and abandoning module UdpMessaging (256)
+[2018.04.07-09.12.11:012][510]LogModuleManager: Shutting down and abandoning module TcpMessaging (254)
+[2018.04.07-09.12.11:113][510]LogModuleManager: Shutting down and abandoning module SubstanceCore (252)
+[2018.04.07-09.12.11:113][510]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.04.07-09.12.11:113][510]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.04.07-09.12.11:113][510]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.04.07-09.12.11:113][510]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.04.07-09.12.11:113][510]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.04.07-09.12.11:113][510]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.04.07-09.12.11:116][510]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.04.07-09.12.11:116][510]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.04.07-09.12.11:116][510]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.04.07-09.12.11:116][510]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.04.07-09.12.11:119][510]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.04.07-09.12.11:119][510]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.04.07-09.12.11:119][510]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.04.07-09.12.11:119][510]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.04.07-09.12.11:119][510]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.04.07-09.12.11:119][510]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.04.07-09.12.11:125][510]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.04.07-09.12.11:125][510]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.04.07-09.12.11:125][510]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.04.07-09.12.11:125][510]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.04.07-09.12.11:125][510]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.04.07-09.12.11:125][510]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.04.07-09.12.11:125][510]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.04.07-09.12.11:125][510]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.04.07-09.12.11:125][510]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.04.07-09.12.11:125][510]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.04.07-09.12.11:125][510]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.04.07-09.12.11:125][510]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.04.07-09.12.11:126][510]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.04.07-09.12.11:126][510]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.04.07-09.12.11:126][510]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.04.07-09.12.11:126][510]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.04.07-09.12.11:128][510]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.04.07-09.12.11:128][510]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.04.07-09.12.11:128][510]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.04.07-09.12.11:128][510]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.04.07-09.12.11:128][510]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.04.07-09.12.11:128][510]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.04.07-09.12.11:128][510]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.04.07-09.12.11:128][510]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.04.07-09.12.11:136][510]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.04.07-09.12.11:137][510]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.04.07-09.12.11:137][510]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.04.07-09.12.11:137][510]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.04.07-09.12.11:137][510]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.04.07-09.12.11:137][510]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.04.07-09.12.11:137][510]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.04.07-09.12.11:137][510]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.04.07-09.12.11:137][510]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.04.07-09.12.11:209][510]LogDerivedDataCache: Shutdown
+[2018.04.07-09.12.11:209][510]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.04.07-09.12.11:210][510]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.04.07-09.12.11:210][510]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.04.07-09.12.11:210][510]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.04.07-09.12.11:210][510]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.04.07-09.12.11:210][510]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.04.07-09.12.11:210][510]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.04.07-09.12.11:210][510]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.04.07-09.12.11:210][510]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.04.07-09.12.11:210][510]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.04.07-09.12.11:210][510]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.04.07-09.12.11:210][510]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.04.07-09.12.11:210][510]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.04.07-09.12.11:210][510]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.04.07-09.12.11:210][510]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.04.07-09.12.11:210][510]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.04.07-09.12.11:210][510]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.04.07-09.12.11:210][510]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.04.07-09.12.11:211][510]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.04.07-09.12.11:211][510]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.04.07-09.12.11:211][510]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.04.07-09.12.11:211][510]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.04.07-09.12.11:211][510]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.04.07-09.12.11:211][510]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.04.07-09.12.11:211][510]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.04.07-09.12.11:211][510]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.04.07-09.12.11:211][510]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.04.07-09.12.11:211][510]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.04.07-09.12.11:211][510]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.04.07-09.12.11:211][510]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.04.07-09.12.11:211][510]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.04.07-09.12.11:211][510]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.04.07-09.12.11:211][510]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.04.07-09.12.11:211][510]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.04.07-09.12.11:211][510]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.04.07-09.12.11:211][510]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.04.07-09.12.11:211][510]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.04.07-09.12.11:212][510]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.04.07-09.12.11:212][510]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.04.07-09.12.11:212][510]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.04.07-09.12.11:212][510]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.04.07-09.12.11:212][510]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.04.07-09.12.11:212][510]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.04.07-09.12.11:212][510]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.04.07-09.12.11:212][510]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.04.07-09.12.11:212][510]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.04.07-09.12.11:212][510]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.04.07-09.12.11:212][510]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.04.07-09.12.11:212][510]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.04.07-09.12.11:212][510]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.07-09.12.11:212][510]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.07-09.12.11:212][510]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.07-09.12.11:212][510]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.07-09.12.11:212][510]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.07-09.12.11:212][510]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE6ADA79F-4435-10DD-2587-49A810B50E57%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=5712ad7f45d9e96aa4003a820469c188%7C0484f503dfd84142907b84d36f52f0e9%7Cf755e3a6-1554-4250-9085-c3a0509afc01&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.07-09.12.11:242][510]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.07-09.12.11:246][510]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.07-09.12.11:246][510]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.07-09.12.11:246][510]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.07-09.12.11:246][510]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.07-09.12.11:308][510]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.07-09.12.11:308][510]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.07-09.12.11:308][510]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.07-09.12.11:327][510]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.07-09.12.11:327][510]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.07-09.12.11:327][510]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.07-09.12.11:327][510]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.07-09.12.11:327][510]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.07-09.12.11:327][510]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.07-09.12.11:327][510]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.07-09.12.11:327][510]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.07-09.12.11:327][510]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.07-09.12.11:327][510]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.07-09.12.11:327][510]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.07-09.12.11:356][510]LogExit: Exiting.
+[2018.04.07-09.12.11:397][510]Log file closed, 04/07/18 18:12:11

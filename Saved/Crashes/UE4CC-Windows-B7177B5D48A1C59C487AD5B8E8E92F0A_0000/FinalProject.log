@@ -1,0 +1,705 @@
+﻿Log file open, 04/08/18 16:47:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FinalProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1179694190) SRandInit(1179694190).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.325359
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceCore.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceSource.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceLiveLink.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Ari/Program Files/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.08-07.47.08:605][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.08-07.47.08:605][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.08-07.47.08:658][  0]LogInit: Computer: JAEBUM-PC
+[2018.04.08-07.47.08:658][  0]LogInit: User: ar981
+[2018.04.08-07.47.08:658][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.08-07.47.08:658][  0]LogInit: High frequency timer resolution =2.435772 MHz
+[2018.04.08-07.47.08:658][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.04.08-07.47.08:658][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.08-07.47.08:658][  0]LogMemory: Process Physical Memory: 275.36 MB used, 275.36 MB peak
+[2018.04.08-07.47.08:658][  0]LogMemory: Process Virtual Memory: 281.95 MB used, 281.95 MB peak
+[2018.04.08-07.47.08:658][  0]LogMemory: Physical Memory: 3329.08 MB used,  4741.86 MB free, 8070.93 MB total
+[2018.04.08-07.47.08:658][  0]LogMemory: Virtual Memory: 680.03 MB used,  4741.86 MB free, 134217728.00 MB total
+[2018.04.08-07.47.08:918][  0]LogInit: Using OS detected language (ko-KR).
+[2018.04.08-07.47.08:918][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.04.08-07.47.09:098][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.04.08-07.47.09:459][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.08-07.47.10:740][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.08-07.47.11:055][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 850M' (Feature Level 11_0)
+[2018.04.08-07.47.11:055][  0]LogD3D11RHI:       2019/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.08-07.47.11:063][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.04.08-07.47.11:063][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.04.08-07.47.11:066][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.08-07.47.11:066][  0]LogD3D11RHI:       0/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.08-07.47.11:066][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.08-07.47.11:074][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.08-07.47.11:074][  0]LogD3D11RHI:     GPU DeviceId: 0x1391 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.08-07.47.11:074][  0]LogWindows: EnumDisplayDevices:
+[2018.04.08-07.47.11:075][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.04.08-07.47.11:075][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.04.08-07.47.11:076][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.04.08-07.47.11:076][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.08-07.47.11:076][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 850M
+[2018.04.08-07.47.11:076][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.08-07.47.11:076][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.08-07.47.11:076][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2018.04.08-07.47.11:111][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.08-07.47.11:125][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.08-07.47.11:127][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (../../../../../Unreal Projects/FinalProject/Intermediate/Shaders/WorkingDirectory/2704/).
+[2018.04.08-07.47.11:127][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ar981/AppData/Local/Temp/UnrealShaderWorkingDir/7B55E95C4AA978AC23776CA21FDD15B3/'.
+[2018.04.08-07.47.11:127][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.08-07.47.13:276][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.08-07.47.13:349][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.08-07.47.13:422][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.08-07.47.13:503][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.08-07.47.13:600][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.08-07.47.13:668][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.08-07.47.13:751][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.08-07.47.13:831][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.08-07.47.13:904][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.08-07.47.13:981][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.08-07.47.14:062][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.08-07.47.14:148][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.08-07.47.14:234][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.08-07.47.14:321][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.08-07.47.14:466][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.08-07.47.14:466][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.08-07.47.14:592][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.08-07.47.14:651][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.08-07.47.14:822][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.08-07.47.14:849][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.08-07.47.14:930][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.08-07.47.15:006][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.08-07.47.15:091][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.08-07.47.15:177][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.08-07.47.15:177][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.08-07.47.16:621][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.08-07.47.17:555][  0]LogDerivedDataCache: Loaded boot cache 0.93s 78MB C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.08-07.47.17:555][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.08-07.47.17:555][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/FinalProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.08-07.47.17:555][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.08-07.47.17:555][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/FinalProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.08-07.47.17:556][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.08-07.47.17:611][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.08-07.47.17:625][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ar981/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.08-07.47.17:636][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.08-07.47.17:637][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.08-07.47.17:665][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.08-07.47.17:665][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.08-07.47.21:704][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.08-07.47.22:421][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.08-07.47.22:471][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.08-07.47.22:471][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.08-07.47.22:471][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.08-07.47.22:471][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.08-07.47.22:471][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.08-07.47.22:528][  0]LogNetVersion: FinalProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1186961665)
+[2018.04.08-07.47.22:974][  0]LogAssetRegistry: FAssetRegistry took 0.0272 seconds to start up
+[2018.04.08-07.47.28:331][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.085876 seconds
+[2018.04.08-07.47.28:337][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.08-07.47.28:337][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.04.08-07.47.28:337][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.08-07.47.28:387][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.08-07.47.55:688][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2018.04.08-07.47.55:772][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.08-07.47.55:835][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.08-07.47.56:972][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.08-07.47.57:588][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.04.08-07.48.00:082][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.08-07.48.00:508][  0]LogOcInput: OculusInput pre-init called
+[2018.04.08-07.48.01:623][  0]LogEngine: Initializing Engine...
+[2018.04.08-07.48.01:627][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.04.08-07.48.01:894][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.08-07.48.01:894][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.08-07.48.02:059][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.08-07.48.02:075][  0]LogInit: XAudio2 using '스피커(VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.08-07.48.02:129][  0]LogInit: FAudioDevice initialized.
+[2018.04.08-07.48.02:634][  0]LogDerivedDataCache: Saved boot cache 0.50s 78MB C:/Users/ar981/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.08-07.48.02:651][  0]LogInit: Texture streaming: Enabled
+[2018.04.08-07.48.02:749][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.08-07.48.02:907][  0]LogInit: Transaction tracking system initialized
+[2018.04.08-07.48.03:282][  0]BlueprintLog: New page: 에디터 로드
+[2018.04.08-07.48.04:348][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.04.08-07.48.05:352][  0]LogConsoleResponse: Display: 
+[2018.04.08-07.48.07:044][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.08-07.48.07:044][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.08-07.48.07:044][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.08-07.48.07:759][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/' took 0.02s
+[2018.04.08-07.48.10:061][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.08-07.48.10:062][  0]LightingResults: New page: 라이팅 빌드
+[2018.04.08-07.48.10:112][  0]MapCheck: New page: 맵 체크
+[2018.04.08-07.48.10:112][  0]LightingResults: New page: 라이팅 빌드
+[2018.04.08-07.48.14:383][  0]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.04.08-07.48.14:464][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.08-07.48.14:485][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.08-07.48.14:614][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 128.863ms.
+[2018.04.08-07.48.14:614][  0]LogFileHelpers: Loading map 'TwinStickExampleMap' took 4.553
+[2018.04.08-07.48.14:683][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.04.08-07.48.14:826][  0]LogCollectionManager: Loaded 0 collections in 0.002823 seconds
+[2018.04.08-07.48.14:928][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Saved/Collections/' took 0.01s
+[2018.04.08-07.48.14:928][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/Developers/ar981/Collections/' took 0.01s
+[2018.04.08-07.48.14:928][  0]LogFileCache: Scanning file cache for directory 'D:/Ari/Unreal Projects/FinalProject/Content/Collections/' took 0.01s
+[2018.04.08-07.48.14:928][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.08-07.48.14:937][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2377 classes and 525 folders.
+[2018.04.08-07.48.15:010][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.08-07.48.17:244][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.08-07.48.17:297][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.04.08-07.48.17:398][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.04.08-07.48.17:398][  0]LogLoad: (Engine Initialization) Total time: 85.87 seconds
+[2018.04.08-07.48.17:398][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.08-07.48.17:398][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.08-07.48.17:398][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.08-07.48.17:443][  0]SourceControl: On branch master
+[2018.04.08-07.48.17:443][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.04.08-07.48.17:443][  0]SourceControl: Changes to be committed:
+[2018.04.08-07.48.17:443][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.04.08-07.48.17:443][  0]SourceControl: 	new file:   Content/Custom/Enemy/Projectile_Pattern/Components/Several_Move_Component.uasset
+[2018.04.08-07.48.17:443][  0]SourceControl: 	new file:   Content/Custom/Enemy/Projectile_Pattern/Projectile_IF.uasset
+[2018.04.08-07.48.17:443][  0]SourceControl: 	new file:   Content/Custom/Enemy/Projectile_Pattern/Several_Move_Component.uasset
+[2018.04.08-07.48.17:443][  0]SourceControl: Changes not staged for commit:
+[2018.04.08-07.48.17:443][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.04.08-07.48.17:443][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.04.08-07.48.17:443][  0]SourceControl: 	modified:   Content/Custom/Bosses/Boss1.uasset
+[2018.04.08-07.48.17:443][  0]SourceControl: 	modified:   Content/Custom/Enemy/EnemySpawner.uasset
+[2018.04.08-07.48.17:443][  0]SourceControl: 	modified:   Content/Custom/Enemy/Enemys/Disruptor.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	modified:   Content/Custom/Enemy/Enemys/Mistic.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	modified:   Content/Custom/Enemy/Projectile_Pattern/Components/Several_Move_Component.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	modified:   Content/Custom/Enemy/Projectile_Pattern/Projectile_IF.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	modified:   Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	modified:   Content/Custom/Maps/TwinStickExampleMap.umap
+[2018.04.08-07.48.17:444][  0]SourceControl: 	modified:   Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.04.08-07.48.17:444][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.04.08-07.48.17:444][  0]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/CameraTopView_Blueprint_2018-04-01-12-13-36.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/EnemySpawner_2018-04-01-11-55-03.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-03-31-21-08-41.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-03-31-21-17-40.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-03-31-21-26-10.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-03-31-21-31-17.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/Enemy_BP_2018-03-31-22-10-22.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/LibeSkill3_2018-03-31-22-20-37.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/LibeSkill3_2018-03-31-22-25-51.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/LibeSkill3_2018-03-31-22-31-45.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/LibeSkill3_2018-03-31-22-37-24.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/Libe_2018-03-31-22-31-18.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/MainMenuBP_2018-04-01-01-59-16.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/MainMenuBP_2018-04-01-10-31-03.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/MainMenuBP_2018-04-01-10-39-28.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/MainMenuBP_2018-04-01-10-56-36.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/MainMenuBP_2018-04-01-11-23-59.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/MainMenuBP_2018-04-01-11-52-04.uasset
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/Main_2018-04-01-01-56-44.umap
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/Main_2018-04-01-02-03-11.umap
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/Main_2018-04-01-10-03-37.umap
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/Main_2018-04-01-10-48-07.umap
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/Main_2018-04-01-10-58-41.umap
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/Main_2018-04-01-11-14-36.umap
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/Main_2018-04-01-11-29-52.umap
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/Main_2018-04-01-11-55-51.umap
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/Main_2018-04-01-12-01-49.umap
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/Main_2018-04-01-12-17-25.umap
+[2018.04.08-07.48.17:444][  0]SourceControl: 	deleted:    Saved/Backup/Main_2018-04-01-12-23-14.umap
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/MyPlayerController_2018-04-01-12-00-16.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/PlayerInput_BP_2018-04-01-10-24-56.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/PlayerInput_BP_2018-04-01-10-30-23.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/PlayerInput_BP_2018-04-01-11-24-00.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/PlayerInput_BP_2018-04-01-11-53-57.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/PlayerInput_BP_2018-04-01-12-01-12.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/PlayerInput_BP_2018-04-01-12-11-28.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-03-31-21-34-52.umap
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-03-31-22-19-27.umap
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-03-31-22-30-03.umap
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-03-31-22-37-28.umap
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-04-01-01-56-21.umap
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-04-01-10-03-57.umap
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-04-01-11-57-42.umap
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-04-01-12-04-15.umap
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_2018-04-01-12-23-32.umap
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-31-21-34-52.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-31-22-30-03.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_BuiltData_2018-03-31-22-37-28.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/TwinStickExampleMap_BuiltData_2018-04-01-01-56-20.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/mainUI_2018-04-01-01-57-06.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/mainUI_2018-04-01-10-45-49.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/mainUI_2018-04-01-10-51-23.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/mainUI_2018-04-01-10-58-04.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/mainUI_2018-04-01-11-14-10.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/mainUI_2018-04-01-11-24-01.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/mainUI_2018-04-01-11-43-52.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/mainUI_2018-04-01-11-49-51.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/mainUI_2018-04-01-12-03-37.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/mainUI_2018-04-01-12-16-33.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Backup/mainUI_2018-04-01-12-22-24.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2018.04.08-07.48.17:445][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.04.02-13.08.21.log
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Logs/FinalProject-backup-2018.04.03-19.40.37.log
+[2018.04.08-07.48.17:445][  0]SourceControl: 	modified:   Saved/Logs/FinalProject.log
+[2018.04.08-07.48.17:445][  0]SourceControl: 	deleted:    Saved/Logs/FinalProject_2-backup-2018.04.02-13.08.21.log
+[2018.04.08-07.48.17:445][  0]SourceControl: Untracked files:
+[2018.04.08-07.48.17:445][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Boss1_2018-04-07-17-04-27.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Boss1_2018-04-07-17-20-10.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Boss1_2018-04-07-17-49-17.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Boss1_2018-04-07-17-55-19.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Boss1_2018-04-07-18-01-15.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Boss1_2018-04-07-18-06-35.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Disruptor_2018-04-07-14-42-07.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/EnemySpawner_2018-04-07-18-04-04.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Mistic_2018-04-07-14-42-02.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Projectile_IF_2018-04-08-14-24-38.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Several_Move_Component_2018-04-08-11-51-06.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Several_Move_Component_2018-04-08-11-56-10.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Several_Move_Component_2018-04-08-13-32-49.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Several_Move_Component_2018-04-08-13-43-01.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Several_Move_Component_2018-04-08-14-12-12.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Several_Move_Component_2018-04-08-14-23-07.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Several_Move_Component_2018-04-08-14-29-07.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Several_Move_Component_2018-04-08-15-36-22.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Simple_Round_Projectile_2018-04-08-13-13-52.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Simple_Round_Projectile_2018-04-08-13-19-30.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Simple_Round_Projectile_2018-04-08-14-29-32.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/Simple_Round_Projectile_2018-04-08-14-34-35.uasset
+[2018.04.08-07.48.17:445][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-04-07-14-41-55.umap
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-04-07-17-00-32.umap
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-04-07-17-08-29.umap
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-04-07-17-18-30.umap
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-04-07-18-05-29.umap
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-04-07-18-12-05.umap
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-04-08-13-19-47.umap
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-04-08-14-40-51.umap
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_2018-04-08-15-35-54.umap
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-04-07-14-41-56.uasset
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-04-07-17-00-32.uasset
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-04-07-17-08-30.uasset
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-04-07-17-18-31.uasset
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-04-07-18-05-30.uasset
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-04-07-18-12-06.uasset
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-04-08-13-19-48.uasset
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-04-08-14-40-52.uasset
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Backup/TwinStickExampleMap_BuiltData_2018-04-08-15-35-55.uasset
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-249FE9584091A526191EE29853996ABA/
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-7FE2F7564C77FE64770FF4A298B9525E/
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-8DED558B4EF8D5903FA6A7B1954210F1/
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-B7177B5D48A1C59C487AD5B8E8E92F0A/
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Logs/FinalProject-backup-2018.04.07-16.58.51.log
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Logs/FinalProject-backup-2018.04.08-11.19.56.log
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Logs/FinalProject-backup-2018.04.08-13.12.01.log
+[2018.04.08-07.48.17:446][  0]SourceControl: 	Saved/Logs/FinalProject-backup-2018.04.08-16.47.02.log
+[2018.04.08-07.48.17:446][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.08-07.48.17:448][  0]LogSlate: Took 0.000441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.08-07.48.17:498][  0]LogSlate: Took 0.048872 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.04.08-07.48.17:507][  0]LogSlate: Took 0.008660 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.08-07.48.17:528][  0]LogSlate: Took 0.016740 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.08-07.48.17:704][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2018.04.08-07.48.17:718][  1]LogAssetRegistry: Asset discovery search completed in 54.7666 seconds
+[2018.04.08-07.48.17:720][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.08-07.48.17:720][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2018.04.08-07.48.17:788][  2]LogRenderer: Reallocating scene render targets to support 820x372 Format 10 NumSamples 1 (Frame:1).
+[2018.04.08-07.48.21:679][218]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.08-09.44.21:369][550]LogSlate: Took 0.007961 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.08-09.44.28:469][550]LogSlate: Took 0.038595 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.08-09.44.28:535][550]LogSavePackage: Save=4568.63ms
+[2018.04.08-09.44.28:535][550]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMapECE5E6584CD5CB06B2A229A89E118A6D.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap.umap'
+[2018.04.08-09.44.28:700][550]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap.umap
+[2018.04.08-09.44.29:206][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Maps/TwinStickExampleMap_BuiltData" FILE="../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset" SILENT=true
+[2018.04.08-09.44.29:661][550]LogSavePackage: Save=409.30ms
+[2018.04.08-09.44.29:661][550]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/TwinStickExampleMap_BuiltData74216ECA4B64AC552D262A89360D4981.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2018.04.08-09.44.29:666][550]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Maps/TwinStickExampleMap_BuiltData.uasset
+[2018.04.08-09.59.23:637][924]LogEditorViewport: Clicking on Actor (context menu): BP_Instancing_AsteroidRing_C (BP_Instancing_AsteroidRing3)
+[2018.04.08-09.59.31:109][ 86]LogEditorViewport: Clicking Background
+[2018.04.08-09.59.38:936][455]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator0' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.08-09.59.38:937][455]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator1' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.08-09.59.38:937][455]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator2' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.08-09.59.38:937][455]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator3' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.08-09.59.38:937][455]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator4' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.08-09.59.38:937][455]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator5' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.08-09.59.38:937][455]LogEnum: Warning: Enum name collision: 'EnemyName::EnemyName_MAX' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.08-09.59.38:937][455]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator0' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.08-09.59.38:937][455]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator1' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.08-09.59.38:937][455]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator2' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.08-09.59.38:937][455]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator3' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.08-09.59.38:937][455]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator4' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.08-09.59.38:937][455]LogEnum: Warning: Enum name collision: 'EnemyName::NewEnumerator5' is in both '/Game/Custom/Enemy/Enemys/EnemyName.EnemyName' and '/Game/Custom/Enemy/EnemyName.EnemyName'
+[2018.04.08-09.59.41:873][455]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0075 seconds. Added 116 classes and 0 folders.
+[2018.04.08-09.59.44:481][455]LogSlate: Took 0.035752 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.08-10.00.12:576][914]LogSavePackage: Save=36.56ms
+[2018.04.08-10.00.12:576][914]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Several_Move_ComponentB23AE72447E284A1BED678A2B6E81432.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Components/Several_Move_Component.uasset'
+[2018.04.08-10.00.12:582][914]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Components/Several_Move_Component.uasset
+[2018.04.08-10.05.58:370][714]LogSavePackage: Save=22.69ms
+[2018.04.08-10.05.58:370][714]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Several_Move_Component86FD5E9543B872E3F438678AA27DF26D.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Components/Several_Move_Component.uasset'
+[2018.04.08-10.05.58:375][714]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Components/Several_Move_Component.uasset
+[2018.04.08-10.06.23:746][188]LogSavePackage: Save=21.41ms
+[2018.04.08-10.06.23:746][188]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Several_Move_Component29F430044263695DDB55F0B7AC6C864A.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Components/Several_Move_Component.uasset'
+[2018.04.08-10.06.23:749][188]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Components/Several_Move_Component.uasset
+[2018.04.08-10.06.34:389][672]LogSlate: Took 0.023297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.08-10.06.42:764][  4]LogSavePackage: Save=111.35ms
+[2018.04.08-10.06.42:764][  4]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile2BBC401245D56A8D0524DF8BD183DB1C.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.06.42:771][  4]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.08.18:983][ 94]LogSavePackage: Save=76.98ms
+[2018.04.08-10.08.18:983][ 94]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile432629964CF37197EBB603BD6B8A008E.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.08.19:005][ 94]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.08.20:684][173]LogSavePackage: Save=21.04ms
+[2018.04.08-10.08.20:684][173]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Several_Move_Component53E8608144708BD5086E98B80A8E83DF.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Components/Several_Move_Component.uasset'
+[2018.04.08-10.08.20:689][173]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Components/Several_Move_Component.uasset
+[2018.04.08-10.09.23:065][802]BlueprintLog: New page: Several_Move_Component 컴파일
+[2018.04.08-10.09.23:769][820]LogSavePackage: Save=21.20ms
+[2018.04.08-10.09.23:769][820]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Several_Move_Component0CEA9E6D434328C717BD32BBC290D2A9.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Components/Several_Move_Component.uasset'
+[2018.04.08-10.09.23:778][820]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Components/Several_Move_Component.uasset
+[2018.04.08-10.09.55:711][575]BlueprintLog: New page: Simple_Round_Projectile 컴파일
+[2018.04.08-10.09.56:608][576]LogSavePackage: Save=80.69ms
+[2018.04.08-10.09.56:608][576]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_ProjectileFE67FB3D4F904762076861965071CCE7.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.09.56:615][576]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.09.56:965][581]LogSavePackage: Save=74.18ms
+[2018.04.08-10.09.56:965][581]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile7BCD4EE7431AAAB551B188BFC8A22DA4.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.09.56:969][581]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.10.18:008][651]LogSlate: Took 0.010153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.08-10.10.45:107][ 67]BlueprintLog: New page: Simple_Round_Projectile 컴파일
+[2018.04.08-10.10.45:979][ 78]LogSavePackage: Save=83.22ms
+[2018.04.08-10.10.45:979][ 78]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile296070344643271056B2C39FB0C4336D.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.10.45:987][ 78]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.10.46:665][100]LogSavePackage: Save=76.66ms
+[2018.04.08-10.10.46:665][100]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile2565543A480E83C9793239AC047027E7.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.10.46:668][100]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.11.04:645][595]LogSavePackage: Save=83.17ms
+[2018.04.08-10.11.04:645][595]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile9E503DB04A3527BFC31FC7AE3E542583.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.11.04:654][595]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.11.05:392][632]BlueprintLog: New page: Simple_Round_Projectile 컴파일
+[2018.04.08-10.11.06:420][650]LogSavePackage: Save=84.71ms
+[2018.04.08-10.11.06:420][650]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile5CFA8B07439D8F7069CEE6B021EC4D67.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.11.06:423][650]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.11.21:839][448]BlueprintLog: New page: Simple_Round_Projectile 컴파일
+[2018.04.08-10.11.22:590][451]LogSavePackage: Save=85.21ms
+[2018.04.08-10.11.22:590][451]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_ProjectileE5E1336C41A0058546E05CBC7BD6B27E.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.11.22:597][451]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.11.34:908][ 46]LogSavePackage: Save=84.50ms
+[2018.04.08-10.11.34:908][ 46]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile63EAB9754F93AA6FBB3B7AB7D2EE3889.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.11.34:915][ 46]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.11.36:003][ 98]BlueprintLog: New page: Simple_Round_Projectile 컴파일
+[2018.04.08-10.11.36:927][109]LogSavePackage: Save=86.82ms
+[2018.04.08-10.11.36:927][109]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile6B2C0DE447B5774ADB31BFBF631BD623.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.11.36:931][109]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.11.54:733][257]LogSlate: Took 0.158255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.08-10.12.03:227][283]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Custom/Maps/TwinStickExampleMap' took 0.022
+[2018.04.08-10.12.03:308][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom/Enemy/Projectile_Pattern/Components/Several_Move_Component] ([1] browsable assets)...
+[2018.04.08-10.12.03:309][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/Enemy/Projectile_Pattern/Components/Several_Move_Component]
+[2018.04.08-10.12.03:367][283]LogSavePackage: Save=29.10ms
+[2018.04.08-10.12.03:367][283]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Several_Move_Component_Auto159A87BAD4E181D960090D99652DFA1C9.tmp' to '../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Enemy/Projectile_Pattern/Components/Several_Move_Component_Auto1.uasset'
+[2018.04.08-10.12.03:372][283]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Saved/Autosaves/Game/Custom/Enemy/Projectile_Pattern/Components/Several_Move_Component_Auto1.uasset
+[2018.04.08-10.12.03:372][283]LogFileHelpers: Auto-saving content packages took 0.145
+[2018.04.08-10.12.56:356][506]LogSavePackage: Save=79.14ms
+[2018.04.08-10.12.56:357][506]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_ProjectileE9C050ED4519C81B8F9201A3F7F454CD.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.12.56:360][506]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.13.39:582][708]LogSavePackage: Save=78.77ms
+[2018.04.08-10.13.39:582][708]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_ProjectileA5AB4C45487EBF04BD86BEAD9AFA011B.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.13.39:587][708]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.19.57:067][299]LogSavePackage: Save=87.51ms
+[2018.04.08-10.19.57:067][299]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile2F2CCFF5427EEDE3CE8CFE815BA3AE76.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.19.57:070][299]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.22.13:641][ 47]BlueprintLog: New page: Simple_Round_Projectile 컴파일
+[2018.04.08-10.22.14:627][ 62]LogSavePackage: Save=90.03ms
+[2018.04.08-10.22.14:627][ 62]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_ProjectileF96AFA7C4B7EF56578E74FB8379BCF3E.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.22.14:633][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.22.44:377][763]LogSavePackage: Save=83.90ms
+[2018.04.08-10.22.44:377][763]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile556E25E442BA96C487C303943E2B42A1.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.22.44:385][763]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.23.50:418][481]LogEditorTransaction: Undo 핀 추가
+[2018.04.08-10.24.05:811][330]BlueprintLog: New page: Simple_Round_Projectile 컴파일
+[2018.04.08-10.24.06:701][340]LogSavePackage: Save=90.21ms
+[2018.04.08-10.24.06:701][340]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_ProjectileA0583120490FE335A9B58D97BC6DEB45.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.24.06:708][340]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.25.31:962][663]LogSavePackage: Save=86.37ms
+[2018.04.08-10.25.31:962][663]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_ProjectileEFA8D60F412653319C672F833B9BD691.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.25.31:965][663]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.25.57:725][ 19]LogSavePackage: Save=88.85ms
+[2018.04.08-10.25.57:725][ 19]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile6D62132949141BD4DEE5D0B959C3B3B7.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.25.57:728][ 19]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.26.11:437][535]BlueprintLog: New page: Simple_Round_Projectile 컴파일
+[2018.04.08-10.26.12:290][542]LogSavePackage: Save=89.92ms
+[2018.04.08-10.26.12:290][542]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_ProjectileEB39E92A4209F65C01D19C849440129A.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.26.12:297][542]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.26.35:897][863]BlueprintLog: New page: Simple_Round_Projectile 컴파일
+[2018.04.08-10.26.36:839][874]LogSavePackage: Save=91.65ms
+[2018.04.08-10.26.36:839][874]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile10954F704F31AC0197F680956F3EF9D1.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.26.36:845][874]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.26.49:153][569]LogSavePackage: Save=85.50ms
+[2018.04.08-10.26.49:153][569]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile28C332C3465C20610BE9E4850AFDEF0A.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.26.49:160][569]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.27.01:932][271]BlueprintLog: New page: Simple_Round_Projectile 컴파일
+[2018.04.08-10.27.02:774][278]LogSavePackage: Save=92.39ms
+[2018.04.08-10.27.02:774][278]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_ProjectileDF1426484E7D91DB12A5EE91E481D94E.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.27.02:780][278]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.27.05:344][401]LogSavePackage: Save=86.23ms
+[2018.04.08-10.27.05:344][401]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile53D4655E4B23575FB2DA7DB16B450DCA.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.27.05:350][401]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.27.05:682][418]BlueprintLog: New page: Simple_Round_Projectile 컴파일
+[2018.04.08-10.28.00:909][ 88]BlueprintLog: New page: Simple_Round_Projectile 컴파일
+[2018.04.08-10.28.01:815][ 96]LogSavePackage: Save=94.27ms
+[2018.04.08-10.28.01:815][ 96]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile47BF3AE14C85BCE65CE8D6B2C0037F4B.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.28.01:821][ 96]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.28.06:226][338]BlueprintLog: New page: Simple_Round_Projectile 컴파일
+[2018.04.08-10.28.07:124][348]LogSavePackage: Save=93.41ms
+[2018.04.08-10.28.07:124][348]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_ProjectileF173CC584D9CD71CCABB4395ADC828DC.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.28.07:130][348]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.28.35:574][853]BlueprintLog: New page: Simple_Round_Projectile 컴파일
+[2018.04.08-10.28.36:663][866]LogSavePackage: Save=99.83ms
+[2018.04.08-10.28.36:663][866]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_ProjectileFDD69F0246D0792F954D59A3F447ADE2.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.28.36:669][866]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.28.59:012][980]LogSavePackage: Save=95.49ms
+[2018.04.08-10.28.59:012][980]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile6957670C49DBA7E1841B6DA65A52F1A6.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.28.59:015][980]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.29.09:022][497]BlueprintLog: New page: Simple_Round_Projectile 컴파일
+[2018.04.08-10.29.09:898][505]LogSavePackage: Save=98.57ms
+[2018.04.08-10.29.09:898][505]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile871E471F44CB8921936C5CA69BDD325A.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.29.09:904][505]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.29.33:761][794]LogSavePackage: Save=100.39ms
+[2018.04.08-10.29.33:761][794]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_ProjectileE449E3594495DB52BBFB68B2B8FCCB0B.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.29.33:767][794]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.29.34:068][809]BlueprintLog: New page: Simple_Round_Projectile 컴파일
+[2018.04.08-10.29.40:950][152]LogSavePackage: Save=101.54ms
+[2018.04.08-10.29.40:950][152]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_ProjectileFB739A604D860A78DA17D3B6D7C92041.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.29.40:956][152]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.30.06:925][213]BlueprintLog: New page: Simple_Round_Projectile 컴파일
+[2018.04.08-10.30.07:754][218]LogSavePackage: Save=103.70ms
+[2018.04.08-10.30.07:754][218]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_ProjectileBFC10C1B4BCE47F98396EBBCB4A7DD8D.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.30.07:761][218]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.30.16:516][642]BlueprintLog: New page: Simple_Round_Projectile 컴파일
+[2018.04.08-10.30.17:522][657]LogSavePackage: Save=103.44ms
+[2018.04.08-10.30.17:522][657]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile2972BEED42CBAEDF270DFB9388808893.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.30.17:529][657]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.33.26:891][855]LogSavePackage: Save=100.63ms
+[2018.04.08-10.33.26:891][855]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Simple_Round_Projectile200231F94DDBCEF382773287B9FCEB56.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset'
+[2018.04.08-10.33.26:895][855]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Simple_Round_Projectile.uasset
+[2018.04.08-10.34.11:149][429]LogSavePackage: Save=23.28ms
+[2018.04.08-10.34.11:149][429]LogSavePackage: Moving '../../../../../Unreal Projects/FinalProject/Saved/Several_Move_Component9EA88601499C3407731FFBBA1B120B99.tmp' to '../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Components/Several_Move_Component.uasset'
+[2018.04.08-10.34.11:158][429]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/FinalProject/Content/Custom/Enemy/Projectile_Pattern/Components/Several_Move_Component.uasset
+[2018.04.08-10.34.56:317][692]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.04.08-10.34.59:067][692]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.750 s
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: 
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: Stack: 
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x0000000001E92786 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x0000000001C3123A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x0000000001C4B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x0000000000BA33F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x00000000FDF903AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x00000000F9503EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x00000000F93974AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x00000000F939ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x00000000F94C8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x0000000004A67397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x0000000004A6CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x0000000004CA9913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x0000000004AC3484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x0000000004A9B68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x0000000004A8D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x000000001F3FE39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x000000001F3F1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x000000001F4003EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x000000001F3ED5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x000000003618B85D USER32.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x000000003618B1EF USER32.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x000000001F401516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x000000001C0D50C8 UE4Editor.exe!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x000000001C0E5430 UE4Editor.exe!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x000000001C0E54AA UE4Editor.exe!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x000000001C0F2379 UE4Editor.exe!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x000000001C0F3D57 UE4Editor.exe!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x0000000036341FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: [Callstack] 0x000000003866EFC1 ntdll.dll!UnknownFunction []
+[2018.04.08-10.34.59:086][692]LogOutputDevice: Error: 
+[2018.04.08-10.34.59:088][692]LogStats:                SubmitErrorReport -  0.000 s
