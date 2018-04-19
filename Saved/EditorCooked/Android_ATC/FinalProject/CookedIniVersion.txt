@@ -158,7 +158,7 @@ Windows.Engine:/Script/UnrealEd.EditorEngine:bSmoothFrameRate:0=false
 Windows.Engine:/Script/UnrealEd.EditorEngine:SmoothedFrameRateRange:0=(LowerBound=(Type="ERangeBoundTypesInclusive",Value=5),UpperBound=(Type="ERangeBoundTypesInclusive",Value=120))
 Windows.Engine:/Script/UnrealEd.EditorEngine:UseOldStyleMICEditorGroups:0=true
 Windows.Engine:/Script/UnrealEd.EditorEngine:InEditorGameURLOptions:0=
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Game/Blueprints/MyGameInstance.MyGameInstance_C
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/Custom/Maps/TwinStickExampleMap.TwinStickExampleMap
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Custom/Maps/Main.Main
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
@@ -937,7 +937,7 @@ Windows.Engine:/Script/Engine.CollisionProfile:Profiles:15=(Name="Ragdoll",Colli
 Windows.Engine:/Script/Engine.CollisionProfile:Profiles:16=(Name="UI",CollisionEnabled=QueryOnly,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldStatic object that overlaps all actors by default. All new custom channels will use its own default response. ",bCanModify=False)
 Windows.Engine:/Script/Engine.CollisionProfile:Profiles:17=(Name="PlayerBullet",CollisionEnabled=QueryAndPhysics,ObjectTypeName="PlayerBullet",CustomResponses=((Channel="Camera",Response=ECR_Ignore),(Channel="PlayerBullet",Response=ECR_Overlap),(Channel="Player",Response=ECR_Overlap),(Channel="EnemyBullet",Response=ECR_Overlap),(Channel="UnknownsBullet",Response=ECR_Overlap)),HelpMessage="PlayerBullet",bCanModify=True)
 Windows.Engine:/Script/Engine.CollisionProfile:Profiles:18=(Name="EnemyBullet",CollisionEnabled=QueryAndPhysics,ObjectTypeName="EnemyBullet",CustomResponses=((Channel="PlayerBullet",Response=ECR_Overlap),(Channel="Enemy",Response=ECR_Overlap),(Channel="EnemyBullet",Response=ECR_Overlap),(Channel="UnknownsBullet",Response=ECR_Overlap)),HelpMessage="EnemyBullet",bCanModify=True)
-Windows.Engine:/Script/Engine.CollisionProfile:Profiles:19=(Name="Player",CollisionEnabled=QueryAndPhysics,ObjectTypeName="Player",CustomResponses=((Channel="PlayerBullet",Response=ECR_Overlap),(Channel="Enemy",Response=ECR_Overlap),(Channel="Player",Response=ECR_Overlap),(Channel="BlockBullets",Response=ECR_Overlap)),HelpMessage="PlayerCollidor",bCanModify=True)
+Windows.Engine:/Script/Engine.CollisionProfile:Profiles:19=(Name="Player",CollisionEnabled=QueryAndPhysics,ObjectTypeName="Player",CustomResponses=((Channel="PlayerBullet",Response=ECR_Overlap),(Channel="Player",Response=ECR_Overlap),(Channel="BlockBullets",Response=ECR_Overlap)),HelpMessage="PlayerCollidor",bCanModify=True)
 Windows.Engine:/Script/Engine.CollisionProfile:Profiles:20=(Name="Enemy",CollisionEnabled=QueryAndPhysics,ObjectTypeName="Enemy",CustomResponses=((Channel="Enemy",Response=ECR_Overlap),(Channel="Player",Response=ECR_Overlap),(Channel="EnemyBullet",Response=ECR_Overlap),(Channel="InvisableWall",Response=ECR_Overlap),(Channel="BlockBullets",Response=ECR_Overlap)),HelpMessage="Enemy",bCanModify=True)
 Windows.Engine:/Script/Engine.CollisionProfile:Profiles:21=(Name="BlockBullets",CollisionEnabled=QueryAndPhysics,ObjectTypeName="BlockBullets",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Enemy",Response=ECR_Overlap),(Channel="Player",Response=ECR_Overlap),(Channel="InvisableWall",Response=ECR_Overlap),(Channel="BlockBullets",Response=ECR_Overlap)),HelpMessage="Block Bullets",bCanModify=True)
 Windows.Engine:/Script/Engine.CollisionProfile:DefaultChannelResponses:0=(Channel=ECC_GameTraceChannel1,Name="PlayerBullet",DefaultResponse=ECR_Block,bTraceType=False,bStaticObject=False)
@@ -1438,13 +1438,15 @@ Windows.Input:/Script/Engine.Console:HistoryBuffer:6=Stat MemoryStaticMesh
 Windows.Input:/Script/Engine.Console:HistoryBuffer:7=puase
 Windows.Input:/Script/Engine.Console:HistoryBuffer:8=stat gpu
 Windows.Input:/Script/Engine.Console:HistoryBuffer:9=stat memor
-Windows.Input:/Script/Engine.Console:HistoryBuffer:10=pause
-Windows.Input:/Script/Engine.Console:HistoryBuffer:11=stat physics
-Windows.Input:/Script/Engine.Console:HistoryBuffer:12=sta fps
-Windows.Input:/Script/Engine.Console:HistoryBuffer:13=stat memory
-Windows.Input:/Script/Engine.Console:HistoryBuffer:14=Stat CPULoad
-Windows.Input:/Script/Engine.Console:HistoryBuffer:15=stat game
-Windows.Input:/Script/Engine.Console:HistoryBuffer:16=stat fps
+Windows.Input:/Script/Engine.Console:HistoryBuffer:10=stat physics
+Windows.Input:/Script/Engine.Console:HistoryBuffer:11=sta fps
+Windows.Input:/Script/Engine.Console:HistoryBuffer:12=Stat CPULoad
+Windows.Input:/Script/Engine.Console:HistoryBuffer:13=stat game
+Windows.Input:/Script/Engine.Console:HistoryBuffer:14=pause
+Windows.Input:/Script/Engine.Console:HistoryBuffer:15=stat memory
+Windows.Input:/Script/Engine.Console:HistoryBuffer:16=Collision.ListProfiles
+Windows.Input:/Script/Engine.Console:HistoryBuffer:17=Collision.ListProfilesWithResponseToChannel
+Windows.Input:/Script/Engine.Console:HistoryBuffer:18=stat fps
 Windows.Input:/Script/Engine.Console:HistoryBot:0=-1
 Windows.Input:/Script/Engine.InputSettings:bEnableMouseSmoothing:0=True
 Windows.Input:/Script/Engine.InputSettings:bEnableFOVScaling:0=True
@@ -1649,22 +1651,6 @@ Windows.Input:/Script/EngineSettings.ConsoleSettings:HistoryColor:0=(R=180,G=180
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCommandColor:0=(B=185,G=109,R=144,A=255)
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:0=(B=86,G=158,R=86,A=255)
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R=100,G=100,B=100,A=255)
-Windows.Editor:EditorLayouts:NullLayout:0=(\
-	"Type" "Layout",\
-	"Name" "NullLayout",\
-	"PrimaryAreaIndex" 0,\
-	"Areas" [\
-		(\
-			"SizeCoefficient" 1,\
-			"Type" "Area",\
-			"Orientation" "Orient_Horizontal",\
-			"WindowPlacement" "Placement_NoWindow",\
-			"Nodes" []\
-		)\
-	]\
-)
-Windows.Editor:EditorLayouts:WidgetBlueprintEditor_Designer_Layout_v4_1:0=( 	"Type" "Layout", 	"Name" "WidgetBlueprintEditor_Designer_Layout_v4_1", 	"PrimaryAreaIndex" 0, 	"Areas" [ 		( 			"SizeCoefficient" 1, 			"Type" "Area", 			"Orientation" "Orient_Vertical", 			"WindowPlacement" "Placement_NoWindow", 			"Nodes" [ 				( 					"SizeCoefficient" 0.20000000298023224, 					"Type" "Stack", 					"HideTabWell" true, 					"ForegroundTab" "AssetEditorToolkit_Toolbar", 					"Tabs" [ 						( 							"TabId" "AssetEditorToolkit_Toolbar", 							"TabState" "OpenedTab" 						) 					] 				), 				( 					"SizeCoefficient" 0.69999998807907104, 					"Type" "Splitter", 					"Orientation" "Orient_Horizontal", 					"Nodes" [ 						( 							"SizeCoefficient" 0.17599247395992279, 							"Type" "Splitter", 							"Orientation" "Orient_Vertical", 							"Nodes" [ 								( 									"SizeCoefficient" 0.5, 									"Type" "Stack", 									"HideTabWell" false, 									"ForegroundTab" "WidgetTemplates", 									"Tabs" [ 										( 											"TabId" "WidgetTemplates", 											"TabState" "OpenedTab" 										) 									] 								), 								( 									"SizeCoefficient" 0.5, 									"Type" "Stack", 									"HideTabWell" false, 									"ForegroundTab" "SlateHierarchy", 									"Tabs" [ 										( 											"TabId" "SlateHierarchy", 											"TabState" "OpenedTab" 										) 									] 								) 							] 						), 						( 							"SizeCoefficient" 0.55158698558807373, 							"Type" "Stack", 							"HideTabWell" true, 							"ForegroundTab" "SlatePreview", 							"Tabs" [ 								( 									"TabId" "SlatePreview", 									"TabState" "OpenedTab" 								) 							] 						), 						( 							"SizeCoefficient" 0.27242082357406616, 							"Type" "Stack", 							"HideTabWell" false, 							"ForegroundTab" "WidgetDetails", 							"Tabs" [ 								( 									"TabId" "WidgetDetails", 									"TabState" "OpenedTab" 								) 							] 						) 					] 				), 				( 					"SizeCoefficient" 0.30000001192092896, 					"Type" "Splitter", 					"Orientation" "Orient_Horizontal", 					"Nodes" [ 						( 							"SizeCoefficient" 0.15000000596046448, 							"Type" "Stack", 							"HideTabWell" false, 							"ForegroundTab" "Animations", 							"Tabs" [ 								( 									"TabId" "Animations", 									"TabState" "OpenedTab" 								) 							] 						), 						( 							"SizeCoefficient" 0.85000002384185791, 							"Type" "Stack", 							"HideTabWell" false, 							"ForegroundTab" "CompilerResults", 							"Tabs" [ 								( 									"TabId" "Sequencer", 									"TabState" "OpenedTab" 								), 								( 									"TabId" "CompilerResults", 									"TabState" "OpenedTab" 								) 							] 						) 					] 				) 			] 		) 	] )
-Windows.Editor:EditorLayouts:WidgetBlueprintEditor_Graph_Layout_v1:0=( 	"Type" "Layout", 	"Name" "WidgetBlueprintEditor_Graph_Layout_v1", 	"PrimaryAreaIndex" 0, 	"Areas" [ 		( 			"SizeCoefficient" 1, 			"Type" "Area", 			"Orientation" "Orient_Vertical", 			"WindowPlacement" "Placement_NoWindow", 			"Nodes" [ 				( 					"SizeCoefficient" 0.18672099709510803, 					"Type" "Stack", 					"HideTabWell" true, 					"ForegroundTab" "AssetEditorToolkit_Toolbar", 					"Tabs" [ 						( 							"TabId" "AssetEditorToolkit_Toolbar", 							"TabState" "OpenedTab" 						) 					] 				), 				( 					"SizeCoefficient" 1, 					"Type" "Splitter", 					"Orientation" "Orient_Horizontal", 					"Nodes" [ 						( 							"SizeCoefficient" 0.17904588580131531, 							"Type" "Splitter", 							"Orientation" "Orient_Vertical", 							"Nodes" [ 								( 									"SizeCoefficient" 0.53859341144561768, 									"Type" "Stack", 									"HideTabWell" false, 									"ForegroundTab" "MyBlueprint", 									"Tabs" [ 										( 											"TabId" "MyBlueprint", 											"TabState" "OpenedTab" 										) 									] 								), 								( 									"SizeCoefficient" 0.46140575408935547, 									"Type" "Stack", 									"HideTabWell" false, 									"ForegroundTab" "Inspector", 									"Tabs" [ 										( 											"TabId" "Inspector", 											"TabState" "OpenedTab" 										) 									] 								) 							] 						), 						( 							"SizeCoefficient" 0.67095518112182617, 							"Type" "Splitter", 							"Orientation" "Orient_Vertical", 							"Nodes" [ 								( 									"SizeCoefficient" 0.80000001192092896, 									"Type" "Stack", 									"HideTabWell" false, 									"ForegroundTab" "Document  12", 									"Tabs" [ 										( 											"TabId" "Document", 											"TabState" "ClosedTab" 										) 									] 								), 								( 									"SizeCoefficient" 0.20000000298023224, 									"Type" "Stack", 									"HideTabWell" false, 									"ForegroundTab" "CompilerResults", 									"Tabs" [ 										( 											"TabId" "CompilerResults", 											"TabState" "OpenedTab" 										), 										( 											"TabId" "FindResults", 											"TabState" "OpenedTab" 										) 									] 								) 							] 						), 						( 							"SizeCoefficient" 0.15000000596046448, 							"Type" "Stack", 							"HideTabWell" false, 							"ForegroundTab" "None", 							"Tabs" [ 								( 									"TabId" "PaletteList", 									"TabState" "ClosedTab" 								) 							] 						) 					] 				) 			] 		) 	] )
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:bExpandCustomClassPickerClassList:0=True
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCategories:0=(Name="Matinee")
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCategories:1=(Name="CurveEditor")
